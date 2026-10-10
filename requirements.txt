@@ -1,0 +1,10 @@
+antropy==0.2.2
+nolds==0.6.3
+pandas==2.3.3
+numpy==2.4.6
+scipy==1.18.1
+matplotlib==3.10.8
+seaborn==0.13.2
+requests==2.34.2
+scikit-learn==1.9.1
+numba==0.68.0

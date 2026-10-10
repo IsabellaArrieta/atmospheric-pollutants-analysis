@@ -1,0 +1,15 @@
+# Datos pesados (descargar desde Drive, ver README)
+table_csv/*.csv
+*.zip
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
