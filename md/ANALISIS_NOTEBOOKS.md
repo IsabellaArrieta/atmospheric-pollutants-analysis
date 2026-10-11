@@ -226,12 +226,13 @@
 → Pendiente opcional: agrupar estaciones cercanas por clusters
 ```
 
-### **PASO 4: Análisis de Topología y Diferencias entre Series**
+### **PASO 4: Análisis de Topología y Diferencias entre Series** ✅ HECHO (2026-10-11, `comparative_topology.py`)
 ```
-→ Comparar formas de series entre zonas (Rural vs Urban vs Military)
-→ Análisis de cambios bruscos (skewness, kurtosis por zona)
-→ Matriz de distancias topológicas entre series
-→ Visualizar: dendrogramas, clusterings por complejidad
+→ Boxplots por zona (8 métricas, ya existían)
+→ Matriz de correlación Spearman: comparative_correlation_matrix.csv + heatmap
+→ Kruskal-Wallis por Land Use: comparative_kruskal_wallis.csv (las 8 métricas con p < 0.005)
+→ Dendrograma Ward por estación (1021 estaciones): comparative_dendrogram_by_station.png
+→ Clusters (k=3): comparative_clusters_by_station.csv
 ```
 
 ---
@@ -241,5 +242,7 @@
 - **`preprocessor_v2_copy.ipynb`** ✅ Carga y prepara datos correctamente
 - **`entropy.ipynb`** ✅ Calcula entropía (base reutilizada por el análisis de complejidad)
 - **`complexity-analysis.ipynb`** ✅ Complejidad estadística (SC Shannon), fractalidad (Higuchi + correlación), pivots/heatmaps, mapas geoespaciales y análisis topológico
-- **Reutilización:** Los tres notebooks duplican descarga/clasificación - considerar modularizar
+- **`comparative_topology.py`** ✅ HECHO (2026-10-11): correlación entre métricas, Kruskal-Wallis por Land Use, dendrograma + clusters por estación
+- **`utils_complexity.py`** ✅ HECHO (2026-10-11): funciones extraídas del notebook (`clean_series`, `safe_metric`, `statistical_complexity_mpr`, `calculate_metrics`)
+- **Reutilización:** `utils_complexity.py` elimina la duplicación descarga/clasificación entre notebooks — usarlo en nuevos análisis
 

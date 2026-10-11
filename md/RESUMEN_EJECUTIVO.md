@@ -182,12 +182,14 @@ Caracterizar fuentes de contaminación ambiental (EPA 2023-2025) mediante análi
 
 ## 🎯 CONCLUSIÓN
 
-### Estado: **4/4 marcadores implementados**
+### Estado: **7/7 pasos implementados (2026-10-11)**
 - ✅ Base de datos completamente limpia y validada
 - ✅ Estructura de datos lista para análisis avanzado
 - ✅ Sample Entropy calculada
 - ✅ Complejidad estadística (SC Shannon), dimensión fractal (Higuchi + correlación) y visualizaciones generadas en `outputs_complexity/`
+- ✅ Análisis comparativo topológico: las 8 métricas difieren por Land Use (Kruskal-Wallis p < 0.005), dendrograma Ward + clusters (k=3) para 1021 estaciones
+- ✅ Código modularizado en `utils_complexity.py`; rutas relativas (`outputs_complexity/`, `table_csv/`) verificadas — sin paths absolutos en guardados
 
 ### Próximo Paso Recomendado:
-**Crear `complexity-analysis.ipynb` e implementar antropy + métricas faltantes**
+**Redacción del paper con `comparative_kruskal_wallis.csv` + `comparative_correlation_matrix.csv` como evidencia estadística**
 

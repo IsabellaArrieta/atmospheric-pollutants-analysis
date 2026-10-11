@@ -7,6 +7,8 @@ Analysis of PM2.5 / PM10 / PM Coarse by Land Use × season: cleaning → entropy
 - `preprocessor_v2_copy.ipynb` — EPA download, Rural/Urban/Military classification, ≥75% filter, seasons, EDA.
 - `entropy.ipynb` — Sample Entropy per station (`nolds`, `emb_dim=2`).
 - `complexity-analysis.ipynb` — 8 metrics per station × pollutant × year × season, pivots, heatmaps, geo-scatters, topological boxplots.
+- `utils_complexity.py` — reusable metric functions (`calculate_metrics`, SC Shannon MPR, Higuchi, corr_dim).
+- `comparative_topology.py` — Spearman correlation matrix, Kruskal-Wallis by Land Use, Ward dendrogram + clusters (run: `python comparative_topology.py`).
 - `table_csv/` — local data (not in repo, see Data).
 - `outputs_complexity/` — generated pivots, heatmaps, geo maps, topology plots.
 - `md/` — working docs.

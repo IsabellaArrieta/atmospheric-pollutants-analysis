@@ -94,39 +94,33 @@ for year in [2023, 2024, 2025]:
 
 ## MÉTRICAS A CALCULAR (Punto 2-4 de las instrucciones)
 
-### 2. Geometría Topológica de Series
+### 2. Geometría Topológica de Series — ✅ HECHO (2026-10-11, `complexity-analysis.ipynb` + `comparative_topology.py`)
 **"Mirar geometría topológica para diferencias entre series"**
 
 Marcadores a calcular:
 - ✅ **Entropía** (ya existe: Sample Entropy)
-- ❌ **Forma** (no existe)
+- ✅ **Forma** (HECHO: `skewness`, `kurtosis` en `calculate_metrics()`; boxplots `topology_skewness/kurtosis_by_land_use.png`)
   - Skewness (asimetría)
   - Kurtosis (curtosis/pico)
   - Correlación con distribución normal
-  
-- ❌ **Complejidad Estadística** (no existe)
-  - Definición: Complejidad de Lempel-Ziv o Fisher Information
-  - Librerías: antropy.fisher_information_measure(), implementación personalizada
-  
-- ❌ **Fractalidad - Dimensión Fractal de Higuchi** (no existe)
-  - Mide auto-similaridad de la serie
-  - Biblioteca: antropy o implementación (antropy.higuchi_fractal_dimension())
-  - Rango típico: 1.0-2.0 (1=línea recta, 2=brownian motion)
 
-### 3. Usar nolds para Fractalidad - Dimensión de Correlación
+- ✅ **Complejidad Estadística** (HECHO: `statistical_complexity_mpr`, SC Shannon MPR en `utils_complexity.py`)
+
+- ✅ **Fractalidad - Dimensión Fractal de Higuchi** (HECHO: `antropy.higuchi_fd`, rango 1.0-2.0)
+
+### 3. Usar nolds para Fractalidad - Dimensión de Correlación — ✅ HECHO
 **"Ya lo usamos, usar también para fractalidad (correlation dimension)"**
 
 - ✅ nolds está importado
-- ❌ No se usa correlation dimension
-- Función: `nolds.corr_dim(serie, emb_dim, rvals=None)`
+- ✅ `nolds.corr_dim(serie, emb_dim=2)` en uso (`calculate_metrics()`, series con n ≥ 50)
   - Mide dimensión fractal
   - Diferente a Higuchi, basada en correlaciones espaciales
   - Útil para identificar caos en series
 
-### 4. Complejidad Estadística - Antropy
+### 4. Complejidad Estadística - Antropy — ✅ HECHO
 **"Podemos usar antropy como alternativa"**
 
-- ❌ antropy NO está instalado
+- ✅ antropy instalado (`requirements.txt`: `antropy==0.2.2`) y en uso: permutation_entropy, svd_entropy, higuchi_fd, hjorth_params
 - Funciones disponibles en antropy:
   - `permutation_entropy()` - Entropy de permutación
   - `svd_entropy()` - Entropy SVD
@@ -261,13 +255,14 @@ def calculate_statistical_complexity(time_series):
 
 ## NOTAS IMPORTANTES
 
-### Estado Actual:
+### Estado Actual (actualizado 2026-10-11 — todo HECHO):
 - ✅ Datos limpios y preprocesados
 - ✅ Sample Entropy calculada
 - ✅ Tablas de referencia (Land Use, Location Setting, Seasons)
-- ❌ Falta: Complejidad estadística
-- ❌ Falta: Dimensión fractal completa
-- ❌ Falta: Análisis topológico de diferencias
+- ✅ Complejidad estadística (`statistical_complexity_mpr`, SC Shannon MPR)
+- ✅ Dimensión fractal completa (Higuchi + correlación)
+- ✅ Análisis topológico de diferencias (boxplots + `comparative_topology.py`: correlación Spearman, Kruskal-Wallis, dendrograma Ward)
+- ✅ Código modularizado (`utils_complexity.py`)
 
 ### Dependencias a Instalar:
 ```
