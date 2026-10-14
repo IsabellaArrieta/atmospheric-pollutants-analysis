@@ -1,0 +1,241 @@
+site_id,State Code,State Name,Latitude,Longitude,Land Use,Location Setting,is_us,is_open
+01-073-1010,01,Alabama,33.545278,-86.549167,Residential,Suburban,True,True
+01-089-0014,01,Alabama,34.68547,-86.58816,Commercial,Urban and center city,True,True
+02-020-0018,02,Alaska,61.205861,-149.824602,Residential,Suburban,True,True
+02-090-0034,02,Alaska,64.84569,-147.727413,Commercial,Urban and center city,True,True
+04-012-8000,04,Arizona,34.2439,-113.5586,Desert,Rural,True,True
+04-013-0019,04,Arizona,33.48378,-112.14256,Residential,Suburban,True,True
+04-013-1003,04,Arizona,33.41018,-111.86536,Commercial,Suburban,True,True
+04-013-1004,04,Arizona,33.56031,-112.06619,Residential,Suburban,True,True
+04-013-2001,04,Arizona,33.57453,-112.19193,Residential,Rural,True,True
+04-013-4003,04,Arizona,33.40314,-112.07526,Residential,Urban and center city,True,True
+04-013-4005,04,Arizona,33.41123,-111.93471,Residential,Urban and center city,True,True
+04-013-9812,04,Arizona,33.4265,-112.11821,Commercial,Urban and center city,True,True
+04-013-9997,04,Arizona,33.503833,-112.095767,Residential,Urban and center city,True,True
+04-019-0011,04,Arizona,32.322661,-111.038389,Residential,Suburban,True,True
+04-021-0001,04,Arizona,32.877583,-111.752222,Commercial,Urban and center city,True,True
+04-021-3002,04,Arizona,33.421194,-111.503222,Residential,Suburban,True,True
+04-021-3015,04,Arizona,32.884761,-112.03705,Agricultural,Rural,True,True
+04-023-0004,04,Arizona,31.337204,-110.936718,Commercial,Urban and center city,True,True
+04-027-8011,04,Arizona,32.690278,-114.61444,Commercial,Urban and center city,True,True
+06-007-0008,06,California,39.76168,-121.84047,Commercial,Suburban,True,True
+06-009-0001,06,California,38.20185,-120.680277,Agricultural,Rural,True,True
+06-011-1002,06,California,39.18919,-121.99887,Commercial,Rural,True,True
+06-019-0011,06,California,36.78538,-119.77321,Commercial,Urban and center city,True,True
+06-019-0500,06,California,36.985119,-119.658339,Agricultural,Rural,True,True
+06-019-5001,06,California,36.819449,-119.716433,Residential,Urban and center city,True,True
+06-025-0005,06,California,32.67618,-115.48307,Residential,Suburban,True,True
+06-025-0007,06,California,32.97833,-115.53917,Commercial,Urban and center city,True,True
+06-025-1003,06,California,32.79222,-115.56306,Commercial,Urban and center city,True,True
+06-027-0002,06,California,37.360684,-118.330783,Agricultural,Rural,True,True
+06-027-1003,06,California,36.487823,-117.871036,Residential,Rural,True,True
+06-029-0010,06,California,35.385574,-119.015009,Commercial,Urban and center city,True,True
+06-029-0018,06,California,35.642943,-117.715066,Desert,Urban and center city,True,True
+06-029-0020,06,California,35.04944,-118.18893,Residential,Suburban,True,True
+06-031-0004,06,California,36.102244,-119.56565,Residential,Suburban,True,True
+06-031-1004,06,California,36.31567,-119.643447,Residential,Suburban,True,True
+06-037-1103,06,California,34.06659,-118.22688,Residential,Urban and center city,True,True
+06-037-4009,06,California,33.793713,-118.171019,Commercial,Urban and center city,True,True
+06-037-9035,06,California,34.725389,-118.178601,Commercial,Urban and center city,True,True
+06-039-2010,06,California,36.953256,-120.034203,Commercial,Suburban,True,True
+06-047-2510,06,California,37.30832,-120.480456,Commercial,Urban and center city,True,True
+06-053-0008,06,California,36.209286,-121.126371,Residential,Urban and center city,True,True
+06-059-0007,06,California,33.83062,-117.93845,Residential,Suburban,True,True
+06-065-8001,06,California,33.99958,-117.41601,Residential,Suburban,True,True
+06-065-8005,06,California,33.99636,-117.4924,Residential,Suburban,True,True
+06-067-0010,06,California,38.56844,-121.49311,Residential,Urban and center city,True,True
+06-069-0002,06,California,36.843425,-121.3621,Residential,Rural,True,True
+06-071-0306,06,California,34.510961,-117.32554,Commercial,Suburban,True,True
+06-073-1006,06,California,32.842318,-116.768293,Residential,Suburban,True,True
+06-073-1008,06,California,33.217046,-117.396249,Military reservation,Suburban,True,True
+06-073-1014,06,California,32.578165,-116.921374,Commercial,Rural,True,True
+06-073-1016,06,California,32.845709,-117.123964,Military reservation,Suburban,True,True
+06-073-1017,06,California,32.985428,-117.082198,Commercial,Suburban,True,True
+06-073-1022,06,California,32.789565,-116.944308,Commercial,Suburban,True,True
+06-073-1026,06,California,32.710177,-117.142665,Commercial,Urban and center city,True,True
+06-077-1003,06,California,37.961578,-121.281414,Residential,Urban and center city,True,True
+06-077-2010,06,California,37.793392,-121.247874,Residential,Suburban,True,True
+06-079-2004,06,California,35.02083,-120.56388,Industrial,Rural,True,True
+06-079-2007,06,California,35.04673,-120.58777,Industrial,Rural,True,True
+06-079-2020,06,California,35.259502,-120.64472,Commercial,Urban and center city,True,True
+06-079-8002,06,California,35.49453,-120.66617,Commercial,Suburban,True,True
+06-083-0011,06,California,34.427775,-119.691218,Residential,Urban and center city,True,True
+06-083-1009,06,California,34.890667,-120.432844,Residential,Suburban,True,True
+06-083-2004,06,California,34.63782,-120.4575,Commercial,Urban and center city,True,True
+06-083-2011,06,California,34.44551,-119.8284,Residential,Suburban,True,True
+06-099-0005,06,California,37.642165,-120.994212,Commercial,Urban and center city,True,True
+06-099-0006,06,California,37.488317,-120.836008,Residential,Suburban,True,True
+06-101-0003,06,California,39.138773,-121.618549,Commercial,Suburban,True,True
+06-103-0007,06,California,40.17093,-122.25556,Residential,Suburban,True,True
+06-107-2003,06,California,36.30815,-119.3129,Commercial,Urban and center city,True,True
+06-111-2002,06,California,34.276316,-118.683685,Residential,Suburban,True,True
+06-111-3001,06,California,34.25239,-119.143182,Residential,Rural,True,True
+08-001-0010,08,Colorado,39.8281,-104.93647,Residential,Suburban,True,True
+08-013-1001,08,Colorado,40.012969,-105.267212,Residential,Urban and center city,True,True
+08-101-0015,08,Colorado,38.276099,-104.597613,Residential,Urban and center city,True,True
+09-001-0010,09,Connecticut,41.170833,-73.194722,Residential,Urban and center city,True,True
+09-003-0025,09,Connecticut,41.771444,-72.679923,Commercial,Urban and center city,True,True
+09-003-1003,09,Connecticut,41.784722,-72.631667,Residential,Suburban,True,True
+11-001-0043,11,District Of Columbia,38.921847,-77.013178,Commercial,Urban and center city,True,True
+12-009-0007,12,Florida,28.053611,-80.628611,Residential,Urban and center city,True,True
+12-011-0034,12,Florida,26.053889,-80.256944,Residential,Suburban,True,True
+12-011-5005,12,Florida,26.294167,-80.176389,Residential,Suburban,True,True
+12-031-0098,12,Florida,30.135797,-81.633981,Commercial,Suburban,True,True
+12-033-0004,12,Florida,30.525367,-87.20355,Industrial,Suburban,True,True
+12-085-0007,12,Florida,27.172458,-80.240689,Commercial,Urban and center city,True,True
+12-086-1016,12,Florida,25.794222,-80.215556,Commercial,Urban and center city,True,True
+12-095-2002,12,Florida,28.595026,-81.363414,Commercial,Urban and center city,True,True
+12-099-2005,12,Florida,26.457068,-80.092872,Commercial,Urban and center city,True,True
+12-103-0018,12,Florida,27.791304,-82.739593,Residential,Suburban,True,True
+12-117-1002,12,Florida,28.746111,-81.310556,Residential,Suburban,True,True
+12-127-5002,12,Florida,29.206667,-81.0525,Commercial,Suburban,True,True
+13-089-0002,13,Georgia,33.6878,-84.2905,Residential,Suburban,True,True
+13-245-0091,13,Georgia,33.4339,-82.0224,Residential,Suburban,True,True
+15-003-0010,15,Hawaii,21.323745,-158.088613,Commercial,Suburban,True,True
+15-003-1001,15,Hawaii,21.30758,-157.85542,Commercial,Urban and center city,True,True
+16-027-0010,16,Idaho,43.59946,-116.52924,Commercial,Rural,True,True
+16-079-0017,16,Idaho,47.536389,-116.236667,Residential,Urban and center city,True,True
+18-037-2001,18,Indiana,38.391799,-86.929668,Commercial,Urban and center city,True,True
+18-089-0022,18,Indiana,41.606662,-87.304943,Industrial,Urban and center city,True,True
+18-097-0078,18,Indiana,39.810833,-86.114444,Residential,Suburban,True,True
+18-163-0021,18,Indiana,38.013333,-87.577222,Commercial,Suburban,True,True
+20-091-0010,20,Kansas,38.838575,-94.746424,Commercial,Suburban,True,True
+20-133-0003,20,Kansas,37.67696,-95.47594,Residential,Suburban,True,True
+20-177-0013,20,Kansas,39.024265,-95.711275,Residential,Urban and center city,True,True
+20-191-0002,20,Kansas,37.47689,-97.366399,Residential,Rural,True,True
+20-195-0001,20,Kansas,38.770081,-99.763424,Agricultural,Rural,True,True
+20-209-0021,20,Kansas,39.117219,-94.635605,Residential,Urban and center city,True,True
+21-111-0067,21,Kentucky,38.22876,-85.65452,Residential,Suburban,True,True
+21-111-1041,21,Kentucky,38.23158,-85.82678,Industrial,Suburban,True,True
+22-019-0008,22,Louisiana,30.262347,-93.284906,Industrial,Rural,True,True
+22-033-0009,22,Louisiana,30.461981,-91.179219,Commercial,Urban and center city,True,True
+22-087-0007,22,Louisiana,29.943164,-89.97625,Residential,Suburban,True,True
+23-003-0014,23,Maine,47.355332,-68.321106,Commercial,Urban and center city,True,True
+23-003-1011,23,Maine,46.682299,-68.016195,Commercial,Urban and center city,True,True
+23-009-0103,23,Maine,44.37705,-68.2609,Agricultural,Rural,True,True
+23-011-0016,23,Maine,44.312319,-69.786717,Residential,Suburban,True,True
+25-015-4002,25,Massachusetts,42.298493,-72.334079,Forest,Rural,True,True
+25-025-0042,25,Massachusetts,42.3295,-71.0826,Commercial,Urban and center city,True,True
+25-027-0023,25,Massachusetts,42.263955,-71.794322,Commercial,Urban and center city,True,True
+26-081-0020,26,Michigan,42.984173,-85.671339,Industrial,Urban and center city,True,True
+26-139-0005,26,Michigan,42.894444,-85.852778,Residential,Suburban,True,True
+26-163-0001,26,Michigan,42.228611,-83.208333,Commercial,Suburban,True,True
+26-163-0033,26,Michigan,42.306666,-83.148889,Industrial,Suburban,True,True
+27-003-1002,27,Minnesota,45.13768,-93.207615,Commercial,Suburban,True,True
+28-049-0020,28,Mississippi,32.329111,-90.182722,Commercial,Urban and center city,True,True
+29-021-0005,29,Missouri,39.741694,-94.858584,Industrial,Urban and center city,True,True
+29-077-0036,29,Missouri,37.256137,-93.299894,Residential,Suburban,True,True
+29-095-0034,29,Missouri,39.104686,-94.57079,Commercial,Urban and center city,True,True
+29-099-0019,29,Missouri,38.44853,-90.3986,Residential,Suburban,True,True
+29-510-0085,29,Missouri,38.656429,-90.198348,Residential,Urban and center city,True,True
+29-510-0093,29,Missouri,38.656479,-90.189868,Industrial,Urban and center city,True,True
+30-027-0006,30,Montana,47.048537,-109.455315,Commercial,Rural,True,True
+30-029-0049,30,Montana,48.363694,-114.189272,Residential,Suburban,True,True
+30-053-0018,30,Montana,48.391545,-115.553309,Commercial,Urban and center city,True,True
+30-063-0024,30,Montana,46.842181,-114.021499,Residential,Suburban,True,True
+30-083-0002,30,Montana,47.8679,-104.676944,Agricultural,Rural,True,False
+30-093-0005,30,Montana,46.002602,-112.501247,Residential,Urban and center city,True,True
+31-055-0019,31,Nebraska,41.247486,-95.973142,Residential,Suburban,True,True
+32-003-0024,32,Nevada,36.815897,-114.050347,Residential,Suburban,True,True
+32-003-0043,32,Nevada,36.106389,-115.253333,Residential,Suburban,True,True
+32-003-0044,32,Nevada,36.004733,-115.268517,Residential,Suburban,True,True
+32-003-0071,32,Nevada,36.16976,-115.263038,Residential,Suburban,True,True
+32-003-0073,32,Nevada,36.173415,-115.332728,Residential,Suburban,True,True
+32-003-0075,32,Nevada,36.270592,-115.238282,Residential,Urban and center city,True,True
+32-003-0298,32,Nevada,36.048705,-115.052942,Residential,Suburban,True,True
+32-003-0299,32,Nevada,35.987908,-115.148885,Residential,Suburban,True,True
+32-003-0540,32,Nevada,36.141875,-115.078742,Residential,Urban and center city,True,True
+32-003-0561,32,Nevada,36.163962,-115.11393,Residential,Urban and center city,True,True
+32-003-0602,32,Nevada,35.969848,-114.835007,Residential,Suburban,True,True
+32-003-1019,32,Nevada,35.785665,-115.357087,Desert,Rural,True,True
+32-003-2003,32,Nevada,36.214465,-115.091437,Residential,Suburban,True,True
+32-031-0031,32,Nevada,39.521933,-119.7954,Residential,Urban and center city,True,True
+32-031-1005,32,Nevada,39.540917,-119.746761,Residential,Suburban,True,True
+32-031-1007,32,Nevada,39.621434,-119.71877,Residential,Suburban,True,True
+33-015-0014,33,New Hampshire,43.075371,-70.748017,Residential,Urban and center city,True,True
+33-015-0018,33,New Hampshire,42.862531,-71.38014,Residential,Suburban,True,True
+35-001-0023,35,New Mexico,35.1343,-106.5852,Residential,Urban and center city,True,True
+35-001-0026,35,New Mexico,35.1443,-106.60468,Commercial,Suburban,True,True
+35-001-0029,35,New Mexico,35.01708,-106.65739,Commercial,Rural,True,True
+35-001-1012,35,New Mexico,35.1852,-106.50815,Residential,Suburban,True,True
+35-001-1013,35,New Mexico,35.19324,-106.613815,Residential,Suburban,True,True
+35-001-2022,35,New Mexico,35.063569,-106.647503,Residential,Urban and center city,True,True
+35-013-0016,35,New Mexico,32.003712,-106.599715,Agricultural,Rural,True,True
+35-013-0021,35,New Mexico,31.796218,-106.584434,Residential,Suburban,True,True
+37-021-0034,37,North Carolina,35.6062,-82.5844,Commercial,Suburban,True,True
+37-051-0009,37,North Carolina,35.041416,-78.953112,Residential,Urban and center city,True,True
+37-063-0015,37,North Carolina,36.032955,-78.904037,Commercial,Suburban,True,True
+37-067-0022,37,North Carolina,36.11094,-80.224501,Residential,Urban and center city,True,True
+37-081-0013,37,North Carolina,36.109006,-79.802314,Residential,Urban and center city,True,True
+37-119-0041,37,North Carolina,35.2401,-80.785683,Residential,Urban and center city,True,True
+37-129-0002,37,North Carolina,34.364167,-77.838611,Agricultural,Rural,True,True
+37-183-0014,37,North Carolina,35.856111,-78.574167,Residential,Suburban,True,True
+38-013-0004,38,North Dakota,48.64193,-102.4018,Agricultural,Rural,True,True
+38-015-0003,38,North Dakota,46.825425,-100.76821,Residential,Suburban,True,True
+38-025-0004,38,North Dakota,47.342423,-102.645864,Agricultural,Rural,True,True
+39-017-0015,39,Ohio,39.49072,-84.36374,Industrial,Suburban,True,True
+39-017-0019,39,Ohio,39.479822,-84.409617,Residential,Suburban,True,True
+39-017-0020,39,Ohio,39.472436,-84.394952,Industrial,Suburban,True,True
+39-035-0038,39,Ohio,41.477011,-81.682383,Residential,Urban and center city,True,True
+39-035-0045,39,Ohio,41.471782,-81.656792,Residential,Urban and center city,True,True
+39-035-0060,39,Ohio,41.492117,-81.678449,Commercial,Urban and center city,True,True
+39-035-0065,39,Ohio,41.446624,-81.662356,Industrial,Urban and center city,True,True
+39-049-0040,39,Ohio,39.91251,-83.01159,Industrial,Urban and center city,True,False
+39-049-0081,39,Ohio,40.0877,-82.959773,Commercial,Suburban,True,True
+39-061-0040,39,Ohio,39.12886,-84.50404,Commercial,Urban and center city,True,True
+39-081-0017,39,Ohio,40.3663,-80.6158,Residential,Urban and center city,True,True
+39-099-0015,39,Ohio,41.106182,-80.640576,Commercial,Urban and center city,True,True
+39-113-0038,39,Ohio,39.755969,-84.198674,Commercial,Urban and center city,True,True
+39-135-1001,39,Ohio,39.83562,-84.720524,Agricultural,Rural,True,True
+39-145-0015,39,Ohio,38.59246,-82.80677,Commercial,Rural,True,True
+39-151-0017,39,Ohio,40.786804,-81.394153,Industrial,Urban and center city,True,True
+39-153-0017,39,Ohio,41.063526,-81.468956,Industrial,Suburban,True,True
+39-155-0014,39,Ohio,41.23172,-80.80116,Residential,Urban and center city,True,True
+40-001-9009,40,Oklahoma,35.750735,-94.669697,Agricultural,Rural,True,True
+40-109-1037,40,Oklahoma,35.614131,-97.475083,Residential,Suburban,True,True
+40-115-9004,40,Oklahoma,36.922222,-94.838889,Residential,Rural,True,True
+40-115-9007,40,Oklahoma,36.985702,-94.83931,Residential,Rural,True,True
+40-143-1127,40,Oklahoma,36.204902,-95.976537,Residential,Urban and center city,True,True
+41-039-2013,41,Oregon,43.744352,-122.480487,Residential,Rural,True,True
+42-003-0008,42,Pennsylvania,40.46542,-79.960757,Residential,Suburban,True,True
+42-003-0064,42,Pennsylvania,40.323768,-79.868062,Residential,Suburban,True,True
+42-003-1301,42,Pennsylvania,40.402328,-79.860973,Residential,Suburban,True,True
+42-021-0011,42,Pennsylvania,40.309722,-78.915,Commercial,Urban and center city,True,True
+42-043-1100,42,Pennsylvania,40.272222,-76.681389,Commercial,Urban and center city,True,True
+42-101-0048,42,Pennsylvania,39.991389,-75.080833,Residential,Urban and center city,True,True
+45-019-0020,45,South Carolina,32.84755,-79.96516,Residential,Urban and center city,True,True
+45-045-0015,45,South Carolina,34.843895,-82.414585,Residential,Urban and center city,True,True
+45-079-0007,45,South Carolina,34.093959,-80.962304,Commercial,Suburban,True,True
+46-011-0003,46,South Dakota,44.348604,-96.807299,Agricultural,Rural,True,True
+46-013-0004,46,South Dakota,45.468596,-98.494061,Commercial,Urban and center city,True,True
+46-029-0002,46,South Dakota,44.89965,-97.128802,Commercial,Urban and center city,True,True
+46-033-0132,46,South Dakota,43.55764,-103.48386,Forest,Rural,True,True
+46-071-0001,46,South Dakota,43.74561,-101.941218,Agricultural,Rural,True,True
+46-099-0009,46,South Dakota,43.59901,-96.78331,Commercial,Urban and center city,True,True
+46-103-0020,46,South Dakota,44.087397,-103.273777,Commercial,Urban and center city,True,True
+47-037-0023,47,Tennessee,36.176382,-86.7389,Industrial,Urban and center city,True,True
+47-157-0075,47,Tennessee,35.151699,-89.850249,Residential,Suburban,True,True
+48-201-1039,48,Texas,29.670552,-95.129933,Residential,Urban and center city,True,True
+49-013-0002,49,Utah,40.294178,-110.009732,Residential,Suburban,True,True
+49-035-3006,49,Utah,40.736389,-111.872222,Residential,Suburban,True,True
+49-035-3013,49,Utah,40.496392,-112.036298,Residential,Suburban,True,True
+49-035-3015,49,Utah,40.777145,-111.945849,Residential,Urban and center city,True,True
+49-049-4001,49,Utah,40.341389,-111.713611,Residential,Suburban,True,True
+49-057-1003,49,Utah,41.303614,-111.987871,Residential,Rural,True,True
+51-059-0030,51,Virginia,38.77335,-77.10468,Residential,Suburban,True,True
+51-069-0010,51,Virginia,39.28102,-78.08157,Agricultural,Rural,True,True
+51-087-0014,51,Virginia,37.55652,-77.40027,Residential,Suburban,True,True
+51-650-0008,51,Virginia,37.103733,-76.387017,Military reservation,Suburban,True,True
+51-810-0008,51,Virginia,36.841883,-76.181233,Commercial,Suburban,True,True
+53-063-0017,53,Washington,47.663962,-117.257654,Residential,Suburban,True,True
+53-065-0005,53,Washington,48.544448,-117.903425,Residential,Urban and center city,True,True
+53-077-0009,53,Washington,46.594952,-120.512283,Commercial,Urban and center city,True,True
+55-025-0047,55,Wisconsin,43.0733,-89.4358,Residential,Urban and center city,True,True
+55-027-0001,55,Wisconsin,43.46611,-88.62111,Agricultural,Rural,True,True
+55-035-0014,55,Wisconsin,44.76249,-91.41445,Industrial,Suburban,True,True
+55-111-0007,55,Wisconsin,43.4351,-89.67979,Forest,Rural,True,True
+55-133-0027,55,Wisconsin,43.020075,-88.21507,Residential,Urban and center city,True,True
+56-013-0232,56,Wyoming,43.081667,-107.549444,Industrial,Rural,True,True
+56-021-0100,56,Wyoming,41.182227,-104.778334,Residential,Suburban,True,True
+56-033-0002,56,Wyoming,44.815142,-106.955933,Commercial,Urban and center city,True,True
+56-039-1006,56,Wyoming,43.45776,-110.79799,Commercial,Suburban,True,True

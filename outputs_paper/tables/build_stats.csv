@@ -1,0 +1,5 @@
+parameter,raw_rows,rows_after_qc,site_poc_days,site_days,sites,sites_with_multiple_poc,max_records_per_site_day_raw
+PM2.5 FRM/FEM,2346920,2332077,1257408,952892,1100,644,10
+PM2.5 non-FRM/FEM,490539,486766,269123,259151,419,22,5
+PM10,559807,559713,559713,527478,677,146,3
+PMc,174938,173401,173401,161584,286,36,4

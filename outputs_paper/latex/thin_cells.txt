@@ -1,0 +1,19 @@
+                Land Use       Location Setting  Season     n  n_st  FDI_mean  FDI_lo  FDI_hi    IFS
+17                Desert                  Rural  Spring   526     2     0.093   0.089   0.096 -5.653
+20                Desert  Urban and center city  Autumn   234     1     0.099     NaN     NaN -5.353
+18                Desert                  Rural  Summer   527     2     0.097   0.093   0.101 -5.194
+16                Desert                  Rural  Autumn   542     2     0.112   0.096   0.128 -3.991
+19                Desert                  Rural  Winter   507     2     0.126   0.123   0.129 -3.579
+23                Desert  Urban and center city  Winter   200     1     0.134     NaN     NaN -3.440
+21                Desert  Urban and center city  Spring   253     1     0.154     NaN     NaN -3.195
+22                Desert  Urban and center city  Summer   269     1     0.140     NaN     NaN -3.144
+5             Commercial                  Rural  Spring  1486     6     0.211   0.122   0.310 -0.978
+6             Commercial                  Rural  Summer  1571     6     0.211   0.128   0.294 -0.874
+31            Industrial                  Rural  Winter   935     4     0.233   0.163   0.343 -0.559
+7             Commercial                  Rural  Winter  1296     6     0.325   0.202   0.454  2.012
+43  Military reservation               Suburban  Winter   711     3     0.348   0.247   0.507  2.023
+25                Forest                  Rural  Spring   635     3     0.406   0.371   0.557  2.549
+3           Agricultural                  Rural  Winter  3687    17     0.398   0.313   0.476  3.053
+27                Forest                  Rural  Winter   529     3     0.524   0.393   0.544  3.107
+24                Forest                  Rural  Autumn   665     3     0.373   0.303   0.495  3.142
+26                Forest                  Rural  Summer   725     3     0.429   0.354   0.600  4.840

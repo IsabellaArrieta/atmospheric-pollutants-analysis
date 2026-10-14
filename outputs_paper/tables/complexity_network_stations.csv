@@ -1,0 +1,1434 @@
+site_id,parameter,State Code,State Name,Latitude,Longitude,Land Use,Location Setting,is_us,is_open
+01-003-0010,PM2.5 FRM/FEM,01,Alabama,30.497478,-87.880258,Commercial,Suburban,True,True
+01-027-0001,PM2.5 FRM/FEM,01,Alabama,33.284928,-85.803608,Residential,Rural,True,True
+01-049-1003,PM2.5 FRM/FEM,01,Alabama,34.288567,-85.969858,Agricultural,Rural,True,True
+01-055-0010,PM2.5 FRM/FEM,01,Alabama,33.98821,-85.992556,Commercial,Urban and center city,True,True
+01-073-0023,PM10,01,Alabama,33.553056,-86.815,Commercial,Urban and center city,True,True
+01-073-1010,PM10,01,Alabama,33.545278,-86.549167,Residential,Suburban,True,True
+01-073-1010,PM2.5 FRM/FEM,01,Alabama,33.545278,-86.549167,Residential,Suburban,True,True
+01-073-2003,PM10,01,Alabama,33.499722,-86.924167,Residential,Suburban,True,True
+01-073-6002,PM10,01,Alabama,33.578333,-86.773889,Residential,Suburban,True,True
+01-089-0014,PM10,01,Alabama,34.68547,-86.58816,Commercial,Urban and center city,True,True
+01-089-0014,PM2.5 FRM/FEM,01,Alabama,34.68547,-86.58816,Commercial,Urban and center city,True,True
+01-097-0003,PM2.5 FRM/FEM,01,Alabama,30.770181,-88.087761,Commercial,Suburban,True,True
+01-101-1002,PM2.5 FRM/FEM,01,Alabama,32.412811,-86.263394,Commercial,Suburban,True,True
+01-103-0011,PM2.5 FRM/FEM,01,Alabama,34.530717,-86.967536,Commercial,Suburban,True,True
+01-119-0003,PM2.5 FRM/FEM,01,Alabama,32.362606,-88.277992,Agricultural,Rural,True,True
+01-125-0011,PM2.5 FRM/FEM,01,Alabama,33.095379,-87.481507,Commercial,Suburban,True,True
+02-020-0018,PM10,02,Alaska,61.205861,-149.824602,Residential,Suburban,True,True
+02-020-0018,PM2.5 FRM/FEM,02,Alaska,61.205861,-149.824602,Residential,Suburban,True,True
+02-020-0045,PM10,02,Alaska,61.181117,-149.834003,Commercial,Urban and center city,True,True
+02-020-1004,PM10,02,Alaska,61.3267,-149.569707,Commercial,Suburban,True,True
+02-090-0034,PM10,02,Alaska,64.84569,-147.727413,Commercial,Urban and center city,True,True
+02-090-0034,PM2.5 FRM/FEM,02,Alaska,64.84569,-147.727413,Commercial,Urban and center city,True,True
+02-090-0035,PM2.5 FRM/FEM,02,Alaska,64.762641,-147.310279,Residential,Suburban,True,True
+02-090-0040,PM2.5 FRM/FEM,02,Alaska,64.84593,-147.69327,Residential,Suburban,True,True
+02-110-0004,PM10,02,Alaska,58.388497,-134.567237,Residential,Suburban,True,True
+04-001-1003,PM10,04,Arizona,34.07339,-109.85801,Residential,Rural,True,True
+04-003-0011,PM10,04,Arizona,31.3658,-109.73095,Industrial,Rural,True,True
+04-003-1005,PM10,04,Arizona,31.3492,-109.539683,Residential,Urban and center city,True,True
+04-007-0008,PM10,04,Arizona,34.229733,-111.3295,Commercial,Urban and center city,True,True
+04-007-1001,PM10,04,Arizona,33.006179,-110.785797,Industrial,Urban and center city,True,True
+04-007-8000,PM10,04,Arizona,33.419017,-110.82967,Residential,Rural,True,True
+04-012-8000,PM10,04,Arizona,34.2439,-113.5586,Desert,Rural,True,True
+04-012-8000,PM2.5 FRM/FEM,04,Arizona,34.2439,-113.5586,Desert,Rural,True,True
+04-013-0019,PM10,04,Arizona,33.48378,-112.14256,Residential,Suburban,True,True
+04-013-0019,PM2.5 FRM/FEM,04,Arizona,33.48378,-112.14256,Residential,Suburban,True,True
+04-013-0019,PMc,04,Arizona,33.48378,-112.14256,Residential,Suburban,True,True
+04-013-1003,PM10,04,Arizona,33.41018,-111.86536,Commercial,Suburban,True,True
+04-013-1003,PM2.5 FRM/FEM,04,Arizona,33.41018,-111.86536,Commercial,Suburban,True,True
+04-013-1003,PMc,04,Arizona,33.41018,-111.86536,Commercial,Suburban,True,True
+04-013-1004,PM10,04,Arizona,33.56031,-112.06619,Residential,Suburban,True,True
+04-013-1004,PM2.5 FRM/FEM,04,Arizona,33.56031,-112.06619,Residential,Suburban,True,True
+04-013-1004,PMc,04,Arizona,33.56031,-112.06619,Residential,Suburban,True,True
+04-013-2001,PM10,04,Arizona,33.57453,-112.19193,Residential,Rural,True,True
+04-013-2001,PM2.5 FRM/FEM,04,Arizona,33.57453,-112.19193,Residential,Rural,True,True
+04-013-2001,PMc,04,Arizona,33.57453,-112.19193,Residential,Rural,True,True
+04-013-3002,PM10,04,Arizona,33.45797,-112.04659,Residential,Urban and center city,True,True
+04-013-3003,PM10,04,Arizona,33.47968,-111.91721,Residential,Suburban,True,True
+04-013-4003,PM10,04,Arizona,33.40314,-112.07526,Residential,Urban and center city,True,True
+04-013-4003,PM2.5 FRM/FEM,04,Arizona,33.40314,-112.07526,Residential,Urban and center city,True,True
+04-013-4003,PMc,04,Arizona,33.40314,-112.07526,Residential,Urban and center city,True,True
+04-013-4004,PM10,04,Arizona,33.29896,-111.88426,Residential,Suburban,True,True
+04-013-4005,PM10,04,Arizona,33.41123,-111.93471,Residential,Urban and center city,True,True
+04-013-4005,PM2.5 FRM/FEM,04,Arizona,33.41123,-111.93471,Residential,Urban and center city,True,True
+04-013-4005,PMc,04,Arizona,33.41123,-111.93471,Residential,Urban and center city,True,True
+04-013-4006,PM10,04,Arizona,33.30995,-111.72003,Industrial,Suburban,True,True
+04-013-4009,PM10,04,Arizona,33.40635,-112.14426,Industrial,Urban and center city,True,True
+04-013-4010,PM10,04,Arizona,33.63718,-112.34185,Commercial,Suburban,True,True
+04-013-4011,PM10,04,Arizona,33.36985,-112.62068,Agricultural,Rural,True,True
+04-013-4016,PM10,04,Arizona,33.68719,-112.29416,Residential,Suburban,True,True
+04-013-4021,PM2.5 FRM/FEM,04,Arizona,33.41046,-112.00264,Commercial,Urban and center city,True,True
+04-013-5100,PM10,04,Arizona,33.629246,-111.676928,Agricultural,Suburban,True,True
+04-013-7003,PM10,04,Arizona,33.290229,-112.160597,Residential,Rural,True,True
+04-013-7020,PM10,04,Arizona,33.488131,-111.855443,Residential,Rural,True,True
+04-013-7022,PM10,04,Arizona,33.474609,-111.805769,Residential,Rural,True,True
+04-013-7024,PM10,04,Arizona,33.508125,-111.83852,Residential,Rural,True,True
+04-013-9812,PM10,04,Arizona,33.4265,-112.11821,Commercial,Urban and center city,True,True
+04-013-9812,PM2.5 FRM/FEM,04,Arizona,33.4265,-112.11821,Commercial,Urban and center city,True,True
+04-013-9812,PMc,04,Arizona,33.4265,-112.11821,Commercial,Urban and center city,True,True
+04-013-9997,PM10,04,Arizona,33.503833,-112.095767,Residential,Urban and center city,True,True
+04-013-9997,PM2.5 FRM/FEM,04,Arizona,33.503833,-112.095767,Residential,Urban and center city,True,True
+04-013-9997,PMc,04,Arizona,33.503833,-112.095767,Residential,Urban and center city,True,True
+04-015-1003,PM10,04,Arizona,35.153888,-114.566111,Commercial,Urban and center city,True,True
+04-017-1002,PM10,04,Arizona,33.85815,-109.97029,Residential,Rural,True,True
+04-019-0001,PM10,04,Arizona,32.382036,-112.857453,Industrial,Suburban,True,True
+04-019-0011,PM10,04,Arizona,32.322661,-111.038389,Residential,Suburban,True,True
+04-019-0011,PM2.5 FRM/FEM,04,Arizona,32.322661,-111.038389,Residential,Suburban,True,True
+04-019-0020,PM10,04,Arizona,32.414344,-111.154544,Industrial,Rural,True,True
+04-019-1001,PM10,04,Arizona,32.201978,-110.967905,Residential,Urban and center city,True,True
+04-019-1018,PM10,04,Arizona,32.425261,-111.06352,Desert,Rural,True,True
+04-019-1028,PM2.5 FRM/FEM,04,Arizona,32.29515,-110.9823,Residential,Urban and center city,True,True
+04-019-1030,PM10,04,Arizona,31.87952,-110.99644,Commercial,Suburban,True,True
+04-019-1030,PM2.5 non-FRM/FEM,04,Arizona,31.87952,-110.99644,Commercial,Suburban,True,True
+04-019-1032,PM2.5 non-FRM/FEM,04,Arizona,32.172995,-110.980134,Residential,Suburban,True,True
+04-019-1034,PM2.5 non-FRM/FEM,04,Arizona,32.38082,-111.12716,Residential,Suburban,True,True
+04-019-1036,PM2.5 FRM/FEM,04,Arizona,32.194671,-111.033167,Industrial,Urban and center city,True,True
+04-019-1113,PM10,04,Arizona,32.251843,-110.965293,Residential,Urban and center city,True,True
+04-019-1113,PM2.5 non-FRM/FEM,04,Arizona,32.251843,-110.965293,Residential,Urban and center city,True,True
+04-021-0001,PM10,04,Arizona,32.877583,-111.752222,Commercial,Urban and center city,True,True
+04-021-0001,PM2.5 FRM/FEM,04,Arizona,32.877583,-111.752222,Commercial,Urban and center city,True,True
+04-021-3002,PM10,04,Arizona,33.421194,-111.503222,Residential,Suburban,True,True
+04-021-3002,PM2.5 FRM/FEM,04,Arizona,33.421194,-111.503222,Residential,Suburban,True,True
+04-021-3007,PM10,04,Arizona,32.508306,-111.308056,Desert,Rural,True,True
+04-021-3008,PM10,04,Arizona,32.881194,-111.962,Residential,Suburban,True,True
+04-021-3009,PM10,04,Arizona,33.219111,-111.561111,Agricultural,Suburban,True,True
+04-021-3011,PM10,04,Arizona,32.891056,-111.5705,Residential,Suburban,True,True
+04-021-3014,PM10,04,Arizona,32.757639,-111.554861,Commercial,Suburban,True,True
+04-021-3015,PM10,04,Arizona,32.884761,-112.03705,Agricultural,Rural,True,True
+04-021-3015,PM2.5 FRM/FEM,04,Arizona,32.884761,-112.03705,Agricultural,Rural,True,True
+04-021-3016,PM10,04,Arizona,33.06115,-112.05204,Agricultural,Rural,True,True
+04-021-7001,PM10,04,Arizona,33.081704,-111.752943,Residential,Rural,True,True
+04-021-7004,PM10,04,Arizona,33.117556,-111.885814,Residential,Rural,True,True
+04-023-0004,PM10,04,Arizona,31.337204,-110.936718,Commercial,Urban and center city,True,True
+04-023-0004,PM2.5 FRM/FEM,04,Arizona,31.337204,-110.936718,Commercial,Urban and center city,True,True
+04-027-8011,PM10,04,Arizona,32.690278,-114.61444,Commercial,Urban and center city,True,True
+04-027-8011,PM2.5 FRM/FEM,04,Arizona,32.690278,-114.61444,Commercial,Urban and center city,True,True
+05-119-0007,PM2.5 FRM/FEM,05,Arkansas,34.756189,-92.281296,Commercial,Urban and center city,True,True
+05-119-0007,PMc,05,Arkansas,34.756189,-92.281296,Commercial,Urban and center city,True,True
+06-007-0008,PM10,06,California,39.76168,-121.84047,Commercial,Suburban,True,True
+06-007-0008,PM2.5 FRM/FEM,06,California,39.76168,-121.84047,Commercial,Suburban,True,True
+06-007-2003,PM2.5 non-FRM/FEM,06,California,39.75786,-121.60791,Commercial,Urban and center city,True,True
+06-007-4001,PM2.5 non-FRM/FEM,06,California,39.327563,-121.668811,Agricultural,Rural,True,True
+06-009-0001,PM10,06,California,38.20185,-120.680277,Agricultural,Rural,True,True
+06-009-0001,PM2.5 FRM/FEM,06,California,38.20185,-120.680277,Agricultural,Rural,True,True
+06-011-0007,PM2.5 FRM/FEM,06,California,39.021221,-122.281803,Forest,Rural,True,True
+06-011-1002,PM10,06,California,39.18919,-121.99887,Commercial,Rural,True,True
+06-011-1002,PM2.5 FRM/FEM,06,California,39.18919,-121.99887,Commercial,Rural,True,True
+06-015-0007,PM2.5 non-FRM/FEM,06,California,41.75613,-124.20347,Residential,Urban and center city,True,True
+06-017-0011,PM10,06,California,38.944979,-119.970609,Commercial,Urban and center city,True,True
+06-019-0007,PM10,06,California,36.705474,-119.741332,Commercial,Suburban,True,True
+06-019-0011,PM10,06,California,36.78538,-119.77321,Commercial,Urban and center city,True,True
+06-019-0011,PM2.5 FRM/FEM,06,California,36.78538,-119.77321,Commercial,Urban and center city,True,True
+06-019-0011,PMc,06,California,36.78538,-119.77321,Commercial,Urban and center city,True,True
+06-019-0500,PM10,06,California,36.985119,-119.658339,Agricultural,Rural,True,True
+06-019-0500,PM2.5 FRM/FEM,06,California,36.985119,-119.658339,Agricultural,Rural,True,True
+06-019-2008,PM2.5 non-FRM/FEM,06,California,36.198672,-120.101096,Residential,Rural,True,True
+06-019-2009,PM2.5 FRM/FEM,06,California,36.634225,-120.382331,Agricultural,Rural,True,True
+06-019-2016,PM2.5 FRM/FEM,06,California,36.710833,-119.7775,Industrial,Urban and center city,True,True
+06-019-5001,PM10,06,California,36.819449,-119.716433,Residential,Urban and center city,True,True
+06-019-5001,PM2.5 FRM/FEM,06,California,36.819449,-119.716433,Residential,Urban and center city,True,True
+06-019-5025,PM2.5 FRM/FEM,06,California,36.72639,-119.733,Residential,Urban and center city,True,True
+06-021-0003,PM10,06,California,39.53387,-122.190834,Agricultural,Suburban,True,True
+06-021-0003,PM2.5 non-FRM/FEM,06,California,39.53387,-122.190834,Agricultural,Suburban,True,True
+06-023-1004,PM10,06,California,40.77678,-124.17949,Residential,Suburban,True,True
+06-025-0005,PM10,06,California,32.67618,-115.48307,Residential,Suburban,True,True
+06-025-0005,PM2.5 FRM/FEM,06,California,32.67618,-115.48307,Residential,Suburban,True,True
+06-025-0007,PM10,06,California,32.97833,-115.53917,Commercial,Urban and center city,True,True
+06-025-0007,PM2.5 FRM/FEM,06,California,32.97833,-115.53917,Commercial,Urban and center city,True,True
+06-025-1003,PM10,06,California,32.79222,-115.56306,Commercial,Urban and center city,True,True
+06-025-1003,PM2.5 FRM/FEM,06,California,32.79222,-115.56306,Commercial,Urban and center city,True,True
+06-025-4003,PM10,06,California,33.0325,-115.62361,Agricultural,Rural,True,True
+06-025-4004,PM10,06,California,33.213611,-115.54528,Desert,Rural,True,True
+06-027-0002,PM10,06,California,37.360684,-118.330783,Agricultural,Rural,True,True
+06-027-0002,PM2.5 FRM/FEM,06,California,37.360684,-118.330783,Agricultural,Rural,True,True
+06-027-0002,PMc,06,California,37.360684,-118.330783,Agricultural,Rural,True,True
+06-027-0022,PM10,06,California,36.326172,-117.95512,Desert,Rural,True,True
+06-027-0023,PM10,06,California,36.280597,-118.011661,Desert,Rural,True,True
+06-027-0025,PM10,06,California,36.366319,-117.897609,Desert,Rural,True,True
+06-027-0026,PM10,06,California,36.361932,-118.01068,Desert,Rural,True,True
+06-027-0028,PM10,06,California,36.54314,-117.941827,Desert,Rural,True,True
+06-027-0029,PM10,06,California,36.542229,-117.990067,Desert,Rural,True,True
+06-027-0030,PM10,06,California,36.458104,-117.851888,Desert,Rural,True,True
+06-027-0031,PM10,06,California,36.607215,-118.05473,Residential,Rural,True,True
+06-027-1003,PM10,06,California,36.487823,-117.871036,Residential,Rural,True,True
+06-027-1003,PM2.5 FRM/FEM,06,California,36.487823,-117.871036,Residential,Rural,True,True
+06-027-1023,PM10,06,California,37.362137,-118.417478,Residential,Rural,True,True
+06-027-1023,PM2.5 FRM/FEM,06,California,37.362137,-118.417478,Residential,Rural,True,True
+06-027-1028,PM10,06,California,36.834957,-118.226677,Desert,Rural,True,True
+06-029-0010,PM10,06,California,35.385574,-119.015009,Commercial,Urban and center city,True,True
+06-029-0010,PM2.5 FRM/FEM,06,California,35.385574,-119.015009,Commercial,Urban and center city,True,True
+06-029-0017,PM10,06,California,35.72771,-118.13774,Desert,Rural,True,True
+06-029-0018,PM10,06,California,35.642943,-117.715066,Desert,Urban and center city,True,True
+06-029-0018,PM2.5 FRM/FEM,06,California,35.642943,-117.715066,Desert,Urban and center city,True,True
+06-029-0020,PM10,06,California,35.04944,-118.18893,Residential,Suburban,True,True
+06-029-0020,PM2.5 FRM/FEM,06,California,35.04944,-118.18893,Residential,Suburban,True,True
+06-029-0232,PM10,06,California,35.438035,-119.016787,Industrial,Suburban,True,True
+06-029-2009,PM2.5 non-FRM/FEM,06,California,34.841567,-118.860588,Agricultural,Rural,True,True
+06-031-0004,PM10,06,California,36.102244,-119.56565,Residential,Suburban,True,True
+06-031-0004,PM2.5 FRM/FEM,06,California,36.102244,-119.56565,Residential,Suburban,True,True
+06-031-1004,PM10,06,California,36.31567,-119.643447,Residential,Suburban,True,True
+06-031-1004,PM2.5 FRM/FEM,06,California,36.31567,-119.643447,Residential,Suburban,True,True
+06-037-0016,PM10,06,California,34.14435,-117.85036,Residential,Suburban,True,True
+06-037-0016,PM2.5 non-FRM/FEM,06,California,34.14435,-117.85036,Residential,Suburban,True,True
+06-037-1103,PM10,06,California,34.06659,-118.22688,Residential,Urban and center city,True,True
+06-037-1103,PM2.5 FRM/FEM,06,California,34.06659,-118.22688,Residential,Urban and center city,True,True
+06-037-1201,PM2.5 non-FRM/FEM,06,California,34.19925,-118.53276,Commercial,Suburban,True,True
+06-037-1302,PM2.5 FRM/FEM,06,California,33.901389,-118.205,Residential,Urban and center city,True,True
+06-037-1302,PM2.5 non-FRM/FEM,06,California,33.901389,-118.205,Residential,Urban and center city,True,True
+06-037-4006,PM10,06,California,33.8025,-118.22,Industrial,Urban and center city,True,True
+06-037-4008,PM2.5 FRM/FEM,06,California,33.859662,-118.200707,Industrial,Suburban,True,True
+06-037-4008,PM2.5 non-FRM/FEM,06,California,33.859662,-118.200707,Industrial,Suburban,True,True
+06-037-4009,PM10,06,California,33.793713,-118.171019,Commercial,Urban and center city,True,True
+06-037-4009,PM2.5 FRM/FEM,06,California,33.793713,-118.171019,Commercial,Urban and center city,True,True
+06-037-4010,PM2.5 non-FRM/FEM,06,California,34.181977,-118.363036,Industrial,Suburban,True,True
+06-037-6012,PM2.5 non-FRM/FEM,06,California,34.38344,-118.5284,Commercial,Suburban,True,True
+06-037-9035,PM10,06,California,34.725389,-118.178601,Commercial,Urban and center city,True,True
+06-037-9035,PM2.5 FRM/FEM,06,California,34.725389,-118.178601,Commercial,Urban and center city,True,True
+06-039-2010,PM10,06,California,36.953256,-120.034203,Commercial,Suburban,True,True
+06-039-2010,PM2.5 FRM/FEM,06,California,36.953256,-120.034203,Commercial,Suburban,True,True
+06-045-0006,PM2.5 FRM/FEM,06,California,39.15047,-123.20655,Commercial,Suburban,True,True
+06-045-0010,PM10,06,California,39.43734,-123.78766,Residential,Suburban,True,True
+06-045-2003,PM2.5 FRM/FEM,06,California,39.39861,-123.35872,Residential,Suburban,True,True
+06-047-2510,PM10,06,California,37.30832,-120.480456,Commercial,Urban and center city,True,True
+06-047-2510,PM2.5 FRM/FEM,06,California,37.30832,-120.480456,Commercial,Urban and center city,True,True
+06-051-0001,PM10,06,California,37.64571,-118.96652,Commercial,Urban and center city,True,True
+06-053-0002,PM2.5 FRM/FEM,06,California,36.48187,-121.73333,Residential,Suburban,True,True
+06-053-0008,PM10,06,California,36.209286,-121.126371,Residential,Urban and center city,True,True
+06-053-0008,PM2.5 FRM/FEM,06,California,36.209286,-121.126371,Residential,Urban and center city,True,True
+06-053-1003,PM2.5 FRM/FEM,06,California,36.694261,-121.623271,Residential,Urban and center city,True,True
+06-057-0005,PM2.5 FRM/FEM,06,California,39.233477,-121.055608,Residential,Suburban,True,True
+06-059-0007,PM10,06,California,33.83062,-117.93845,Residential,Suburban,True,True
+06-059-0007,PM2.5 FRM/FEM,06,California,33.83062,-117.93845,Residential,Suburban,True,True
+06-061-0004,PM2.5 non-FRM/FEM,06,California,39.100174,-120.953832,Residential,Suburban,True,True
+06-061-1004,PM2.5 non-FRM/FEM,06,California,39.166017,-120.148833,Commercial,Urban and center city,True,True
+06-061-2003,PM2.5 non-FRM/FEM,06,California,38.867937,-121.338353,Agricultural,Rural,True,True
+06-063-1006,PM2.5 FRM/FEM,06,California,39.939567,-120.944376,Commercial,Urban and center city,True,True
+06-063-1007,PM2.5 non-FRM/FEM,06,California,40.309644,-121.227848,Residential,Urban and center city,True,True
+06-063-1010,PM2.5 FRM/FEM,06,California,39.81336,-120.47069,Residential,Suburban,True,True
+06-065-0009,PM2.5 FRM/FEM,06,California,33.447867,-117.088649,Residential,Suburban,True,True
+06-065-0012,PM2.5 non-FRM/FEM,06,California,33.92086,-116.85841,Commercial,Suburban,True,True
+06-065-0016,PM2.5 non-FRM/FEM,06,California,33.583018,-117.072202,Commercial,Suburban,True,True
+06-065-1016,PM2.5 FRM/FEM,06,California,33.944713,-116.830074,Commercial,Rural,True,True
+06-065-2005,PM10,06,California,33.572019,-116.063823,Agricultural,Suburban,True,True
+06-065-5001,PM10,06,California,33.85275,-116.54101,Residential,Suburban,True,True
+06-065-8001,PM10,06,California,33.99958,-117.41601,Residential,Suburban,True,True
+06-065-8001,PM2.5 FRM/FEM,06,California,33.99958,-117.41601,Residential,Suburban,True,True
+06-065-8005,PM10,06,California,33.99636,-117.4924,Residential,Suburban,True,True
+06-065-8005,PM2.5 FRM/FEM,06,California,33.99636,-117.4924,Residential,Suburban,True,True
+06-065-9001,PM10,06,California,33.67649,-117.33098,Residential,Suburban,True,True
+06-065-9001,PM2.5 non-FRM/FEM,06,California,33.67649,-117.33098,Residential,Suburban,True,True
+06-067-0006,PM2.5 FRM/FEM,06,California,38.613779,-121.368014,Residential,Suburban,True,True
+06-067-0010,PM10,06,California,38.56844,-121.49311,Residential,Urban and center city,True,True
+06-067-0010,PM2.5 FRM/FEM,06,California,38.56844,-121.49311,Residential,Urban and center city,True,True
+06-067-0012,PM2.5 FRM/FEM,06,California,38.683304,-121.164457,Residential,Suburban,True,True
+06-067-0015,PM2.5 FRM/FEM,06,California,38.593322,-121.503795,Commercial,Urban and center city,True,True
+06-067-5003,PM2.5 FRM/FEM,06,California,38.494475,-121.211131,Agricultural,Rural,True,True
+06-069-0002,PM10,06,California,36.843425,-121.3621,Residential,Rural,True,True
+06-069-0002,PM2.5 FRM/FEM,06,California,36.843425,-121.3621,Residential,Rural,True,True
+06-069-0004,PM10,06,California,36.841488,-121.533444,Commercial,Rural,True,True
+06-071-0001,PM10,06,California,34.89405,-117.02471,Commercial,Urban and center city,True,True
+06-071-0005,PM2.5 non-FRM/FEM,06,California,34.2431,-117.27235,Residential,Rural,True,True
+06-071-0013,PM10,06,California,34.40998,-116.90688,Industrial,Rural,True,True
+06-071-0027,PM2.5 FRM/FEM,06,California,34.030833,-117.61722,Industrial,Suburban,True,True
+06-071-0306,PM10,06,California,34.510961,-117.32554,Commercial,Suburban,True,True
+06-071-0306,PM2.5 FRM/FEM,06,California,34.510961,-117.32554,Commercial,Suburban,True,True
+06-071-1234,PM10,06,California,35.77446,-117.3721,Desert,Rural,True,True
+06-071-2002,PM2.5 non-FRM/FEM,06,California,34.10002,-117.49201,Industrial,Suburban,True,True
+06-071-4001,PM10,06,California,34.41651,-117.28563,Residential,Suburban,True,True
+06-071-8001,PM2.5 FRM/FEM,06,California,34.26464,-116.86147,Commercial,Suburban,True,True
+06-071-9004,PM10,06,California,34.106678,-117.274063,Commercial,Suburban,True,True
+06-073-0077,PM2.5 FRM/FEM,06,California,32.6509,-116.365,Desert,Rural,True,True
+06-073-1006,PM10,06,California,32.842318,-116.768293,Residential,Suburban,True,True
+06-073-1006,PM2.5 FRM/FEM,06,California,32.842318,-116.768293,Residential,Suburban,True,True
+06-073-1008,PM10,06,California,33.217046,-117.396249,Military reservation,Suburban,True,True
+06-073-1008,PM2.5 FRM/FEM,06,California,33.217046,-117.396249,Military reservation,Suburban,True,True
+06-073-1014,PM10,06,California,32.578165,-116.921374,Commercial,Rural,True,True
+06-073-1014,PM2.5 FRM/FEM,06,California,32.578165,-116.921374,Commercial,Rural,True,True
+06-073-1016,PM10,06,California,32.845709,-117.123964,Military reservation,Suburban,True,True
+06-073-1016,PM2.5 FRM/FEM,06,California,32.845709,-117.123964,Military reservation,Suburban,True,True
+06-073-1017,PM10,06,California,32.985428,-117.082198,Commercial,Suburban,True,True
+06-073-1017,PM2.5 FRM/FEM,06,California,32.985428,-117.082198,Commercial,Suburban,True,True
+06-073-1022,PM10,06,California,32.789565,-116.944308,Commercial,Suburban,True,True
+06-073-1022,PM2.5 FRM/FEM,06,California,32.789565,-116.944308,Commercial,Suburban,True,True
+06-073-1022,PMc,06,California,32.789565,-116.944308,Commercial,Suburban,True,True
+06-073-1026,PM10,06,California,32.710177,-117.142665,Commercial,Urban and center city,True,True
+06-073-1026,PM2.5 FRM/FEM,06,California,32.710177,-117.142665,Commercial,Urban and center city,True,True
+06-073-1201,PM2.5 FRM/FEM,06,California,33.362593,-117.09023,Commercial,Rural,True,True
+06-077-1003,PM10,06,California,37.961578,-121.281414,Residential,Urban and center city,True,True
+06-077-1003,PM2.5 FRM/FEM,06,California,37.961578,-121.281414,Residential,Urban and center city,True,True
+06-077-2010,PM10,06,California,37.793392,-121.247874,Residential,Suburban,True,True
+06-077-2010,PM2.5 FRM/FEM,06,California,37.793392,-121.247874,Residential,Suburban,True,True
+06-077-3005,PM10,06,California,37.682635,-121.442495,Residential,Suburban,True,True
+06-077-3005,PM2.5 non-FRM/FEM,06,California,37.682635,-121.442495,Residential,Suburban,True,True
+06-079-0005,PM10,06,California,35.614668,-120.656912,Residential,Suburban,True,True
+06-079-2004,PM10,06,California,35.02083,-120.56388,Industrial,Rural,True,True
+06-079-2004,PM2.5 FRM/FEM,06,California,35.02083,-120.56388,Industrial,Rural,True,True
+06-079-2007,PM10,06,California,35.04673,-120.58777,Industrial,Rural,True,True
+06-079-2007,PM2.5 FRM/FEM,06,California,35.04673,-120.58777,Industrial,Rural,True,True
+06-079-2020,PM10,06,California,35.259502,-120.64472,Commercial,Urban and center city,True,True
+06-079-2020,PM2.5 FRM/FEM,06,California,35.259502,-120.64472,Commercial,Urban and center city,True,True
+06-079-4002,PM10,06,California,35.03146,-120.50103,Residential,Rural,True,True
+06-079-8002,PM10,06,California,35.49453,-120.66617,Commercial,Suburban,True,True
+06-079-8002,PM2.5 FRM/FEM,06,California,35.49453,-120.66617,Commercial,Suburban,True,True
+06-079-9001,PM10,06,California,35.00876,-120.59998,Agricultural,Rural,True,True
+06-083-0011,PM10,06,California,34.427775,-119.691218,Residential,Urban and center city,True,True
+06-083-0011,PM2.5 FRM/FEM,06,California,34.427775,-119.691218,Residential,Urban and center city,True,True
+06-083-1009,PM10,06,California,34.890667,-120.432844,Residential,Suburban,True,True
+06-083-1009,PM2.5 FRM/FEM,06,California,34.890667,-120.432844,Residential,Suburban,True,True
+06-083-1025,PM10,06,California,34.48974,-120.04692,Agricultural,Rural,True,True
+06-083-2004,PM10,06,California,34.63782,-120.4575,Commercial,Urban and center city,True,True
+06-083-2004,PM2.5 FRM/FEM,06,California,34.63782,-120.4575,Commercial,Urban and center city,True,True
+06-083-2011,PM10,06,California,34.44551,-119.8284,Residential,Suburban,True,True
+06-083-2011,PM2.5 FRM/FEM,06,California,34.44551,-119.8284,Residential,Suburban,True,True
+06-087-0007,PM2.5 FRM/FEM,06,California,36.98332,-121.98822,Commercial,Suburban,True,True
+06-087-1005,PM2.5 FRM/FEM,06,California,37.06315,-122.083092,Residential,Rural,True,True
+06-089-0004,PM2.5 FRM/FEM,06,California,40.55013,-122.38092,Commercial,Suburban,True,True
+06-093-2001,PM2.5 FRM/FEM,06,California,41.726892,-122.633579,Commercial,Suburban,True,True
+06-097-0001,PM10,06,California,38.804267,-123.018142,Commercial,Urban and center city,True,True
+06-097-0002,PM10,06,California,38.610905,-122.868794,Commercial,Urban and center city,True,True
+06-099-0005,PM10,06,California,37.642165,-120.994212,Commercial,Urban and center city,True,True
+06-099-0005,PM2.5 FRM/FEM,06,California,37.642165,-120.994212,Commercial,Urban and center city,True,True
+06-099-0006,PM10,06,California,37.488317,-120.836008,Residential,Suburban,True,True
+06-099-0006,PM2.5 FRM/FEM,06,California,37.488317,-120.836008,Residential,Suburban,True,True
+06-101-0003,PM10,06,California,39.138773,-121.618549,Commercial,Suburban,True,True
+06-101-0003,PM2.5 FRM/FEM,06,California,39.138773,-121.618549,Commercial,Suburban,True,True
+06-103-0007,PM10,06,California,40.17093,-122.25556,Residential,Suburban,True,True
+06-103-0007,PM2.5 FRM/FEM,06,California,40.17093,-122.25556,Residential,Suburban,True,True
+06-105-0002,PM2.5 non-FRM/FEM,06,California,40.73475,-122.9412,Residential,Urban and center city,True,True
+06-107-0009,PM2.5 FRM/FEM,06,California,36.48947,-118.82915,Forest,Rural,True,True
+06-107-2003,PM10,06,California,36.30815,-119.3129,Commercial,Urban and center city,True,True
+06-107-2003,PM2.5 FRM/FEM,06,California,36.30815,-119.3129,Commercial,Urban and center city,True,True
+06-107-2010,PM2.5 non-FRM/FEM,06,California,36.031831,-119.055018,Agricultural,Rural,True,True
+06-111-0007,PM2.5 FRM/FEM,06,California,34.210169,-118.870509,Residential,Suburban,True,True
+06-111-0009,PM2.5 FRM/FEM,06,California,34.404281,-118.80998,Agricultural,Rural,True,True
+06-111-1004,PM2.5 FRM/FEM,06,California,34.44806,-119.2313,Residential,Suburban,True,True
+06-111-2002,PM10,06,California,34.276316,-118.683685,Residential,Suburban,True,True
+06-111-2002,PM2.5 FRM/FEM,06,California,34.276316,-118.683685,Residential,Suburban,True,True
+06-111-3001,PM10,06,California,34.25239,-119.143182,Residential,Rural,True,True
+06-111-3001,PM2.5 FRM/FEM,06,California,34.25239,-119.143182,Residential,Rural,True,True
+06-113-0004,PM2.5 non-FRM/FEM,06,California,38.53445,-121.7734,Agricultural,Rural,True,True
+06-113-1003,PM2.5 FRM/FEM,06,California,38.66121,-121.73269,Residential,Suburban,True,True
+08-001-0010,PM10,08,Colorado,39.8281,-104.93647,Residential,Suburban,True,True
+08-001-0010,PM2.5 FRM/FEM,08,Colorado,39.8281,-104.93647,Residential,Suburban,True,True
+08-001-3001,PM10,08,Colorado,39.838119,-104.94984,Agricultural,Rural,True,True
+08-013-1001,PM10,08,Colorado,40.012969,-105.267212,Residential,Urban and center city,True,True
+08-013-1001,PM2.5 FRM/FEM,08,Colorado,40.012969,-105.267212,Residential,Urban and center city,True,True
+08-031-0002,PM2.5 FRM/FEM,08,Colorado,39.751184,-104.987625,Commercial,Urban and center city,True,True
+08-031-0013,PM2.5 FRM/FEM,08,Colorado,39.738578,-104.939925,Residential,Urban and center city,True,True
+08-031-0026,PM2.5 FRM/FEM,08,Colorado,39.77949,-105.00518,Residential,Urban and center city,True,True
+08-031-0027,PM2.5 FRM/FEM,08,Colorado,39.73217,-105.0153,Commercial,Urban and center city,True,True
+08-031-0028,PM2.5 FRM/FEM,08,Colorado,39.7861,-104.9886,Commercial,Urban and center city,True,True
+08-035-0004,PM2.5 FRM/FEM,08,Colorado,39.534488,-105.070358,Agricultural,Rural,True,True
+08-041-0017,PM2.5 FRM/FEM,08,Colorado,38.848014,-104.828564,Residential,Urban and center city,True,True
+08-045-0019,PM10,08,Colorado,39.43806,-108.02611,Commercial,Suburban,True,True
+08-045-0019,PM2.5 FRM/FEM,08,Colorado,39.43806,-108.02611,Commercial,Suburban,True,True
+08-067-7001,PM2.5 non-FRM/FEM,08,Colorado,37.13678,-107.62863,Residential,Rural,True,True
+08-067-7003,PM2.5 non-FRM/FEM,08,Colorado,37.10258,-107.870219,Residential,Rural,True,True
+08-069-0009,PM2.5 FRM/FEM,08,Colorado,40.571288,-105.079693,Commercial,Urban and center city,True,True
+08-077-0017,PM2.5 FRM/FEM,08,Colorado,39.063798,-108.561173,Commercial,Urban and center city,True,True
+08-101-0015,PM10,08,Colorado,38.276099,-104.597613,Residential,Urban and center city,True,True
+08-101-0015,PM2.5 FRM/FEM,08,Colorado,38.276099,-104.597613,Residential,Urban and center city,True,True
+08-107-0003,PM10,08,Colorado,40.485201,-106.831625,Commercial,Rural,True,True
+08-123-0006,PM2.5 FRM/FEM,08,Colorado,40.414877,-104.70693,Residential,Suburban,True,True
+09-001-0010,PM10,09,Connecticut,41.170833,-73.194722,Residential,Urban and center city,True,True
+09-001-0010,PM2.5 FRM/FEM,09,Connecticut,41.170833,-73.194722,Residential,Urban and center city,True,True
+09-001-0010,PMc,09,Connecticut,41.170833,-73.194722,Residential,Urban and center city,True,True
+09-001-1123,PM2.5 FRM/FEM,09,Connecticut,41.399167,-73.443056,Residential,Suburban,True,True
+09-001-1123,PMc,09,Connecticut,41.399167,-73.443056,Residential,Suburban,True,True
+09-003-0025,PM10,09,Connecticut,41.771444,-72.679923,Commercial,Urban and center city,True,True
+09-003-0025,PM2.5 FRM/FEM,09,Connecticut,41.771444,-72.679923,Commercial,Urban and center city,True,True
+09-003-0025,PMc,09,Connecticut,41.771444,-72.679923,Commercial,Urban and center city,True,True
+09-003-1003,PM10,09,Connecticut,41.784722,-72.631667,Residential,Suburban,True,True
+09-003-1003,PM2.5 FRM/FEM,09,Connecticut,41.784722,-72.631667,Residential,Suburban,True,True
+09-003-1003,PMc,09,Connecticut,41.784722,-72.631667,Residential,Suburban,True,True
+09-005-0005,PM2.5 FRM/FEM,09,Connecticut,41.821342,-73.297257,Forest,Rural,True,True
+09-005-0005,PMc,09,Connecticut,41.821342,-73.297257,Forest,Rural,True,True
+09-009-0027,PM2.5 FRM/FEM,09,Connecticut,41.3014,-72.902871,Commercial,Urban and center city,True,True
+09-009-0027,PMc,09,Connecticut,41.3014,-72.902871,Commercial,Urban and center city,True,True
+09-011-0124,PM2.5 FRM/FEM,09,Connecticut,41.35362,-72.07882,Commercial,Suburban,True,True
+09-011-0124,PMc,09,Connecticut,41.35362,-72.07882,Commercial,Suburban,True,True
+10-001-0002,PM2.5 FRM/FEM,10,Delaware,38.986681,-75.556818,Agricultural,Rural,True,True
+10-001-0003,PM2.5 FRM/FEM,10,Delaware,39.15564,-75.51821,Residential,Suburban,True,True
+10-003-1003,PM2.5 FRM/FEM,10,Delaware,39.761273,-75.492047,Residential,Suburban,True,True
+10-003-1007,PM2.5 FRM/FEM,10,Delaware,39.551279,-75.732015,Agricultural,Rural,True,True
+10-003-1008,PM2.5 FRM/FEM,10,Delaware,39.577647,-75.603659,Agricultural,Rural,True,True
+10-003-1012,PM2.5 FRM/FEM,10,Delaware,39.691872,-75.761766,Residential,Suburban,True,True
+10-003-2004,PM2.5 FRM/FEM,10,Delaware,39.739441,-75.557534,Commercial,Urban and center city,True,True
+10-005-1002,PM2.5 FRM/FEM,10,Delaware,38.65392,-75.610605,Residential,Suburban,True,True
+11-001-0041,PM2.5 FRM/FEM,11,District Of Columbia,38.895572,-76.958072,Residential,Urban and center city,True,True
+11-001-0043,PM10,11,District Of Columbia,38.921847,-77.013178,Commercial,Urban and center city,True,True
+11-001-0043,PM2.5 FRM/FEM,11,District Of Columbia,38.921847,-77.013178,Commercial,Urban and center city,True,True
+11-001-0043,PMc,11,District Of Columbia,38.921847,-77.013178,Commercial,Urban and center city,True,True
+11-001-0051,PM2.5 FRM/FEM,11,District Of Columbia,38.89477,-76.953426,Commercial,Urban and center city,True,True
+11-001-0053,PM2.5 FRM/FEM,11,District Of Columbia,38.875161,-77.012816,Commercial,Urban and center city,True,True
+12-001-3012,PM2.5 FRM/FEM,12,Florida,29.566112,-82.26608,Agricultural,Rural,True,True
+12-003-0002,PM2.5 non-FRM/FEM,12,Florida,30.201111,-82.441111,Forest,Rural,True,True
+12-005-0006,PM2.5 non-FRM/FEM,12,Florida,30.130369,-85.731395,Commercial,Rural,True,True
+12-009-0007,PM10,12,Florida,28.053611,-80.628611,Residential,Urban and center city,True,True
+12-009-0007,PM2.5 FRM/FEM,12,Florida,28.053611,-80.628611,Residential,Urban and center city,True,True
+12-011-0033,PM2.5 FRM/FEM,12,Florida,26.073536,-80.33845,Residential,Suburban,True,True
+12-011-0034,PM10,12,Florida,26.053889,-80.256944,Residential,Suburban,True,True
+12-011-0034,PM2.5 FRM/FEM,12,Florida,26.053889,-80.256944,Residential,Suburban,True,True
+12-011-0034,PMc,12,Florida,26.053889,-80.256944,Residential,Suburban,True,True
+12-011-0035,PM2.5 FRM/FEM,12,Florida,26.132677,-80.169817,Residential,Urban and center city,True,True
+12-011-2003,PM2.5 FRM/FEM,12,Florida,26.291088,-80.096353,Residential,Suburban,True,True
+12-011-5005,PM10,12,Florida,26.294167,-80.176389,Residential,Suburban,True,True
+12-011-5005,PM2.5 FRM/FEM,12,Florida,26.294167,-80.176389,Residential,Suburban,True,True
+12-017-0006,PM2.5 non-FRM/FEM,12,Florida,28.958652,-82.642209,Industrial,Rural,True,True
+12-021-0004,PM2.5 non-FRM/FEM,12,Florida,26.269637,-81.711069,Commercial,Suburban,True,True
+12-023-0002,PM2.5 non-FRM/FEM,12,Florida,30.178056,-82.619167,Residential,Suburban,True,True
+12-031-0032,PM10,12,Florida,30.356339,-81.635396,Commercial,Suburban,True,True
+12-031-0077,PM2.5 non-FRM/FEM,12,Florida,30.477725,-81.587339,Residential,Rural,True,True
+12-031-0098,PM10,12,Florida,30.135797,-81.633981,Commercial,Suburban,True,True
+12-031-0098,PM2.5 FRM/FEM,12,Florida,30.135797,-81.633981,Commercial,Suburban,True,True
+12-031-0099,PM2.5 FRM/FEM,12,Florida,30.354722,-81.547778,Commercial,Suburban,True,True
+12-031-0100,PM2.5 non-FRM/FEM,12,Florida,30.260278,-81.453611,Residential,Suburban,True,True
+12-033-0004,PM10,12,Florida,30.525367,-87.20355,Industrial,Suburban,True,True
+12-033-0004,PM2.5 FRM/FEM,12,Florida,30.525367,-87.20355,Industrial,Suburban,True,True
+12-047-0017,PM2.5 non-FRM/FEM,12,Florida,30.426029,-82.795356,Industrial,Rural,True,True
+12-057-0083,PM10,12,Florida,27.864282,-82.383346,Industrial,Rural,True,True
+12-057-0113,PM2.5 FRM/FEM,12,Florida,27.95555,-82.46958,Residential,Suburban,True,True
+12-057-1035,PM10,12,Florida,27.929316,-82.453519,Residential,Suburban,True,True
+12-057-1065,PM2.5 non-FRM/FEM,12,Florida,27.893327,-82.53776,Commercial,Suburban,True,True
+12-057-3002,PM2.5 FRM/FEM,12,Florida,27.965744,-82.230596,Residential,Rural,True,True
+12-059-0004,PM2.5 non-FRM/FEM,12,Florida,30.844621,-85.605095,Commercial,Rural,True,True
+12-083-0003,PM2.5 non-FRM/FEM,12,Florida,29.171283,-82.094767,Commercial,Urban and center city,True,True
+12-085-0007,PM10,12,Florida,27.172458,-80.240689,Commercial,Urban and center city,True,True
+12-085-0007,PM2.5 FRM/FEM,12,Florida,27.172458,-80.240689,Commercial,Urban and center city,True,True
+12-086-0034,PM2.5 non-FRM/FEM,12,Florida,25.686932,-80.399992,Residential,Suburban,True,True
+12-086-1016,PM10,12,Florida,25.794222,-80.215556,Commercial,Urban and center city,True,True
+12-086-1016,PM2.5 FRM/FEM,12,Florida,25.794222,-80.215556,Commercial,Urban and center city,True,True
+12-091-0003,PM10,12,Florida,30.444419,-86.609555,Commercial,Suburban,True,True
+12-095-2002,PM10,12,Florida,28.595026,-81.363414,Commercial,Urban and center city,True,True
+12-095-2002,PM2.5 FRM/FEM,12,Florida,28.595026,-81.363414,Commercial,Urban and center city,True,True
+12-099-0008,PM2.5 FRM/FEM,12,Florida,26.724168,-80.663341,Industrial,Rural,True,True
+12-099-0022,PM2.5 FRM/FEM,12,Florida,26.68737,-80.220311,Residential,Suburban,True,True
+12-099-2005,PM10,12,Florida,26.457068,-80.092872,Commercial,Urban and center city,True,True
+12-099-2005,PM2.5 FRM/FEM,12,Florida,26.457068,-80.092872,Commercial,Urban and center city,True,True
+12-103-0004,PM2.5 FRM/FEM,12,Florida,27.971283,-82.73666,Commercial,Suburban,True,True
+12-103-0012,PM10,12,Florida,27.785193,-82.658896,Residential,Suburban,True,False
+12-103-0018,PM10,12,Florida,27.791304,-82.739593,Residential,Suburban,True,True
+12-103-0018,PM2.5 FRM/FEM,12,Florida,27.791304,-82.739593,Residential,Suburban,True,True
+12-103-3004,PM10,12,Florida,27.895061,-82.77457,Industrial,Suburban,True,True
+12-107-1008,PM10,12,Florida,29.686956,-81.65598,Industrial,Rural,True,True
+12-113-0015,PM2.5 non-FRM/FEM,12,Florida,30.394133,-87.008033,Residential,Suburban,True,True
+12-115-0013,PM2.5 FRM/FEM,12,Florida,27.290427,-82.507108,Residential,Urban and center city,True,True
+12-115-1006,PM10,12,Florida,27.34931,-82.479676,Residential,Suburban,True,True
+12-115-2002,PM2.5 non-FRM/FEM,12,Florida,27.088498,-82.361914,Residential,Suburban,True,True
+12-117-1002,PM10,12,Florida,28.746111,-81.310556,Residential,Suburban,True,True
+12-117-1002,PM2.5 FRM/FEM,12,Florida,28.746111,-81.310556,Residential,Suburban,True,True
+12-127-5002,PM10,12,Florida,29.206667,-81.0525,Commercial,Suburban,True,True
+12-127-5002,PM2.5 FRM/FEM,12,Florida,29.206667,-81.0525,Commercial,Suburban,True,True
+12-129-0001,PM2.5 non-FRM/FEM,12,Florida,30.0925,-84.161111,Forest,Rural,True,True
+13-021-0007,PM2.5 FRM/FEM,13,Georgia,32.777465,-83.640996,Industrial,Suburban,True,True
+13-051-1002,PM2.5 FRM/FEM,13,Georgia,32.090779,-81.130222,Industrial,Urban and center city,True,True
+13-059-0002,PM2.5 FRM/FEM,13,Georgia,33.918137,-83.344385,Residential,Suburban,True,True
+13-069-0002,PM2.5 FRM/FEM,13,Georgia,31.513097,-82.749971,Agricultural,Rural,True,True
+13-089-0002,PM10,13,Georgia,33.6878,-84.2905,Residential,Suburban,True,True
+13-089-0002,PM2.5 FRM/FEM,13,Georgia,33.6878,-84.2905,Residential,Suburban,True,True
+13-089-0002,PMc,13,Georgia,33.6878,-84.2905,Residential,Suburban,True,True
+13-095-0007,PM2.5 FRM/FEM,13,Georgia,31.5776,-84.0998,Residential,Suburban,True,True
+13-115-0003,PM2.5 non-FRM/FEM,13,Georgia,34.2605,-85.3232,Residential,Rural,True,True
+13-121-0055,PM2.5 non-FRM/FEM,13,Georgia,33.720742,-84.357316,Commercial,Suburban,True,True
+13-127-0006,PM2.5 FRM/FEM,13,Georgia,31.169805,-81.495035,Residential,Suburban,True,True
+13-135-0002,PM2.5 FRM/FEM,13,Georgia,33.9632,-84.0691,Commercial,Suburban,True,True
+13-139-0003,PM2.5 FRM/FEM,13,Georgia,34.2993,-83.8134,Residential,Suburban,True,True
+13-151-0002,PM2.5 non-FRM/FEM,13,Georgia,33.433949,-84.161811,Residential,Rural,True,True
+13-153-0001,PM2.5 FRM/FEM,13,Georgia,32.6056,-83.5978,Commercial,Suburban,True,True
+13-185-0003,PM2.5 FRM/FEM,13,Georgia,30.8486,-83.2933,Commercial,Suburban,True,True
+13-245-0091,PM10,13,Georgia,33.4339,-82.0224,Residential,Suburban,True,True
+13-245-0091,PM2.5 FRM/FEM,13,Georgia,33.4339,-82.0224,Residential,Suburban,True,True
+13-295-0004,PM2.5 FRM/FEM,13,Georgia,34.9784,-85.2943,Residential,Suburban,True,True
+13-303-0001,PM2.5 FRM/FEM,13,Georgia,32.967359,-82.806871,Residential,Suburban,True,True
+15-001-0005,PM2.5 FRM/FEM,15,Hawaii,19.4308,-155.2578,Forest,Rural,True,True
+15-001-1006,PM2.5 FRM/FEM,15,Hawaii,19.717562,-155.11053,Commercial,Suburban,True,True
+15-001-1012,PM2.5 FRM/FEM,15,Hawaii,19.509778,-155.913417,Residential,Suburban,True,True
+15-001-2016,PM2.5 FRM/FEM,15,Hawaii,19.2039,-155.480183,Residential,Rural,True,True
+15-001-2020,PM2.5 FRM/FEM,15,Hawaii,19.117561,-155.778136,Residential,Rural,True,True
+15-001-2021,PM2.5 FRM/FEM,15,Hawaii,19.977467,-155.798067,Residential,Suburban,True,True
+15-001-2023,PM2.5 FRM/FEM,15,Hawaii,19.555444,-155.102028,Residential,Suburban,True,True
+15-001-3027,PM2.5 FRM/FEM,15,Hawaii,19.611914,-155.055037,Residential,Suburban,True,True
+15-001-3033,PM2.5 FRM/FEM,15,Hawaii,19.060655,-155.579159,Residential,Suburban,True,True
+15-001-3034,PM2.5 FRM/FEM,15,Hawaii,19.618158,-155.971242,Residential,Suburban,True,True
+15-003-0010,PM10,15,Hawaii,21.323745,-158.088613,Commercial,Suburban,True,True
+15-003-0010,PM2.5 FRM/FEM,15,Hawaii,21.323745,-158.088613,Commercial,Suburban,True,True
+15-003-0010,PMc,15,Hawaii,21.323745,-158.088613,Commercial,Suburban,True,True
+15-003-1001,PM10,15,Hawaii,21.30758,-157.85542,Commercial,Urban and center city,True,True
+15-003-1001,PM2.5 FRM/FEM,15,Hawaii,21.30758,-157.85542,Commercial,Urban and center city,True,True
+15-003-1004,PM2.5 FRM/FEM,15,Hawaii,21.303382,-157.871171,Commercial,Urban and center city,True,True
+15-009-0025,PM2.5 FRM/FEM,15,Hawaii,20.869627,-156.493626,Commercial,Urban and center city,True,True
+16-001-0010,PM2.5 non-FRM/FEM,16,Idaho,43.600699,-116.347853,Commercial,Urban and center city,True,True
+16-001-0020,PM2.5 non-FRM/FEM,16,Idaho,43.647667,-116.214563,Commercial,Urban and center city,True,True
+16-005-0015,PM10,16,Idaho,42.876725,-112.460347,Commercial,Urban and center city,True,True
+16-005-0015,PM2.5 non-FRM/FEM,16,Idaho,42.876725,-112.460347,Commercial,Urban and center city,True,True
+16-009-0010,PM2.5 FRM/FEM,16,Idaho,47.316577,-116.571281,Commercial,Urban and center city,True,True
+16-009-0010,PM2.5 non-FRM/FEM,16,Idaho,47.316577,-116.571281,Commercial,Urban and center city,True,True
+16-013-0004,PM2.5 non-FRM/FEM,16,Idaho,43.6825,-114.371267,Residential,Suburban,True,True
+16-015-0001,PM2.5 non-FRM/FEM,16,Idaho,43.82291,-115.8395,Commercial,Rural,True,True
+16-015-0002,PM2.5 non-FRM/FEM,16,Idaho,44.104498,-115.972386,Forest,Rural,True,True
+16-017-0006,PM10,16,Idaho,48.272,-116.569,Commercial,Suburban,True,True
+16-017-0006,PM2.5 non-FRM/FEM,16,Idaho,48.272,-116.569,Commercial,Suburban,True,True
+16-019-0011,PM2.5 non-FRM/FEM,16,Idaho,43.4647,-112.04645,Residential,Urban and center city,True,True
+16-027-0010,PM10,16,Idaho,43.59946,-116.52924,Commercial,Rural,True,True
+16-027-0010,PM2.5 FRM/FEM,16,Idaho,43.59946,-116.52924,Commercial,Rural,True,True
+16-027-0010,PM2.5 non-FRM/FEM,16,Idaho,43.59946,-116.52924,Commercial,Rural,True,True
+16-041-0002,PM2.5 non-FRM/FEM,16,Idaho,42.082222,-111.864167,Agricultural,Rural,True,True
+16-049-0002,PM2.5 non-FRM/FEM,16,Idaho,45.931274,-116.116255,Commercial,Rural,True,True
+16-049-0003,PM2.5 non-FRM/FEM,16,Idaho,46.2094,-116.0275,Residential,Rural,True,True
+16-055-0015,PM2.5 non-FRM/FEM,16,Idaho,47.715385,-116.827245,Agricultural,Suburban,True,True
+16-057-0005,PM2.5 non-FRM/FEM,16,Idaho,46.72182,-116.960177,Agricultural,Rural,True,True
+16-059-0004,PM2.5 FRM/FEM,16,Idaho,45.181897,-113.890285,Agricultural,Rural,True,True
+16-059-0004,PM2.5 non-FRM/FEM,16,Idaho,45.181897,-113.890285,Agricultural,Rural,True,True
+16-069-0012,PM2.5 non-FRM/FEM,16,Idaho,46.408352,-116.992533,Residential,Suburban,True,True
+16-069-0013,PM2.5 non-FRM/FEM,16,Idaho,46.3972,-116.8062,Residential,Rural,True,True
+16-079-0017,PM10,16,Idaho,47.536389,-116.236667,Residential,Urban and center city,True,True
+16-079-0017,PM2.5 FRM/FEM,16,Idaho,47.536389,-116.236667,Residential,Urban and center city,True,True
+16-079-0017,PM2.5 non-FRM/FEM,16,Idaho,47.536389,-116.236667,Residential,Urban and center city,True,True
+16-083-0007,PM2.5 non-FRM/FEM,16,Idaho,42.565089,-114.494717,Residential,Suburban,True,True
+16-085-0002,PM2.5 non-FRM/FEM,16,Idaho,44.890197,-116.1065,Commercial,Rural,True,True
+17-019-1001,PM2.5 FRM/FEM,17,Illinois,40.05278,-88.37251,Agricultural,Rural,True,True
+17-031-4007,PM2.5 FRM/FEM,17,Illinois,42.060285,-87.863225,Residential,Suburban,True,True
+17-031-4201,PM2.5 FRM/FEM,17,Illinois,42.139996,-87.799227,Residential,Suburban,True,True
+17-031-4201,PMc,17,Illinois,42.139996,-87.799227,Residential,Suburban,True,True
+17-043-4002,PM2.5 FRM/FEM,17,Illinois,41.771071,-88.152534,Commercial,Urban and center city,True,True
+17-065-0002,PM2.5 FRM/FEM,17,Illinois,38.082155,-88.624943,Agricultural,Rural,True,True
+17-083-0117,PM2.5 FRM/FEM,17,Illinois,39.101439,-90.344494,Agricultural,Rural,True,True
+17-111-0001,PM2.5 FRM/FEM,17,Illinois,42.221442,-88.242207,Residential,Suburban,True,True
+17-113-2003,PM2.5 FRM/FEM,17,Illinois,40.518735,-88.996896,Residential,Suburban,True,True
+17-115-0013,PM2.5 FRM/FEM,17,Illinois,39.866834,-88.925594,Industrial,Suburban,True,True
+17-143-0037,PM2.5 FRM/FEM,17,Illinois,40.697007,-89.584737,Commercial,Urban and center city,True,True
+17-157-0001,PM2.5 FRM/FEM,17,Illinois,38.176278,-89.788459,Industrial,Rural,True,True
+17-161-3002,PM2.5 FRM/FEM,17,Illinois,41.514727,-90.51735,Commercial,Urban and center city,True,True
+17-163-0010,PM2.5 FRM/FEM,17,Illinois,38.612034,-90.160477,Industrial,Suburban,True,True
+17-167-0012,PM2.5 FRM/FEM,17,Illinois,39.831921,-89.644164,Residential,Suburban,True,True
+17-197-1002,PM2.5 FRM/FEM,17,Illinois,41.526885,-88.116474,Residential,Suburban,True,True
+17-197-1011,PM2.5 FRM/FEM,17,Illinois,41.221537,-88.190967,Agricultural,Rural,True,True
+17-201-0118,PM2.5 FRM/FEM,17,Illinois,42.267,-89.08917,Residential,Urban and center city,True,True
+18-005-0008,PM2.5 FRM/FEM,18,Indiana,39.237457,-85.891332,Commercial,Suburban,True,True
+18-019-0010,PM2.5 FRM/FEM,18,Indiana,38.288191,-85.741337,Industrial,Suburban,True,True
+18-037-2001,PM10,18,Indiana,38.391799,-86.929668,Commercial,Urban and center city,True,True
+18-037-2001,PM2.5 FRM/FEM,18,Indiana,38.391799,-86.929668,Commercial,Urban and center city,True,True
+18-037-2001,PMc,18,Indiana,38.391799,-86.929668,Commercial,Urban and center city,True,True
+18-039-0008,PM2.5 FRM/FEM,18,Indiana,41.657155,-85.968446,Residential,Suburban,True,True
+18-043-0008,PM2.5 FRM/FEM,18,Indiana,38.317813,-85.833322,Residential,Suburban,True,True
+18-055-0001,PM2.5 FRM/FEM,18,Indiana,38.985477,-86.990419,Agricultural,Rural,True,True
+18-057-0007,PM2.5 FRM/FEM,18,Indiana,39.960884,-85.939546,Commercial,Suburban,True,True
+18-065-0003,PM2.5 FRM/FEM,18,Indiana,40.009544,-85.52347,Agricultural,Rural,True,True
+18-067-0004,PM2.5 FRM/FEM,18,Indiana,40.481347,-86.109688,Commercial,Urban and center city,True,True
+18-089-0022,PM10,18,Indiana,41.606662,-87.304943,Industrial,Urban and center city,True,True
+18-089-0022,PM2.5 FRM/FEM,18,Indiana,41.606662,-87.304943,Industrial,Urban and center city,True,True
+18-089-0034,PM2.5 FRM/FEM,18,Indiana,41.653501,-87.435561,Commercial,Urban and center city,True,True
+18-089-0036,PM2.5 FRM/FEM,18,Indiana,41.594427,-87.495044,Industrial,Suburban,True,True
+18-095-0011,PM2.5 FRM/FEM,18,Indiana,40.125703,-85.652184,Residential,Suburban,True,True
+18-097-0078,PM10,18,Indiana,39.810833,-86.114444,Residential,Suburban,True,True
+18-097-0078,PM2.5 FRM/FEM,18,Indiana,39.810833,-86.114444,Residential,Suburban,True,True
+18-097-0078,PMc,18,Indiana,39.810833,-86.114444,Residential,Suburban,True,True
+18-097-0081,PM2.5 FRM/FEM,18,Indiana,39.788903,-86.214628,Residential,Suburban,True,True
+18-097-0087,PM2.5 FRM/FEM,18,Indiana,39.787933,-86.13088,Residential,Urban and center city,True,True
+18-105-0003,PM2.5 FRM/FEM,18,Indiana,39.159383,-86.504762,Residential,Suburban,True,True
+18-127-0023,PM10,18,Indiana,41.616618,-87.146959,Industrial,Suburban,True,True
+18-127-0024,PM2.5 FRM/FEM,18,Indiana,41.6175,-87.199167,Residential,Suburban,True,True
+18-141-0015,PM2.5 FRM/FEM,18,Indiana,41.69666,-86.214722,Commercial,Urban and center city,True,True
+18-157-0008,PM2.5 FRM/FEM,18,Indiana,40.431667,-86.8525,Industrial,Suburban,True,True
+18-163-0021,PM10,18,Indiana,38.013333,-87.577222,Commercial,Suburban,True,True
+18-163-0021,PM2.5 FRM/FEM,18,Indiana,38.013333,-87.577222,Commercial,Suburban,True,True
+18-163-0021,PMc,18,Indiana,38.013333,-87.577222,Commercial,Suburban,True,True
+18-167-0018,PM2.5 FRM/FEM,18,Indiana,39.485987,-87.401312,Residential,Urban and center city,True,True
+18-183-0003,PM2.5 FRM/FEM,18,Indiana,41.169646,-85.629292,Agricultural,Rural,True,True
+19-013-0009,PM2.5 non-FRM/FEM,19,Iowa,42.501543,-92.316017,Industrial,Urban and center city,True,True
+19-045-0019,PM2.5 FRM/FEM,19,Iowa,41.823283,-90.211982,Industrial,Urban and center city,True,True
+19-103-2001,PM2.5 FRM/FEM,19,Iowa,41.657232,-91.503478,Residential,Urban and center city,True,True
+19-113-0040,PM2.5 FRM/FEM,19,Iowa,41.97677,-91.68766,Residential,Urban and center city,True,True
+19-137-0002,PM2.5 non-FRM/FEM,19,Iowa,40.969112,-95.044951,Agricultural,Rural,True,True
+19-139-0015,PM2.5 FRM/FEM,19,Iowa,41.400968,-91.067957,Industrial,Suburban,True,True
+19-139-0019,PM2.5 non-FRM/FEM,19,Iowa,41.401459,-91.068449,Industrial,Suburban,True,True
+19-147-1002,PM2.5 non-FRM/FEM,19,Iowa,43.123704,-94.693518,Residential,Suburban,True,True
+19-153-0030,PM2.5 FRM/FEM,19,Iowa,41.603159,-93.643118,Commercial,Urban and center city,True,True
+19-153-5885,PM2.5 FRM/FEM,19,Iowa,41.667032,-93.599221,Commercial,Suburban,True,True
+19-163-0015,PM2.5 FRM/FEM,19,Iowa,41.530011,-90.587611,Residential,Urban and center city,True,True
+19-163-0017,PM10,19,Iowa,41.467236,-90.688451,Industrial,Rural,True,True
+19-177-0006,PM2.5 non-FRM/FEM,19,Iowa,40.695078,-92.006318,Forest,Rural,True,True
+20-057-0002,PM10,20,Kansas,37.775303,-100.03544,Commercial,Suburban,True,True
+20-091-0010,PM10,20,Kansas,38.838575,-94.746424,Commercial,Suburban,True,True
+20-091-0010,PM2.5 FRM/FEM,20,Kansas,38.838575,-94.746424,Commercial,Suburban,True,True
+20-091-0010,PMc,20,Kansas,38.838575,-94.746424,Commercial,Suburban,True,True
+20-133-0003,PM10,20,Kansas,37.67696,-95.47594,Residential,Suburban,True,True
+20-133-0003,PM2.5 FRM/FEM,20,Kansas,37.67696,-95.47594,Residential,Suburban,True,True
+20-133-0003,PMc,20,Kansas,37.67696,-95.47594,Residential,Suburban,True,True
+20-177-0013,PM10,20,Kansas,39.024265,-95.711275,Residential,Urban and center city,True,True
+20-177-0013,PM2.5 FRM/FEM,20,Kansas,39.024265,-95.711275,Residential,Urban and center city,True,True
+20-177-0013,PMc,20,Kansas,39.024265,-95.711275,Residential,Urban and center city,True,True
+20-181-0003,PM10,20,Kansas,39.342801,-101.702996,Residential,Urban and center city,True,True
+20-191-0002,PM10,20,Kansas,37.47689,-97.366399,Residential,Rural,True,True
+20-191-0002,PM2.5 FRM/FEM,20,Kansas,37.47689,-97.366399,Residential,Rural,True,True
+20-191-0002,PMc,20,Kansas,37.47689,-97.366399,Residential,Rural,True,True
+20-195-0001,PM10,20,Kansas,38.770081,-99.763424,Agricultural,Rural,True,True
+20-195-0001,PM2.5 FRM/FEM,20,Kansas,38.770081,-99.763424,Agricultural,Rural,True,True
+20-195-0001,PMc,20,Kansas,38.770081,-99.763424,Agricultural,Rural,True,True
+20-209-0021,PM10,20,Kansas,39.117219,-94.635605,Residential,Urban and center city,True,True
+20-209-0021,PM2.5 FRM/FEM,20,Kansas,39.117219,-94.635605,Residential,Urban and center city,True,True
+20-209-0021,PMc,20,Kansas,39.117219,-94.635605,Residential,Urban and center city,True,True
+21-013-0002,PM2.5 FRM/FEM,21,Kentucky,36.60843,-83.73694,Residential,Suburban,True,True
+21-019-0017,PM2.5 FRM/FEM,21,Kentucky,38.45934,-82.64041,Residential,Suburban,True,True
+21-037-3002,PM2.5 FRM/FEM,21,Kentucky,39.021881,-84.47445,Agricultural,Rural,True,True
+21-043-0500,PM2.5 FRM/FEM,21,Kentucky,38.23887,-82.9881,Residential,Rural,True,True
+21-047-0006,PM2.5 FRM/FEM,21,Kentucky,36.91171,-87.323337,Agricultural,Rural,True,False
+21-067-0012,PM2.5 FRM/FEM,21,Kentucky,38.06503,-84.49761,Residential,Suburban,True,True
+21-111-0051,PM2.5 FRM/FEM,21,Kentucky,38.06091,-85.89804,Residential,Suburban,True,True
+21-111-0067,PM10,21,Kentucky,38.22876,-85.65452,Residential,Suburban,True,True
+21-111-0067,PM2.5 FRM/FEM,21,Kentucky,38.22876,-85.65452,Residential,Suburban,True,True
+21-111-0067,PMc,21,Kentucky,38.22876,-85.65452,Residential,Suburban,True,True
+21-111-0075,PM2.5 FRM/FEM,21,Kentucky,38.1936,-85.7119,Residential,Urban and center city,True,True
+21-111-0080,PM2.5 FRM/FEM,21,Kentucky,38.182435,-85.574361,Residential,Suburban,True,True
+21-111-1041,PM10,21,Kentucky,38.23158,-85.82678,Industrial,Suburban,True,True
+21-111-1041,PM2.5 FRM/FEM,21,Kentucky,38.23158,-85.82678,Industrial,Suburban,True,True
+21-145-1027,PM2.5 FRM/FEM,21,Kentucky,37.08727,-88.60801,Commercial,Urban and center city,True,True
+21-193-0003,PM2.5 FRM/FEM,21,Kentucky,37.28329,-83.20932,Residential,Suburban,True,True
+21-195-0002,PM2.5 FRM/FEM,21,Kentucky,37.4826,-82.53532,Commercial,Urban and center city,True,True
+21-199-0003,PM2.5 FRM/FEM,21,Kentucky,37.09798,-84.61152,Commercial,Suburban,True,True
+21-227-0009,PM2.5 FRM/FEM,21,Kentucky,37.04926,-86.21487,Residential,Suburban,True,True
+22-015-0008,PM10,22,Louisiana,32.536273,-93.74894,Commercial,Urban and center city,True,True
+22-015-0008,PM2.5 non-FRM/FEM,22,Louisiana,32.536273,-93.74894,Commercial,Urban and center city,True,True
+22-019-0008,PM10,22,Louisiana,30.262347,-93.284906,Industrial,Rural,True,True
+22-019-0008,PM2.5 FRM/FEM,22,Louisiana,30.262347,-93.284906,Industrial,Rural,True,True
+22-033-0009,PM10,22,Louisiana,30.461981,-91.179219,Commercial,Urban and center city,True,True
+22-033-0009,PM2.5 FRM/FEM,22,Louisiana,30.461981,-91.179219,Commercial,Urban and center city,True,True
+22-033-0009,PMc,22,Louisiana,30.461981,-91.179219,Commercial,Urban and center city,True,True
+22-051-1001,PM2.5 FRM/FEM,22,Louisiana,30.041238,-90.272826,Residential,Suburban,True,True
+22-055-0007,PM10,22,Louisiana,30.22611,-92.042908,Commercial,Suburban,True,True
+22-055-0007,PM2.5 non-FRM/FEM,22,Louisiana,30.22611,-92.042908,Commercial,Suburban,True,True
+22-057-0004,PM2.5 non-FRM/FEM,22,Louisiana,29.764098,-90.765275,Residential,Suburban,True,True
+22-063-0002,PM2.5 non-FRM/FEM,22,Louisiana,30.315406,-90.811383,Residential,Rural,True,True
+22-071-0012,PM10,22,Louisiana,29.993519,-90.10155,Residential,Urban and center city,True,True
+22-071-0012,PM2.5 non-FRM/FEM,22,Louisiana,29.993519,-90.10155,Residential,Urban and center city,True,True
+22-087-0007,PM10,22,Louisiana,29.943164,-89.97625,Residential,Suburban,True,True
+22-087-0007,PM2.5 FRM/FEM,22,Louisiana,29.943164,-89.97625,Residential,Suburban,True,True
+22-121-0001,PM2.5 FRM/FEM,22,Louisiana,30.500642,-91.213556,Commercial,Suburban,True,True
+23-001-0011,PM2.5 FRM/FEM,23,Maine,44.089406,-70.214219,Commercial,Urban and center city,True,True
+23-003-0014,PM10,23,Maine,47.355332,-68.321106,Commercial,Urban and center city,True,True
+23-003-0014,PM2.5 FRM/FEM,23,Maine,47.355332,-68.321106,Commercial,Urban and center city,True,True
+23-003-1011,PM10,23,Maine,46.682299,-68.016195,Commercial,Urban and center city,True,True
+23-003-1011,PM2.5 FRM/FEM,23,Maine,46.682299,-68.016195,Commercial,Urban and center city,True,True
+23-003-1100,PM2.5 non-FRM/FEM,23,Maine,46.696431,-68.033006,Residential,Suburban,True,True
+23-005-0029,PM2.5 FRM/FEM,23,Maine,43.660246,-70.268965,Commercial,Urban and center city,True,False
+23-009-0103,PM10,23,Maine,44.37705,-68.2609,Agricultural,Rural,True,True
+23-009-0103,PM2.5 FRM/FEM,23,Maine,44.37705,-68.2609,Agricultural,Rural,True,True
+23-009-0103,PMc,23,Maine,44.37705,-68.2609,Agricultural,Rural,True,True
+23-011-0016,PM10,23,Maine,44.312319,-69.786717,Residential,Suburban,True,True
+23-011-0016,PM2.5 FRM/FEM,23,Maine,44.312319,-69.786717,Residential,Suburban,True,True
+23-017-2011,PM2.5 FRM/FEM,23,Maine,44.551419,-70.546319,Industrial,Rural,True,True
+23-029-0033,PM2.5 FRM/FEM,23,Maine,44.963894,-67.061325,Agricultural,Rural,True,True
+24-005-1007,PM2.5 FRM/FEM,24,Maryland,39.460478,-76.633543,Residential,Suburban,True,True
+24-015-0003,PM2.5 FRM/FEM,24,Maryland,39.702982,-75.864771,Agricultural,Rural,True,True
+24-019-0004,PM2.5 FRM/FEM,24,Maryland,38.587525,-76.141006,Agricultural,Rural,True,True
+24-023-0002,PM2.5 FRM/FEM,24,Maryland,39.70595,-79.012,Forest,Rural,True,True
+24-025-1001,PM2.5 FRM/FEM,24,Maryland,39.410191,-76.296946,Military reservation,Rural,True,True
+24-027-0006,PM2.5 FRM/FEM,24,Maryland,39.14313,-76.84611,Residential,Suburban,True,True
+24-029-0002,PM2.5 FRM/FEM,24,Maryland,39.305021,-75.797317,Agricultural,Rural,True,True
+24-031-3001,PM2.5 FRM/FEM,24,Maryland,39.114313,-77.106876,Residential,Rural,True,True
+24-033-0030,PM2.5 FRM/FEM,24,Maryland,39.055277,-76.878333,Residential,Suburban,True,True
+24-043-0009,PM2.5 FRM/FEM,24,Maryland,39.564178,-77.720244,Agricultural,Rural,True,True
+24-510-5253,PM2.5 FRM/FEM,24,Maryland,39.33746,-76.58905,Residential,Urban and center city,True,True
+25-003-0008,PM2.5 FRM/FEM,25,Massachusetts,42.452299,-73.239648,Commercial,Urban and center city,True,True
+25-003-6001,PM2.5 FRM/FEM,25,Massachusetts,42.702223,-73.110414,Commercial,Rural,True,True
+25-005-1004,PM2.5 FRM/FEM,25,Massachusetts,41.685707,-71.169235,Commercial,Suburban,True,True
+25-009-2006,PM2.5 FRM/FEM,25,Massachusetts,42.474642,-70.970816,Commercial,Urban and center city,True,True
+25-011-2005,PM2.5 FRM/FEM,25,Massachusetts,42.605816,-72.596689,Residential,Suburban,True,True
+25-013-0008,PM2.5 FRM/FEM,25,Massachusetts,42.19438,-72.555112,Commercial,Suburban,True,True
+25-013-0018,PM2.5 FRM/FEM,25,Massachusetts,42.120229,-72.584503,Commercial,Urban and center city,True,True
+25-015-4002,PM10,25,Massachusetts,42.298493,-72.334079,Forest,Rural,True,True
+25-015-4002,PM2.5 FRM/FEM,25,Massachusetts,42.298493,-72.334079,Forest,Rural,True,True
+25-015-4002,PMc,25,Massachusetts,42.298493,-72.334079,Forest,Rural,True,True
+25-017-0010,PM2.5 FRM/FEM,25,Massachusetts,42.612085,-71.306986,Residential,Suburban,True,True
+25-021-2005,PM2.5 FRM/FEM,25,Massachusetts,42.241229,-70.963346,Industrial,Suburban,True,True
+25-023-0005,PM2.5 FRM/FEM,25,Massachusetts,42.065106,-71.012129,Residential,Suburban,True,True
+25-025-0002,PM2.5 FRM/FEM,25,Massachusetts,42.348873,-71.097163,Commercial,Urban and center city,True,True
+25-025-0042,PM10,25,Massachusetts,42.3295,-71.0826,Commercial,Urban and center city,True,True
+25-025-0042,PM2.5 FRM/FEM,25,Massachusetts,42.3295,-71.0826,Commercial,Urban and center city,True,True
+25-025-0042,PMc,25,Massachusetts,42.3295,-71.0826,Commercial,Urban and center city,True,True
+25-025-0044,PM2.5 FRM/FEM,25,Massachusetts,42.325186,-71.056061,Commercial,Urban and center city,True,True
+25-025-0045,PM2.5 FRM/FEM,25,Massachusetts,42.349954,-71.059194,Commercial,Urban and center city,True,True
+25-025-1004,PM2.5 FRM/FEM,25,Massachusetts,42.387222,-71.026111,Residential,Urban and center city,True,True
+25-027-0023,PM10,25,Massachusetts,42.263955,-71.794322,Commercial,Urban and center city,True,True
+25-027-0023,PM2.5 FRM/FEM,25,Massachusetts,42.263955,-71.794322,Commercial,Urban and center city,True,True
+25-027-0023,PMc,25,Massachusetts,42.263955,-71.794322,Commercial,Urban and center city,True,True
+26-005-0003,PM2.5 FRM/FEM,26,Michigan,42.768233,-86.150636,Residential,Suburban,True,True
+26-017-0014,PM2.5 FRM/FEM,26,Michigan,43.571391,-83.890721,Residential,Urban and center city,True,True
+26-049-0021,PM2.5 FRM/FEM,26,Michigan,43.047224,-83.670159,Residential,Urban and center city,True,True
+26-065-0018,PM2.5 FRM/FEM,26,Michigan,42.76138,-84.562867,Commercial,Urban and center city,True,True
+26-077-0008,PM2.5 FRM/FEM,26,Michigan,42.278067,-85.54189,Commercial,Urban and center city,True,True
+26-081-0020,PM10,26,Michigan,42.984173,-85.671339,Industrial,Urban and center city,True,True
+26-081-0020,PM2.5 FRM/FEM,26,Michigan,42.984173,-85.671339,Industrial,Urban and center city,True,True
+26-081-0020,PMc,26,Michigan,42.984173,-85.671339,Industrial,Urban and center city,True,True
+26-091-0007,PM2.5 FRM/FEM,26,Michigan,41.995568,-83.946559,Commercial,Suburban,True,True
+26-099-0009,PM2.5 FRM/FEM,26,Michigan,42.731394,-82.793463,Commercial,Suburban,True,True
+26-113-0001,PM2.5 FRM/FEM,26,Michigan,44.310555,-84.891865,Forest,Rural,True,True
+26-139-0005,PM10,26,Michigan,42.894444,-85.852778,Residential,Suburban,True,True
+26-139-0005,PM2.5 FRM/FEM,26,Michigan,42.894444,-85.852778,Residential,Suburban,True,True
+26-147-0005,PM2.5 FRM/FEM,26,Michigan,42.953336,-82.456229,Residential,Suburban,True,True
+26-153-0001,PM2.5 FRM/FEM,26,Michigan,46.288877,-85.950227,Forest,Rural,True,True
+26-161-0008,PM2.5 FRM/FEM,26,Michigan,42.240556,-83.599722,Commercial,Urban and center city,True,True
+26-163-0001,PM10,26,Michigan,42.228611,-83.208333,Commercial,Suburban,True,True
+26-163-0001,PM2.5 FRM/FEM,26,Michigan,42.228611,-83.208333,Commercial,Suburban,True,True
+26-163-0001,PMc,26,Michigan,42.228611,-83.208333,Commercial,Suburban,True,True
+26-163-0033,PM10,26,Michigan,42.306666,-83.148889,Industrial,Suburban,True,True
+26-163-0033,PM2.5 FRM/FEM,26,Michigan,42.306666,-83.148889,Industrial,Suburban,True,True
+26-163-0033,PMc,26,Michigan,42.306666,-83.148889,Industrial,Suburban,True,True
+26-163-0093,PM2.5 FRM/FEM,26,Michigan,42.385998,-83.266189,Residential,Urban and center city,True,True
+26-163-0097,PM2.5 FRM/FEM,26,Michigan,42.261669,-83.157893,Residential,Urban and center city,True,True
+26-163-0098,PM2.5 FRM/FEM,26,Michigan,42.312158,-83.091943,Residential,Urban and center city,True,True
+26-163-0099,PM2.5 FRM/FEM,26,Michigan,42.295824,-83.129431,Commercial,Urban and center city,True,True
+26-163-0100,PM2.5 FRM/FEM,26,Michigan,42.312078,-83.103469,Residential,Urban and center city,True,True
+27-003-1002,PM10,27,Minnesota,45.13768,-93.207615,Commercial,Suburban,True,True
+27-003-1002,PM2.5 FRM/FEM,27,Minnesota,45.13768,-93.207615,Commercial,Suburban,True,True
+27-003-1002,PMc,27,Minnesota,45.13768,-93.207615,Commercial,Suburban,True,True
+27-005-2013,PM2.5 FRM/FEM,27,Minnesota,46.851811,-95.846272,Forest,Rural,True,True
+27-007-2304,PM2.5 FRM/FEM,27,Minnesota,47.878159,-95.029172,Residential,Rural,True,True
+27-017-7417,PM2.5 FRM/FEM,27,Minnesota,46.713694,-92.511722,Commercial,Rural,True,True
+27-021-3410,PM2.5 FRM/FEM,27,Minnesota,47.38443,-94.60166,Residential,Suburban,True,True
+27-031-7810,PM2.5 FRM/FEM,27,Minnesota,47.972085,-89.69098,Forest,Rural,True,True
+27-035-3204,PM2.5 FRM/FEM,27,Minnesota,46.39674,-94.1303,Forest,Rural,True,True
+27-037-0470,PM2.5 FRM/FEM,27,Minnesota,44.73846,-93.23725,Residential,Suburban,True,True
+27-037-0480,PM2.5 FRM/FEM,27,Minnesota,44.706123,-93.285803,Commercial,Suburban,True,True
+27-053-0909,PM10,27,Minnesota,45.012102,-93.276699,Industrial,Urban and center city,True,True
+27-053-0910,PM10,27,Minnesota,45.008297,-93.277041,Industrial,Urban and center city,True,True
+27-053-0962,PM2.5 FRM/FEM,27,Minnesota,44.965242,-93.254759,Residential,Urban and center city,True,True
+27-053-0963,PM2.5 FRM/FEM,27,Minnesota,44.95366,-93.25821,Residential,Urban and center city,True,True
+27-053-1909,PM10,27,Minnesota,45.013611,-93.272049,Commercial,Urban and center city,True,True
+27-075-0005,PM2.5 FRM/FEM,27,Minnesota,47.948622,-91.495574,Forest,Rural,True,True
+27-083-4210,PM2.5 FRM/FEM,27,Minnesota,44.4438,-95.81789,Agricultural,Rural,True,True
+27-109-5008,PM2.5 FRM/FEM,27,Minnesota,43.996908,-92.450366,Residential,Suburban,True,True
+27-123-0868,PM10,27,Minnesota,44.95072,-93.09827,Commercial,Urban and center city,True,True
+27-123-0871,PM2.5 FRM/FEM,27,Minnesota,44.95939,-93.03587,Residential,Suburban,True,True
+27-137-7001,PM2.5 FRM/FEM,27,Minnesota,47.523355,-92.536305,Commercial,Urban and center city,True,True
+27-137-7550,PM2.5 FRM/FEM,27,Minnesota,46.81826,-92.08936,Residential,Suburban,True,True
+27-137-7554,PM2.5 FRM/FEM,27,Minnesota,46.743657,-92.165998,Residential,Suburban,True,True
+27-139-0505,PM2.5 FRM/FEM,27,Minnesota,44.791437,-93.512534,Residential,Urban and center city,True,True
+27-145-3052,PM2.5 FRM/FEM,27,Minnesota,45.549839,-94.13345,Residential,Suburban,True,True
+27-171-3201,PM2.5 FRM/FEM,27,Minnesota,45.20916,-93.66921,Residential,Suburban,True,True
+28-011-0002,PM2.5 FRM/FEM,28,Mississippi,33.750838,-90.734175,Residential,Urban and center city,True,True
+28-033-0002,PM2.5 FRM/FEM,28,Mississippi,34.82056,-89.98778,Commercial,Suburban,True,True
+28-035-0004,PM2.5 FRM/FEM,28,Mississippi,31.32389,-89.2922,Commercial,Urban and center city,True,True
+28-045-0003,PM2.5 FRM/FEM,28,Mississippi,30.300833,-89.395916,Commercial,Rural,True,True
+28-047-0008,PM2.5 FRM/FEM,28,Mississippi,30.390369,-89.049778,Commercial,Rural,True,True
+28-049-0020,PM10,28,Mississippi,32.329111,-90.182722,Commercial,Urban and center city,True,True
+28-049-0020,PM2.5 FRM/FEM,28,Mississippi,32.329111,-90.182722,Commercial,Urban and center city,True,True
+28-049-0020,PMc,28,Mississippi,32.329111,-90.182722,Commercial,Urban and center city,True,True
+28-049-0021,PM2.5 FRM/FEM,28,Mississippi,32.346722,-90.225667,Commercial,Urban and center city,True,True
+28-059-0006,PM2.5 FRM/FEM,28,Mississippi,30.378287,-88.53393,Commercial,Urban and center city,True,True
+29-021-0005,PM10,29,Missouri,39.741694,-94.858584,Industrial,Urban and center city,True,True
+29-021-0005,PM2.5 FRM/FEM,29,Missouri,39.741694,-94.858584,Industrial,Urban and center city,True,True
+29-037-0003,PM2.5 FRM/FEM,29,Missouri,38.75961,-94.57983,Industrial,Rural,True,True
+29-039-0001,PM2.5 FRM/FEM,29,Missouri,37.70097,-94.03474,Agricultural,Rural,True,True
+29-047-0005,PM2.5 FRM/FEM,29,Missouri,39.303174,-94.377014,Agricultural,Rural,True,True
+29-077-0036,PM10,29,Missouri,37.256137,-93.299894,Residential,Suburban,True,True
+29-077-0036,PM2.5 FRM/FEM,29,Missouri,37.256137,-93.299894,Residential,Suburban,True,True
+29-095-0018,PM10,29,Missouri,39.132016,-94.531518,Industrial,Urban and center city,True,True
+29-095-0034,PM10,29,Missouri,39.104686,-94.57079,Commercial,Urban and center city,True,True
+29-095-0034,PM2.5 FRM/FEM,29,Missouri,39.104686,-94.57079,Commercial,Urban and center city,True,True
+29-097-0003,PM10,29,Missouri,37.198286,-94.317246,Industrial,Rural,True,True
+29-099-0019,PM10,29,Missouri,38.44853,-90.3986,Residential,Suburban,True,True
+29-099-0019,PM2.5 FRM/FEM,29,Missouri,38.44853,-90.3986,Residential,Suburban,True,True
+29-510-0007,PM2.5 FRM/FEM,29,Missouri,38.542551,-90.263711,Residential,Urban and center city,True,True
+29-510-0085,PM10,29,Missouri,38.656429,-90.198348,Residential,Urban and center city,True,True
+29-510-0085,PM2.5 FRM/FEM,29,Missouri,38.656429,-90.198348,Residential,Urban and center city,True,True
+29-510-0085,PMc,29,Missouri,38.656429,-90.198348,Residential,Urban and center city,True,True
+29-510-0093,PM10,29,Missouri,38.656479,-90.189868,Industrial,Urban and center city,True,True
+29-510-0093,PM2.5 FRM/FEM,29,Missouri,38.656479,-90.189868,Industrial,Urban and center city,True,True
+29-510-0094,PM2.5 FRM/FEM,29,Missouri,38.63114,-90.28115,Commercial,Suburban,True,True
+30-001-0003,PM2.5 FRM/FEM,30,Montana,45.206448,-112.64251,Commercial,Urban and center city,True,True
+30-017-0005,PM2.5 FRM/FEM,30,Montana,46.411389,-105.812778,Agricultural,Rural,True,False
+30-027-0006,PM10,30,Montana,47.048537,-109.455315,Commercial,Rural,True,True
+30-027-0006,PM2.5 FRM/FEM,30,Montana,47.048537,-109.455315,Commercial,Rural,True,True
+30-029-0009,PM10,30,Montana,48.400407,-114.336962,Commercial,Suburban,True,True
+30-029-0047,PM10,30,Montana,48.20054,-114.305334,Industrial,Urban and center city,True,False
+30-029-0049,PM10,30,Montana,48.363694,-114.189272,Residential,Suburban,True,True
+30-029-0049,PM2.5 FRM/FEM,30,Montana,48.363694,-114.189272,Residential,Suburban,True,True
+30-031-0017,PM2.5 FRM/FEM,30,Montana,44.657014,-111.089618,Forest,Rural,True,True
+30-035-0022,PM2.5 FRM/FEM,30,Montana,48.607406,-112.36384,Commercial,Rural,True,True
+30-041-0002,PM2.5 FRM/FEM,30,Montana,48.540373,-109.684432,Residential,Rural,True,True
+30-049-0004,PM2.5 FRM/FEM,30,Montana,46.8505,-111.987164,Agricultural,Rural,True,True
+30-049-0026,PM2.5 FRM/FEM,30,Montana,46.658762,-112.013089,Residential,Suburban,True,True
+30-053-0018,PM10,30,Montana,48.391545,-115.553309,Commercial,Urban and center city,True,True
+30-053-0018,PM2.5 FRM/FEM,30,Montana,48.391545,-115.553309,Commercial,Urban and center city,True,True
+30-063-0024,PM10,30,Montana,46.842181,-114.021499,Residential,Suburban,True,True
+30-063-0024,PM2.5 FRM/FEM,30,Montana,46.842181,-114.021499,Residential,Suburban,True,True
+30-063-0037,PM2.5 FRM/FEM,30,Montana,47.012907,-114.224273,Residential,Suburban,True,True
+30-071-0010,PM2.5 FRM/FEM,30,Montana,48.317507,-107.862471,Agricultural,Rural,True,True
+30-081-0007,PM2.5 FRM/FEM,30,Montana,46.243621,-114.158889,Residential,Urban and center city,True,True
+30-083-0002,PM10,30,Montana,47.8679,-104.676944,Agricultural,Rural,True,False
+30-083-0002,PM2.5 FRM/FEM,30,Montana,47.8679,-104.676944,Agricultural,Rural,True,False
+30-089-0007,PM10,30,Montana,47.594395,-115.323746,Residential,Suburban,True,True
+30-093-0005,PM10,30,Montana,46.002602,-112.501247,Residential,Urban and center city,True,True
+30-093-0005,PM2.5 FRM/FEM,30,Montana,46.002602,-112.501247,Residential,Urban and center city,True,True
+30-111-0087,PM2.5 FRM/FEM,30,Montana,45.806311,-108.425978,Residential,Suburban,True,True
+31-025-0002,PM10,31,Nebraska,40.865557,-96.146955,Residential,Suburban,True,True
+31-055-0019,PM10,31,Nebraska,41.247486,-95.973142,Residential,Suburban,True,True
+31-055-0019,PM2.5 FRM/FEM,31,Nebraska,41.247486,-95.973142,Residential,Suburban,True,True
+31-055-0019,PMc,31,Nebraska,41.247486,-95.973142,Residential,Suburban,True,True
+31-067-0005,PM2.5 FRM/FEM,31,Nebraska,40.285,-96.824166,Agricultural,Rural,True,True
+31-079-0005,PM2.5 FRM/FEM,31,Nebraska,40.915555,-98.378888,Industrial,Urban and center city,True,True
+31-153-0007,PM2.5 FRM/FEM,31,Nebraska,41.133294,-95.956103,Residential,Suburban,True,True
+31-157-0004,PM2.5 FRM/FEM,31,Nebraska,41.876853,-103.656561,Residential,Suburban,True,True
+31-177-0002,PM2.5 FRM/FEM,31,Nebraska,41.551211,-96.146175,Residential,Rural,True,True
+32-003-0024,PM10,32,Nevada,36.815897,-114.050347,Residential,Suburban,True,True
+32-003-0024,PM2.5 FRM/FEM,32,Nevada,36.815897,-114.050347,Residential,Suburban,True,True
+32-003-0043,PM10,32,Nevada,36.106389,-115.253333,Residential,Suburban,True,True
+32-003-0043,PM2.5 FRM/FEM,32,Nevada,36.106389,-115.253333,Residential,Suburban,True,True
+32-003-0044,PM10,32,Nevada,36.004733,-115.268517,Residential,Suburban,True,True
+32-003-0044,PM2.5 FRM/FEM,32,Nevada,36.004733,-115.268517,Residential,Suburban,True,True
+32-003-0071,PM10,32,Nevada,36.16976,-115.263038,Residential,Suburban,True,True
+32-003-0071,PM2.5 FRM/FEM,32,Nevada,36.16976,-115.263038,Residential,Suburban,True,True
+32-003-0073,PM10,32,Nevada,36.173415,-115.332728,Residential,Suburban,True,True
+32-003-0073,PM2.5 FRM/FEM,32,Nevada,36.173415,-115.332728,Residential,Suburban,True,True
+32-003-0075,PM10,32,Nevada,36.270592,-115.238282,Residential,Urban and center city,True,True
+32-003-0075,PM2.5 FRM/FEM,32,Nevada,36.270592,-115.238282,Residential,Urban and center city,True,True
+32-003-0298,PM10,32,Nevada,36.048705,-115.052942,Residential,Suburban,True,True
+32-003-0298,PM2.5 FRM/FEM,32,Nevada,36.048705,-115.052942,Residential,Suburban,True,True
+32-003-0299,PM10,32,Nevada,35.987908,-115.148885,Residential,Suburban,True,True
+32-003-0299,PM2.5 FRM/FEM,32,Nevada,35.987908,-115.148885,Residential,Suburban,True,True
+32-003-0540,PM10,32,Nevada,36.141875,-115.078742,Residential,Urban and center city,True,True
+32-003-0540,PM2.5 FRM/FEM,32,Nevada,36.141875,-115.078742,Residential,Urban and center city,True,True
+32-003-0540,PMc,32,Nevada,36.141875,-115.078742,Residential,Urban and center city,True,True
+32-003-0561,PM10,32,Nevada,36.163962,-115.11393,Residential,Urban and center city,True,True
+32-003-0561,PM2.5 FRM/FEM,32,Nevada,36.163962,-115.11393,Residential,Urban and center city,True,True
+32-003-0602,PM10,32,Nevada,35.969848,-114.835007,Residential,Suburban,True,True
+32-003-0602,PM2.5 FRM/FEM,32,Nevada,35.969848,-114.835007,Residential,Suburban,True,True
+32-003-1019,PM10,32,Nevada,35.785665,-115.357087,Desert,Rural,True,True
+32-003-1019,PM2.5 FRM/FEM,32,Nevada,35.785665,-115.357087,Desert,Rural,True,True
+32-003-1501,PM2.5 FRM/FEM,32,Nevada,36.139707,-115.175654,Commercial,Urban and center city,True,True
+32-003-2003,PM10,32,Nevada,36.214465,-115.091437,Residential,Suburban,True,True
+32-003-2003,PM2.5 FRM/FEM,32,Nevada,36.214465,-115.091437,Residential,Suburban,True,True
+32-005-0007,PM2.5 FRM/FEM,32,Nevada,38.897557,-119.732507,Residential,Rural,True,True
+32-007-0005,PM10,32,Nevada,40.83835,-115.766029,Residential,Rural,True,True
+32-023-0011,PM10,32,Nevada,36.349408,-116.031976,Desert,Rural,True,True
+32-023-0013,PM10,32,Nevada,36.159639,-115.996263,Desert,Rural,True,True
+32-023-0014,PM10,32,Nevada,36.212787,-115.994802,Commercial,Rural,True,True
+32-023-0015,PM10,32,Nevada,36.193469,-116.007584,Residential,Rural,True,True
+32-031-0031,PM10,32,Nevada,39.521933,-119.7954,Residential,Urban and center city,True,True
+32-031-0031,PM2.5 FRM/FEM,32,Nevada,39.521933,-119.7954,Residential,Urban and center city,True,True
+32-031-0031,PMc,32,Nevada,39.521933,-119.7954,Residential,Urban and center city,True,True
+32-031-1005,PM10,32,Nevada,39.540917,-119.746761,Residential,Suburban,True,True
+32-031-1005,PM2.5 FRM/FEM,32,Nevada,39.540917,-119.746761,Residential,Suburban,True,True
+32-031-1005,PMc,32,Nevada,39.540917,-119.746761,Residential,Suburban,True,True
+32-031-1007,PM10,32,Nevada,39.621434,-119.71877,Residential,Suburban,True,True
+32-031-1007,PM2.5 FRM/FEM,32,Nevada,39.621434,-119.71877,Residential,Suburban,True,True
+32-031-1007,PMc,32,Nevada,39.621434,-119.71877,Residential,Suburban,True,True
+32-510-0020,PM2.5 FRM/FEM,32,Nevada,39.1447,-119.7661,Residential,Urban and center city,True,True
+33-005-0007,PM2.5 FRM/FEM,33,New Hampshire,42.930521,-72.272332,Commercial,Urban and center city,True,True
+33-005-0007,PMc,33,New Hampshire,42.930521,-72.272332,Commercial,Urban and center city,True,True
+33-009-0010,PM2.5 FRM/FEM,33,New Hampshire,43.629605,-72.309499,Commercial,Urban and center city,True,True
+33-009-0010,PMc,33,New Hampshire,43.629605,-72.309499,Commercial,Urban and center city,True,True
+33-011-5001,PM2.5 FRM/FEM,33,New Hampshire,42.86183,-71.878626,Forest,Rural,True,True
+33-011-5001,PMc,33,New Hampshire,42.86183,-71.878626,Forest,Rural,True,True
+33-015-0014,PM10,33,New Hampshire,43.075371,-70.748017,Residential,Urban and center city,True,True
+33-015-0014,PM2.5 FRM/FEM,33,New Hampshire,43.075371,-70.748017,Residential,Urban and center city,True,True
+33-015-0014,PMc,33,New Hampshire,43.075371,-70.748017,Residential,Urban and center city,True,True
+33-015-0018,PM10,33,New Hampshire,42.862531,-71.38014,Residential,Suburban,True,True
+33-015-0018,PM2.5 FRM/FEM,33,New Hampshire,42.862531,-71.38014,Residential,Suburban,True,True
+33-015-0018,PMc,33,New Hampshire,42.862531,-71.38014,Residential,Suburban,True,True
+34-001-0006,PM2.5 FRM/FEM,34,New Jersey,39.464872,-74.448736,Residential,Rural,True,True
+34-001-1006,PM2.5 FRM/FEM,34,New Jersey,39.36326,-74.431,Commercial,Urban and center city,True,True
+34-003-0010,PM2.5 FRM/FEM,34,New Jersey,40.85355,-73.96618,Commercial,Urban and center city,True,True
+34-007-1007,PM2.5 FRM/FEM,34,New Jersey,39.989036,-75.050008,Industrial,Suburban,True,True
+34-011-0007,PM2.5 FRM/FEM,34,New Jersey,39.422273,-75.025204,Industrial,Rural,True,True
+34-017-0008,PM2.5 FRM/FEM,34,New Jersey,40.770908,-74.036218,Residential,Urban and center city,True,True
+34-017-1003,PM2.5 FRM/FEM,34,New Jersey,40.725413,-74.052293,Commercial,Urban and center city,True,True
+34-019-0001,PM2.5 FRM/FEM,34,New Jersey,40.515262,-74.806671,Agricultural,Rural,True,True
+34-021-0005,PM2.5 FRM/FEM,34,New Jersey,40.283092,-74.742613,Residential,Suburban,True,True
+34-021-0008,PM2.5 FRM/FEM,34,New Jersey,40.222411,-74.763167,Residential,Urban and center city,True,True
+34-023-0011,PM2.5 FRM/FEM,34,New Jersey,40.462182,-74.429439,Agricultural,Rural,True,True
+34-029-2002,PM2.5 FRM/FEM,34,New Jersey,39.994908,-74.170447,Residential,Suburban,True,True
+34-031-0005,PM2.5 FRM/FEM,34,New Jersey,40.918381,-74.168092,Commercial,Urban and center city,True,True
+34-039-0004,PM2.5 FRM/FEM,34,New Jersey,40.64144,-74.208365,Industrial,Suburban,True,True
+34-039-2003,PM2.5 FRM/FEM,34,New Jersey,40.603943,-74.276174,Commercial,Suburban,True,True
+34-041-0007,PM2.5 FRM/FEM,34,New Jersey,40.92458,-75.067815,Residential,Suburban,True,True
+35-001-0023,PM10,35,New Mexico,35.1343,-106.5852,Residential,Urban and center city,True,True
+35-001-0023,PM2.5 FRM/FEM,35,New Mexico,35.1343,-106.5852,Residential,Urban and center city,True,True
+35-001-0023,PMc,35,New Mexico,35.1343,-106.5852,Residential,Urban and center city,True,True
+35-001-0026,PM10,35,New Mexico,35.1443,-106.60468,Commercial,Suburban,True,True
+35-001-0026,PM2.5 FRM/FEM,35,New Mexico,35.1443,-106.60468,Commercial,Suburban,True,True
+35-001-0026,PMc,35,New Mexico,35.1443,-106.60468,Commercial,Suburban,True,True
+35-001-0029,PM10,35,New Mexico,35.01708,-106.65739,Commercial,Rural,True,True
+35-001-0029,PM2.5 FRM/FEM,35,New Mexico,35.01708,-106.65739,Commercial,Rural,True,True
+35-001-0029,PMc,35,New Mexico,35.01708,-106.65739,Commercial,Rural,True,True
+35-001-1012,PM10,35,New Mexico,35.1852,-106.50815,Residential,Suburban,True,True
+35-001-1012,PM2.5 FRM/FEM,35,New Mexico,35.1852,-106.50815,Residential,Suburban,True,True
+35-001-1012,PMc,35,New Mexico,35.1852,-106.50815,Residential,Suburban,True,True
+35-001-1013,PM10,35,New Mexico,35.19324,-106.613815,Residential,Suburban,True,True
+35-001-1013,PM2.5 FRM/FEM,35,New Mexico,35.19324,-106.613815,Residential,Suburban,True,True
+35-001-1013,PMc,35,New Mexico,35.19324,-106.613815,Residential,Suburban,True,True
+35-001-2022,PM10,35,New Mexico,35.063569,-106.647503,Residential,Urban and center city,True,True
+35-001-2022,PM2.5 FRM/FEM,35,New Mexico,35.063569,-106.647503,Residential,Urban and center city,True,True
+35-001-2022,PMc,35,New Mexico,35.063569,-106.647503,Residential,Urban and center city,True,True
+35-013-0016,PM10,35,New Mexico,32.003712,-106.599715,Agricultural,Rural,True,True
+35-013-0016,PM2.5 FRM/FEM,35,New Mexico,32.003712,-106.599715,Agricultural,Rural,True,True
+35-013-0019,PM10,35,New Mexico,32.424813,-106.674724,Desert,Rural,True,True
+35-013-0020,PM10,35,New Mexico,32.041212,-106.40971,Residential,Rural,True,True
+35-013-0021,PM10,35,New Mexico,31.796218,-106.584434,Residential,Suburban,True,True
+35-013-0021,PM2.5 FRM/FEM,35,New Mexico,31.796218,-106.584434,Residential,Suburban,True,True
+35-013-0022,PM2.5 FRM/FEM,35,New Mexico,31.787885,-106.683324,Desert,Rural,True,True
+35-013-0024,PM10,35,New Mexico,32.27815,-106.865006,Desert,Rural,True,True
+35-013-0025,PM2.5 FRM/FEM,35,New Mexico,32.322037,-106.768337,Commercial,Urban and center city,True,True
+35-025-0008,PM2.5 FRM/FEM,35,New Mexico,32.726656,-103.122917,Desert,Suburban,True,True
+35-029-0003,PM10,35,New Mexico,32.2558,-107.7227,Commercial,Suburban,True,True
+35-049-0021,PM2.5 FRM/FEM,35,New Mexico,35.61975,-106.07968,Industrial,Rural,True,True
+35-055-0005,PM2.5 FRM/FEM,35,New Mexico,36.383359,-105.5839,Residential,Suburban,True,True
+36-001-0005,PM2.5 FRM/FEM,36,New York,42.64225,-73.75464,Commercial,Urban and center city,True,True
+36-005-0080,PM2.5 non-FRM/FEM,36,New York,40.83606,-73.92009,Residential,Urban and center city,True,True
+36-005-0110,PM2.5 FRM/FEM,36,New York,40.816,-73.902,Residential,Urban and center city,True,True
+36-005-0112,PM2.5 FRM/FEM,36,New York,40.81551,-73.88553,Industrial,Suburban,True,True
+36-029-0005,PM2.5 FRM/FEM,36,New York,42.876907,-78.809526,Residential,Urban and center city,True,True
+36-029-1014,PM2.5 non-FRM/FEM,36,New York,42.99813,-78.89926,Residential,Suburban,True,True
+36-031-0003,PM2.5 FRM/FEM,36,New York,44.39308,-73.8589,Forest,Rural,True,True
+36-047-0052,PM2.5 FRM/FEM,36,New York,40.64182,-74.01871,Residential,Urban and center city,True,True
+36-047-0118,PM2.5 FRM/FEM,36,New York,40.69454,-73.92769,Residential,Suburban,True,True
+36-055-1007,PM2.5 FRM/FEM,36,New York,43.14618,-77.54817,Residential,Urban and center city,True,True
+36-055-1007,PMc,36,New York,43.14618,-77.54817,Residential,Urban and center city,True,True
+36-061-0115,PM2.5 non-FRM/FEM,36,New York,40.84955,-73.935649,Commercial,Urban and center city,True,True
+36-065-2001,PM2.5 non-FRM/FEM,36,New York,43.09892,-75.22506,Commercial,Urban and center city,True,True
+36-067-1015,PM2.5 FRM/FEM,36,New York,43.05235,-76.05921,Commercial,Suburban,True,True
+36-067-1015,PMc,36,New York,43.05235,-76.05921,Commercial,Suburban,True,True
+36-071-0002,PM2.5 non-FRM/FEM,36,New York,41.49916,-74.00885,Commercial,Urban and center city,True,True
+36-081-0120,PM2.5 non-FRM/FEM,36,New York,40.72698,-73.89313,Residential,Suburban,True,True
+36-081-0124,PM2.5 FRM/FEM,36,New York,40.73614,-73.82153,Commercial,Urban and center city,True,True
+36-085-0055,PM2.5 non-FRM/FEM,36,New York,40.63307,-74.13719,Residential,Urban and center city,True,True
+36-087-0005,PM2.5 non-FRM/FEM,36,New York,41.18208,-74.02819,Agricultural,Rural,True,True
+36-101-0003,PM2.5 FRM/FEM,36,New York,42.09142,-77.20978,Forest,Rural,True,True
+36-101-0003,PMc,36,New York,42.09142,-77.20978,Forest,Rural,True,True
+36-119-2004,PM2.5 non-FRM/FEM,36,New York,41.05192,-73.76366,Residential,Suburban,True,True
+37-021-0034,PM10,37,North Carolina,35.6062,-82.5844,Commercial,Suburban,True,True
+37-021-0034,PM2.5 FRM/FEM,37,North Carolina,35.6062,-82.5844,Commercial,Suburban,True,True
+37-035-0004,PM2.5 FRM/FEM,37,North Carolina,35.728889,-81.365556,Industrial,Suburban,True,True
+37-051-0009,PM10,37,North Carolina,35.041416,-78.953112,Residential,Urban and center city,True,True
+37-051-0009,PM2.5 FRM/FEM,37,North Carolina,35.041416,-78.953112,Residential,Urban and center city,True,True
+37-057-0002,PM2.5 FRM/FEM,37,North Carolina,35.8145,-80.2627,Commercial,Urban and center city,True,True
+37-063-0015,PM10,37,North Carolina,36.032955,-78.904037,Commercial,Suburban,True,True
+37-063-0015,PM2.5 FRM/FEM,37,North Carolina,36.032955,-78.904037,Commercial,Suburban,True,True
+37-063-0015,PMc,37,North Carolina,36.032955,-78.904037,Commercial,Suburban,True,True
+37-065-0099,PM2.5 non-FRM/FEM,37,North Carolina,35.988278,-77.5843,Agricultural,Rural,True,True
+37-067-0022,PM10,37,North Carolina,36.11094,-80.224501,Residential,Urban and center city,True,True
+37-067-0022,PM2.5 FRM/FEM,37,North Carolina,36.11094,-80.224501,Residential,Urban and center city,True,True
+37-067-0022,PMc,37,North Carolina,36.11094,-80.224501,Residential,Urban and center city,True,True
+37-067-0030,PM2.5 FRM/FEM,37,North Carolina,36.026612,-80.341962,Residential,Suburban,True,True
+37-081-0013,PM10,37,North Carolina,36.109006,-79.802314,Residential,Urban and center city,True,True
+37-081-0013,PM2.5 FRM/FEM,37,North Carolina,36.109006,-79.802314,Residential,Urban and center city,True,True
+37-101-0002,PM2.5 FRM/FEM,37,North Carolina,35.59095,-78.4622,Agricultural,Rural,True,True
+37-119-0041,PM10,37,North Carolina,35.2401,-80.785683,Residential,Urban and center city,True,True
+37-119-0041,PM2.5 FRM/FEM,37,North Carolina,35.2401,-80.785683,Residential,Urban and center city,True,True
+37-119-0041,PMc,37,North Carolina,35.2401,-80.785683,Residential,Urban and center city,True,True
+37-119-0045,PM2.5 FRM/FEM,37,North Carolina,35.213171,-80.874084,Industrial,Urban and center city,True,True
+37-119-0047,PM10,37,North Carolina,35.123954,-80.907577,Industrial,Suburban,True,True
+37-119-0048,PM2.5 FRM/FEM,37,North Carolina,35.281791,-80.851473,Residential,Urban and center city,True,True
+37-121-0004,PM2.5 FRM/FEM,37,North Carolina,35.912487,-82.062082,Commercial,Suburban,True,True
+37-123-0001,PM2.5 FRM/FEM,37,North Carolina,35.263165,-79.836636,Forest,Rural,True,True
+37-129-0002,PM10,37,North Carolina,34.364167,-77.838611,Agricultural,Rural,True,True
+37-129-0002,PM2.5 FRM/FEM,37,North Carolina,34.364167,-77.838611,Agricultural,Rural,True,True
+37-129-0002,PMc,37,North Carolina,34.364167,-77.838611,Agricultural,Rural,True,True
+37-131-0003,PM2.5 FRM/FEM,37,North Carolina,36.511708,-77.655389,Agricultural,Rural,True,True
+37-147-0006,PM2.5 FRM/FEM,37,North Carolina,35.641276,-77.360126,Residential,Rural,True,True
+37-159-0021,PM2.5 FRM/FEM,37,North Carolina,35.551868,-80.395039,Commercial,Rural,True,True
+37-173-0002,PM2.5 FRM/FEM,37,North Carolina,35.434767,-83.442133,Residential,Suburban,True,True
+37-183-0014,PM10,37,North Carolina,35.856111,-78.574167,Residential,Suburban,True,True
+37-183-0014,PM2.5 FRM/FEM,37,North Carolina,35.856111,-78.574167,Residential,Suburban,True,True
+37-183-0014,PMc,37,North Carolina,35.856111,-78.574167,Residential,Suburban,True,True
+38-007-0002,PM2.5 FRM/FEM,38,North Dakota,46.8943,-103.37853,Agricultural,Rural,True,True
+38-013-0004,PM10,38,North Dakota,48.64193,-102.4018,Agricultural,Rural,True,True
+38-013-0004,PM2.5 FRM/FEM,38,North Dakota,48.64193,-102.4018,Agricultural,Rural,True,True
+38-015-0003,PM10,38,North Dakota,46.825425,-100.76821,Residential,Suburban,True,True
+38-015-0003,PM2.5 FRM/FEM,38,North Dakota,46.825425,-100.76821,Residential,Suburban,True,True
+38-015-0003,PMc,38,North Dakota,46.825425,-100.76821,Residential,Suburban,True,True
+38-017-1004,PM2.5 FRM/FEM,38,North Dakota,46.933754,-96.85535,Agricultural,Suburban,True,True
+38-025-0004,PM10,38,North Dakota,47.342423,-102.645864,Agricultural,Rural,True,True
+38-025-0004,PM2.5 FRM/FEM,38,North Dakota,47.342423,-102.645864,Agricultural,Rural,True,True
+38-053-0002,PM2.5 FRM/FEM,38,North Dakota,47.5812,-103.2995,Agricultural,Rural,True,True
+38-057-0004,PM2.5 FRM/FEM,38,North Dakota,47.298611,-101.766944,Agricultural,Rural,True,True
+38-065-0002,PM2.5 FRM/FEM,38,North Dakota,47.185833,-101.428056,Agricultural,Rural,True,True
+38-101-0003,PM2.5 FRM/FEM,38,North Dakota,47.940861,-101.571583,Agricultural,Rural,True,True
+39-003-0009,PM2.5 FRM/FEM,39,Ohio,40.770944,-84.0539,Residential,Rural,True,True
+39-009-0003,PM2.5 FRM/FEM,39,Ohio,39.442165,-81.908827,Forest,Rural,True,True
+39-017-0015,PM10,39,Ohio,39.49072,-84.36374,Industrial,Suburban,True,True
+39-017-0015,PM2.5 FRM/FEM,39,Ohio,39.49072,-84.36374,Industrial,Suburban,True,True
+39-017-0019,PM10,39,Ohio,39.479822,-84.409617,Residential,Suburban,True,True
+39-017-0019,PM2.5 FRM/FEM,39,Ohio,39.479822,-84.409617,Residential,Suburban,True,True
+39-017-0020,PM10,39,Ohio,39.472436,-84.394952,Industrial,Suburban,True,True
+39-017-0020,PM2.5 FRM/FEM,39,Ohio,39.472436,-84.394952,Industrial,Suburban,True,True
+39-017-0022,PM2.5 FRM/FEM,39,Ohio,39.478686,-84.397112,Residential,Suburban,True,True
+39-023-0005,PM2.5 FRM/FEM,39,Ohio,39.92882,-83.80949,Commercial,Urban and center city,True,True
+39-025-0022,PM2.5 non-FRM/FEM,39,Ohio,39.0828,-84.1441,Residential,Suburban,True,True
+39-035-0034,PM2.5 FRM/FEM,39,Ohio,41.55523,-81.575256,Residential,Urban and center city,True,True
+39-035-0038,PM10,39,Ohio,41.477011,-81.682383,Residential,Urban and center city,True,True
+39-035-0038,PM2.5 FRM/FEM,39,Ohio,41.477011,-81.682383,Residential,Urban and center city,True,True
+39-035-0045,PM10,39,Ohio,41.471782,-81.656792,Residential,Urban and center city,True,True
+39-035-0045,PM2.5 FRM/FEM,39,Ohio,41.471782,-81.656792,Residential,Urban and center city,True,True
+39-035-0060,PM10,39,Ohio,41.492117,-81.678449,Commercial,Urban and center city,True,True
+39-035-0060,PM2.5 FRM/FEM,39,Ohio,41.492117,-81.678449,Commercial,Urban and center city,True,True
+39-035-0060,PMc,39,Ohio,41.492117,-81.678449,Commercial,Urban and center city,True,True
+39-035-0065,PM10,39,Ohio,41.446624,-81.662356,Industrial,Urban and center city,True,True
+39-035-0065,PM2.5 FRM/FEM,39,Ohio,41.446624,-81.662356,Industrial,Urban and center city,True,True
+39-049-0029,PM2.5 non-FRM/FEM,39,Ohio,40.084514,-82.815585,Agricultural,Suburban,True,True
+39-049-0040,PM10,39,Ohio,39.91251,-83.01159,Industrial,Urban and center city,True,False
+39-049-0040,PM2.5 FRM/FEM,39,Ohio,39.91251,-83.01159,Industrial,Urban and center city,True,False
+39-049-0081,PM10,39,Ohio,40.0877,-82.959773,Commercial,Suburban,True,True
+39-049-0081,PM2.5 FRM/FEM,39,Ohio,40.0877,-82.959773,Commercial,Suburban,True,True
+39-061-0006,PM2.5 FRM/FEM,39,Ohio,39.2787,-84.36625,Commercial,Suburban,True,True
+39-061-0010,PM2.5 non-FRM/FEM,39,Ohio,39.21487,-84.69086,Industrial,Rural,True,True
+39-061-0014,PM2.5 FRM/FEM,39,Ohio,39.19433,-84.478974,Industrial,Suburban,True,True
+39-061-0040,PM10,39,Ohio,39.12886,-84.50404,Commercial,Urban and center city,True,True
+39-061-0040,PM2.5 FRM/FEM,39,Ohio,39.12886,-84.50404,Commercial,Urban and center city,True,True
+39-061-0040,PMc,39,Ohio,39.12886,-84.50404,Commercial,Urban and center city,True,True
+39-061-0042,PM2.5 FRM/FEM,39,Ohio,39.10492,-84.55117,Residential,Urban and center city,True,True
+39-081-0017,PM10,39,Ohio,40.3663,-80.6158,Residential,Urban and center city,True,True
+39-081-0017,PM2.5 FRM/FEM,39,Ohio,40.3663,-80.6158,Residential,Urban and center city,True,True
+39-087-0012,PM2.5 FRM/FEM,39,Ohio,38.508075,-82.659241,Residential,Suburban,True,True
+39-099-0015,PM10,39,Ohio,41.106182,-80.640576,Commercial,Urban and center city,True,True
+39-099-0015,PM2.5 FRM/FEM,39,Ohio,41.106182,-80.640576,Commercial,Urban and center city,True,True
+39-103-0004,PM2.5 FRM/FEM,39,Ohio,41.0604,-81.9239,Agricultural,Rural,True,True
+39-113-0038,PM10,39,Ohio,39.755969,-84.198674,Commercial,Urban and center city,True,True
+39-113-0038,PM2.5 FRM/FEM,39,Ohio,39.755969,-84.198674,Commercial,Urban and center city,True,True
+39-135-1001,PM10,39,Ohio,39.83562,-84.720524,Agricultural,Rural,True,True
+39-135-1001,PM2.5 FRM/FEM,39,Ohio,39.83562,-84.720524,Agricultural,Rural,True,True
+39-135-1001,PMc,39,Ohio,39.83562,-84.720524,Agricultural,Rural,True,True
+39-145-0015,PM10,39,Ohio,38.59246,-82.80677,Commercial,Rural,True,True
+39-145-0015,PM2.5 FRM/FEM,39,Ohio,38.59246,-82.80677,Commercial,Rural,True,True
+39-145-0020,PM10,39,Ohio,38.609338,-82.822512,Forest,Rural,True,False
+39-145-0021,PM10,39,Ohio,38.600611,-82.829782,Industrial,Rural,True,False
+39-145-0022,PM10,39,Ohio,38.588034,-82.834973,Industrial,Rural,True,False
+39-151-0017,PM10,39,Ohio,40.786804,-81.394153,Industrial,Urban and center city,True,True
+39-151-0017,PM2.5 FRM/FEM,39,Ohio,40.786804,-81.394153,Industrial,Urban and center city,True,True
+39-151-0020,PM2.5 FRM/FEM,39,Ohio,40.800717,-81.373,Commercial,Urban and center city,True,True
+39-153-0017,PM10,39,Ohio,41.063526,-81.468956,Industrial,Suburban,True,True
+39-153-0017,PM2.5 FRM/FEM,39,Ohio,41.063526,-81.468956,Industrial,Suburban,True,True
+39-155-0014,PM10,39,Ohio,41.23172,-80.80116,Residential,Urban and center city,True,True
+39-155-0014,PM2.5 FRM/FEM,39,Ohio,41.23172,-80.80116,Residential,Urban and center city,True,True
+39-165-0007,PM2.5 non-FRM/FEM,39,Ohio,39.42689,-84.20077,Residential,Suburban,True,True
+40-001-9009,PM10,40,Oklahoma,35.750735,-94.669697,Agricultural,Rural,True,True
+40-001-9009,PM2.5 FRM/FEM,40,Oklahoma,35.750735,-94.669697,Agricultural,Rural,True,True
+40-001-9009,PMc,40,Oklahoma,35.750735,-94.669697,Agricultural,Rural,True,True
+40-019-0297,PM2.5 FRM/FEM,40,Oklahoma,34.244189,-97.462931,Agricultural,Rural,True,True
+40-027-0049,PM2.5 FRM/FEM,40,Oklahoma,35.320105,-97.484099,Residential,Suburban,True,True
+40-031-0651,PM2.5 FRM/FEM,40,Oklahoma,34.63298,-98.42879,Residential,Suburban,True,True
+40-043-0860,PM2.5 FRM/FEM,40,Oklahoma,36.158414,-98.931973,Agricultural,Rural,True,True
+40-071-0604,PM2.5 FRM/FEM,40,Oklahoma,36.697186,-97.08135,Industrial,Urban and center city,True,True
+40-109-0097,PM2.5 FRM/FEM,40,Oklahoma,35.50307,-97.577981,Commercial,Urban and center city,True,True
+40-109-1037,PM10,40,Oklahoma,35.614131,-97.475083,Residential,Suburban,True,True
+40-109-1037,PM2.5 FRM/FEM,40,Oklahoma,35.614131,-97.475083,Residential,Suburban,True,True
+40-115-9004,PM10,40,Oklahoma,36.922222,-94.838889,Residential,Rural,True,True
+40-115-9004,PM2.5 FRM/FEM,40,Oklahoma,36.922222,-94.838889,Residential,Rural,True,True
+40-115-9007,PM10,40,Oklahoma,36.985702,-94.83931,Residential,Rural,True,True
+40-115-9007,PM2.5 FRM/FEM,40,Oklahoma,36.985702,-94.83931,Residential,Rural,True,True
+40-121-0415,PM2.5 FRM/FEM,40,Oklahoma,34.885608,-95.78441,Industrial,Rural,True,True
+40-135-9021,PM2.5 non-FRM/FEM,40,Oklahoma,35.40814,-94.524413,Commercial,Suburban,True,True
+40-143-0174,PM2.5 FRM/FEM,40,Oklahoma,35.953708,-96.004975,Agricultural,Rural,True,True
+40-143-1127,PM10,40,Oklahoma,36.204902,-95.976537,Residential,Urban and center city,True,True
+40-143-1127,PM2.5 FRM/FEM,40,Oklahoma,36.204902,-95.976537,Residential,Urban and center city,True,True
+41-001-0004,PM2.5 non-FRM/FEM,41,Oregon,44.78822,-117.8446,Commercial,Suburban,True,True
+41-005-0004,PM2.5 non-FRM/FEM,41,Oregon,45.25928,-122.588151,Agricultural,Rural,True,True
+41-009-0004,PM2.5 non-FRM/FEM,41,Oregon,45.768531,-122.7721,Agricultural,Rural,True,True
+41-013-0100,PM2.5 FRM/FEM,41,Oregon,44.299787,-120.844773,Residential,Urban and center city,True,True
+41-013-0100,PM2.5 non-FRM/FEM,41,Oregon,44.299787,-120.844773,Residential,Urban and center city,True,True
+41-017-0120,PM2.5 non-FRM/FEM,41,Oregon,44.063916,-121.312554,Residential,Urban and center city,True,True
+41-023-0002,PM2.5 non-FRM/FEM,41,Oregon,44.418,-118.9513,Residential,Suburban,True,True
+41-025-0003,PM2.5 FRM/FEM,41,Oregon,43.58925,-119.04872,Residential,Urban and center city,True,True
+41-025-0003,PM2.5 non-FRM/FEM,41,Oregon,43.58925,-119.04872,Residential,Urban and center city,True,True
+41-029-0019,PM2.5 non-FRM/FEM,41,Oregon,42.623225,-122.810158,Residential,Suburban,True,True
+41-029-0029,PM2.5 FRM/FEM,41,Oregon,42.3324,-122.8891,Residential,Urban and center city,True,True
+41-029-0029,PM2.5 non-FRM/FEM,41,Oregon,42.3324,-122.8891,Residential,Urban and center city,True,True
+41-029-0201,PM2.5 non-FRM/FEM,41,Oregon,42.229891,-122.7877,Agricultural,Rural,True,True
+41-029-0203,PM2.5 non-FRM/FEM,41,Oregon,42.1941,-122.7086,Residential,Suburban,True,True
+41-031-0007,PM2.5 non-FRM/FEM,41,Oregon,44.63062,-121.13165,Residential,Rural,True,True
+41-033-0036,PM2.5 non-FRM/FEM,41,Oregon,42.1617,-123.64835,Residential,Rural,True,True
+41-033-0114,PM2.5 FRM/FEM,41,Oregon,42.434139,-123.348466,Residential,Suburban,True,True
+41-033-0114,PM2.5 non-FRM/FEM,41,Oregon,42.434139,-123.348466,Residential,Suburban,True,True
+41-035-0004,PM2.5 FRM/FEM,41,Oregon,42.190296,-121.731369,Residential,Suburban,True,True
+41-035-0004,PM2.5 non-FRM/FEM,41,Oregon,42.190296,-121.731369,Residential,Suburban,True,True
+41-037-0001,PM2.5 FRM/FEM,41,Oregon,42.189215,-120.353969,Residential,Rural,True,True
+41-037-0001,PM2.5 non-FRM/FEM,41,Oregon,42.189215,-120.353969,Residential,Rural,True,True
+41-039-0059,PM2.5 FRM/FEM,41,Oregon,44.067224,-123.141352,Residential,Urban and center city,True,True
+41-039-0059,PM2.5 non-FRM/FEM,41,Oregon,44.067224,-123.141352,Residential,Urban and center city,True,True
+41-039-0060,PM2.5 FRM/FEM,41,Oregon,44.026312,-123.083737,Residential,Urban and center city,True,True
+41-039-0060,PM2.5 non-FRM/FEM,41,Oregon,44.026312,-123.083737,Residential,Urban and center city,True,True
+41-039-0100,PM2.5 non-FRM/FEM,41,Oregon,43.989644,-124.109192,Residential,Suburban,True,True
+41-039-0101,PM2.5 FRM/FEM,41,Oregon,44.1158,-123.1211,Residential,Suburban,True,True
+41-039-0101,PM2.5 non-FRM/FEM,41,Oregon,44.1158,-123.1211,Residential,Suburban,True,True
+41-039-1009,PM2.5 non-FRM/FEM,41,Oregon,44.046696,-123.017704,Commercial,Urban and center city,True,True
+41-039-2013,PM10,41,Oregon,43.744352,-122.480487,Residential,Rural,True,True
+41-039-2013,PM2.5 FRM/FEM,41,Oregon,43.744352,-122.480487,Residential,Rural,True,True
+41-039-2013,PM2.5 non-FRM/FEM,41,Oregon,43.744352,-122.480487,Residential,Rural,True,True
+41-039-9004,PM2.5 FRM/FEM,41,Oregon,43.799501,-123.053487,Commercial,Urban and center city,True,True
+41-039-9004,PM2.5 non-FRM/FEM,41,Oregon,43.799501,-123.053487,Commercial,Urban and center city,True,True
+41-043-0009,PM2.5 non-FRM/FEM,41,Oregon,44.61569,-123.091457,Residential,Urban and center city,True,True
+41-043-2002,PM2.5 non-FRM/FEM,41,Oregon,44.3958,-122.7305,Residential,Rural,True,True
+41-047-0004,PM2.5 non-FRM/FEM,41,Oregon,44.81029,-122.915085,Agricultural,Rural,True,True
+41-047-0007,PM2.5 non-FRM/FEM,41,Oregon,45.014998,-122.790382,Residential,Rural,True,True
+41-047-0041,PM2.5 non-FRM/FEM,41,Oregon,44.943114,-123.005934,Residential,Urban and center city,True,True
+41-051-0080,PM2.5 FRM/FEM,41,Oregon,45.496641,-122.602877,Residential,Suburban,True,True
+41-051-0080,PM2.5 non-FRM/FEM,41,Oregon,45.496641,-122.602877,Residential,Suburban,True,True
+41-051-2011,PM2.5 non-FRM/FEM,41,Oregon,45.562192,-122.575705,Residential,Suburban,True,True
+41-059-0121,PM2.5 non-FRM/FEM,41,Oregon,45.652231,-118.823033,Residential,Suburban,True,True
+41-059-1003,PM2.5 non-FRM/FEM,41,Oregon,45.828968,-119.262991,Residential,Suburban,True,True
+41-061-0123,PM2.5 non-FRM/FEM,41,Oregon,45.3235,-118.0778,Residential,Suburban,True,True
+41-063-0001,PM2.5 non-FRM/FEM,41,Oregon,45.426351,-117.296066,Residential,Rural,True,True
+41-065-0007,PM2.5 non-FRM/FEM,41,Oregon,45.602419,-121.203387,Commercial,Urban and center city,True,True
+41-067-0004,PM2.5 FRM/FEM,41,Oregon,45.528501,-122.972398,Residential,Suburban,True,True
+41-067-0004,PM2.5 non-FRM/FEM,41,Oregon,45.528501,-122.972398,Residential,Suburban,True,True
+41-067-0005,PM2.5 FRM/FEM,41,Oregon,45.3992,-122.7455,Commercial,Suburban,True,True
+41-067-0005,PM2.5 non-FRM/FEM,41,Oregon,45.3992,-122.7455,Commercial,Suburban,True,True
+41-067-0111,PM2.5 non-FRM/FEM,41,Oregon,45.470191,-122.816411,Residential,Urban and center city,True,True
+42-001-0001,PM2.5 FRM/FEM,42,Pennsylvania,39.92002,-77.30968,Residential,Rural,True,True
+42-003-0002,PM2.5 FRM/FEM,42,Pennsylvania,40.50084,-80.066488,Residential,Suburban,True,True
+42-003-0008,PM10,42,Pennsylvania,40.46542,-79.960757,Residential,Suburban,True,True
+42-003-0008,PM2.5 FRM/FEM,42,Pennsylvania,40.46542,-79.960757,Residential,Suburban,True,True
+42-003-0008,PMc,42,Pennsylvania,40.46542,-79.960757,Residential,Suburban,True,True
+42-003-0064,PM10,42,Pennsylvania,40.323768,-79.868062,Residential,Suburban,True,True
+42-003-0064,PM2.5 FRM/FEM,42,Pennsylvania,40.323768,-79.868062,Residential,Suburban,True,True
+42-003-1301,PM10,42,Pennsylvania,40.402328,-79.860973,Residential,Suburban,True,True
+42-003-1301,PM2.5 FRM/FEM,42,Pennsylvania,40.402328,-79.860973,Residential,Suburban,True,True
+42-003-3006,PM10,42,Pennsylvania,40.326008,-79.881703,Residential,Suburban,True,True
+42-003-3007,PM2.5 FRM/FEM,42,Pennsylvania,40.294341,-79.885331,Residential,Suburban,True,True
+42-005-0001,PM2.5 FRM/FEM,42,Pennsylvania,40.814183,-79.56475,Commercial,Suburban,True,True
+42-007-0008,PM2.5 FRM/FEM,42,Pennsylvania,40.691857,-80.299211,Residential,Urban and center city,True,True
+42-007-0014,PM2.5 FRM/FEM,42,Pennsylvania,40.747796,-80.316442,Residential,Urban and center city,True,True
+42-011-0011,PM2.5 FRM/FEM,42,Pennsylvania,40.38335,-75.9686,Commercial,Suburban,True,True
+42-013-0801,PM2.5 FRM/FEM,42,Pennsylvania,40.535278,-78.370833,Industrial,Suburban,True,True
+42-021-0011,PM10,42,Pennsylvania,40.309722,-78.915,Commercial,Urban and center city,True,True
+42-021-0011,PM2.5 FRM/FEM,42,Pennsylvania,40.309722,-78.915,Commercial,Urban and center city,True,True
+42-021-0011,PMc,42,Pennsylvania,40.309722,-78.915,Commercial,Urban and center city,True,True
+42-027-0100,PM2.5 FRM/FEM,42,Pennsylvania,40.811389,-77.877028,Agricultural,Rural,True,True
+42-029-0100,PM2.5 FRM/FEM,42,Pennsylvania,39.834461,-75.768242,Commercial,Rural,True,True
+42-041-0101,PM2.5 FRM/FEM,42,Pennsylvania,40.246528,-77.18675,Residential,Rural,True,True
+42-043-0401,PM2.5 FRM/FEM,42,Pennsylvania,40.246992,-76.846988,Commercial,Rural,True,True
+42-043-1100,PM10,42,Pennsylvania,40.272222,-76.681389,Commercial,Urban and center city,True,True
+42-043-1100,PM2.5 FRM/FEM,42,Pennsylvania,40.272222,-76.681389,Commercial,Urban and center city,True,True
+42-043-1100,PMc,42,Pennsylvania,40.272222,-76.681389,Commercial,Urban and center city,True,True
+42-045-0002,PM2.5 FRM/FEM,42,Pennsylvania,39.835556,-75.3725,Industrial,Urban and center city,True,True
+42-045-0109,PM2.5 FRM/FEM,42,Pennsylvania,39.818715,-75.413973,Industrial,Urban and center city,True,True
+42-049-0003,PM2.5 FRM/FEM,42,Pennsylvania,42.14175,-80.038611,Commercial,Suburban,True,True
+42-063-0004,PM2.5 FRM/FEM,42,Pennsylvania,40.56333,-78.919972,Commercial,Rural,True,True
+42-071-0007,PM2.5 FRM/FEM,42,Pennsylvania,40.046667,-76.283333,Industrial,Suburban,True,True
+42-071-0012,PM2.5 FRM/FEM,42,Pennsylvania,40.043833,-76.1124,Agricultural,Suburban,True,True
+42-075-0101,PM2.5 FRM/FEM,42,Pennsylvania,40.338516,-76.394788,Residential,Suburban,True,True
+42-077-0004,PM2.5 FRM/FEM,42,Pennsylvania,40.611944,-75.4325,Commercial,Suburban,True,True
+42-085-0100,PM2.5 FRM/FEM,42,Pennsylvania,41.215014,-80.484779,Commercial,Urban and center city,True,True
+42-091-0013,PM2.5 FRM/FEM,42,Pennsylvania,40.112222,-75.309167,Residential,Suburban,True,True
+42-095-0025,PM2.5 FRM/FEM,42,Pennsylvania,40.628056,-75.341111,Commercial,Suburban,True,True
+42-101-0004,PM2.5 FRM/FEM,42,Pennsylvania,40.008889,-75.09778,Residential,Urban and center city,True,True
+42-101-0048,PM10,42,Pennsylvania,39.991389,-75.080833,Residential,Urban and center city,True,True
+42-101-0048,PM2.5 FRM/FEM,42,Pennsylvania,39.991389,-75.080833,Residential,Urban and center city,True,True
+42-101-0048,PMc,42,Pennsylvania,39.991389,-75.080833,Residential,Urban and center city,True,True
+42-101-0055,PM2.5 FRM/FEM,42,Pennsylvania,39.922867,-75.186921,Residential,Urban and center city,True,True
+42-101-0057,PM2.5 FRM/FEM,42,Pennsylvania,39.960048,-75.142614,Residential,Urban and center city,True,True
+42-101-0075,PM2.5 FRM/FEM,42,Pennsylvania,40.054171,-74.985166,Commercial,Urban and center city,True,True
+42-101-0076,PM2.5 FRM/FEM,42,Pennsylvania,39.988842,-75.207205,Commercial,Urban and center city,True,True
+42-117-4000,PM2.5 FRM/FEM,42,Pennsylvania,41.644722,-76.939167,Forest,Rural,True,True
+42-125-0005,PM2.5 FRM/FEM,42,Pennsylvania,40.146667,-79.902222,Commercial,Suburban,True,True
+42-125-5001,PM2.5 FRM/FEM,42,Pennsylvania,40.445278,-80.420833,Agricultural,Rural,True,True
+42-129-0008,PM2.5 FRM/FEM,42,Pennsylvania,40.304694,-79.505667,Commercial,Suburban,True,True
+42-131-0010,PM2.5 FRM/FEM,42,Pennsylvania,41.605244,-75.95774,Agricultural,Rural,True,True
+42-133-0008,PM2.5 FRM/FEM,42,Pennsylvania,39.965278,-76.699444,Residential,Suburban,True,True
+44-007-0022,PM2.5 FRM/FEM,44,Rhode Island,41.807469,-71.412968,Residential,Urban and center city,True,True
+44-007-0026,PM2.5 FRM/FEM,44,Rhode Island,41.874668,-71.379971,Residential,Urban and center city,True,True
+44-007-0040,PM2.5 FRM/FEM,44,Rhode Island,41.771987,-71.427881,Commercial,Urban and center city,True,True
+44-009-0007,PM2.5 FRM/FEM,44,Rhode Island,41.49511,-71.423705,Residential,Suburban,True,True
+45-019-0020,PM10,45,South Carolina,32.84755,-79.96516,Residential,Urban and center city,True,True
+45-019-0020,PM2.5 FRM/FEM,45,South Carolina,32.84755,-79.96516,Residential,Urban and center city,True,True
+45-019-0046,PM2.5 FRM/FEM,45,South Carolina,32.941023,-79.657187,Forest,Rural,True,True
+45-025-0001,PM2.5 FRM/FEM,45,South Carolina,34.615367,-80.198787,Forest,Rural,True,True
+45-037-0001,PM2.5 FRM/FEM,45,South Carolina,33.739963,-81.853635,Agricultural,Rural,True,True
+45-041-0003,PM2.5 FRM/FEM,45,South Carolina,34.214263,-79.767347,Residential,Suburban,True,True
+45-045-0015,PM10,45,South Carolina,34.843895,-82.414585,Residential,Urban and center city,True,True
+45-045-0015,PM2.5 FRM/FEM,45,South Carolina,34.843895,-82.414585,Residential,Urban and center city,True,True
+45-051-0008,PM2.5 FRM/FEM,45,South Carolina,33.8005,-78.9941,Commercial,Suburban,True,True
+45-079-0007,PM10,45,South Carolina,34.093959,-80.962304,Commercial,Suburban,True,True
+45-079-0007,PM2.5 FRM/FEM,45,South Carolina,34.093959,-80.962304,Commercial,Suburban,True,True
+45-079-0022,PM2.5 FRM/FEM,45,South Carolina,34.075687,-81.124988,Commercial,Suburban,True,True
+45-083-0011,PM2.5 FRM/FEM,45,South Carolina,34.955566,-81.924797,Residential,Urban and center city,True,True
+45-091-8801,PM2.5 FRM/FEM,45,South Carolina,34.9127,-80.8745,Residential,Suburban,True,True
+46-011-0003,PM10,46,South Dakota,44.348604,-96.807299,Agricultural,Rural,True,True
+46-011-0003,PM2.5 FRM/FEM,46,South Dakota,44.348604,-96.807299,Agricultural,Rural,True,True
+46-013-0004,PM10,46,South Dakota,45.468596,-98.494061,Commercial,Urban and center city,True,True
+46-013-0004,PM2.5 FRM/FEM,46,South Dakota,45.468596,-98.494061,Commercial,Urban and center city,True,True
+46-027-0001,PM2.5 FRM/FEM,46,South Dakota,42.78943,-96.90383,Agricultural,Rural,True,True
+46-029-0002,PM10,46,South Dakota,44.89965,-97.128802,Commercial,Urban and center city,True,True
+46-029-0002,PM2.5 FRM/FEM,46,South Dakota,44.89965,-97.128802,Commercial,Urban and center city,True,True
+46-033-0132,PM10,46,South Dakota,43.55764,-103.48386,Forest,Rural,True,True
+46-033-0132,PM2.5 FRM/FEM,46,South Dakota,43.55764,-103.48386,Forest,Rural,True,True
+46-065-0003,PM2.5 FRM/FEM,46,South Dakota,44.373786,-100.287269,Commercial,Suburban,True,True
+46-071-0001,PM10,46,South Dakota,43.74561,-101.941218,Agricultural,Rural,True,True
+46-071-0001,PM2.5 FRM/FEM,46,South Dakota,43.74561,-101.941218,Agricultural,Rural,True,True
+46-093-0001,PM10,46,South Dakota,44.155636,-103.315765,Residential,Suburban,True,True
+46-099-0009,PM10,46,South Dakota,43.59901,-96.78331,Commercial,Urban and center city,True,True
+46-099-0009,PM2.5 FRM/FEM,46,South Dakota,43.59901,-96.78331,Commercial,Urban and center city,True,True
+46-099-0009,PMc,46,South Dakota,43.59901,-96.78331,Commercial,Urban and center city,True,True
+46-103-0020,PM10,46,South Dakota,44.087397,-103.273777,Commercial,Urban and center city,True,True
+46-103-0020,PM2.5 FRM/FEM,46,South Dakota,44.087397,-103.273777,Commercial,Urban and center city,True,True
+47-009-0011,PM2.5 FRM/FEM,47,Tennessee,35.768847,-83.942152,Residential,Suburban,True,True
+47-009-0101,PM2.5 non-FRM/FEM,47,Tennessee,35.63348,-83.941606,Forest,Rural,True,True
+47-037-0023,PM10,47,Tennessee,36.176382,-86.7389,Industrial,Urban and center city,True,True
+47-037-0023,PM2.5 FRM/FEM,47,Tennessee,36.176382,-86.7389,Industrial,Urban and center city,True,True
+47-037-0040,PM2.5 FRM/FEM,47,Tennessee,36.1424,-86.7341,Industrial,Urban and center city,True,True
+47-045-0004,PM2.5 FRM/FEM,47,Tennessee,36.05266,-89.382157,Residential,Suburban,True,True
+47-093-1017,PM2.5 FRM/FEM,47,Tennessee,35.978074,-83.950666,Residential,Urban and center city,True,True
+47-099-0003,PM2.5 FRM/FEM,47,Tennessee,35.116878,-87.419725,Agricultural,Rural,True,True
+47-105-0109,PM2.5 FRM/FEM,47,Tennessee,35.721095,-84.343035,Residential,Suburban,True,True
+47-107-1002,PM2.5 FRM/FEM,47,Tennessee,35.450115,-84.596195,Commercial,Urban and center city,True,True
+47-113-0010,PM2.5 FRM/FEM,47,Tennessee,35.705319,-88.81964,Residential,Suburban,True,True
+47-119-2007,PM2.5 FRM/FEM,47,Tennessee,35.65188,-87.0096,Commercial,Urban and center city,True,True
+47-125-2001,PM2.5 FRM/FEM,47,Tennessee,36.611411,-87.384666,Residential,Suburban,True,True
+47-141-0005,PM2.5 FRM/FEM,47,Tennessee,36.185702,-85.492107,Residential,Suburban,True,True
+47-145-0004,PM2.5 FRM/FEM,47,Tennessee,35.939078,-84.542802,Industrial,Suburban,True,True
+47-157-0024,PM10,47,Tennessee,35.151194,-90.041559,Residential,Suburban,True,True
+47-157-0075,PM10,47,Tennessee,35.151699,-89.850249,Residential,Suburban,True,True
+47-157-0075,PM2.5 FRM/FEM,47,Tennessee,35.151699,-89.850249,Residential,Suburban,True,True
+47-157-0075,PMc,47,Tennessee,35.151699,-89.850249,Residential,Suburban,True,True
+47-163-1007,PM2.5 FRM/FEM,47,Tennessee,36.538761,-82.521599,Residential,Suburban,True,True
+47-165-0007,PM2.5 FRM/FEM,47,Tennessee,36.29756,-86.653137,Industrial,Rural,True,True
+48-013-1090,PM2.5 FRM/FEM,48,Texas,29.162892,-98.589146,Commercial,Rural,True,True
+48-027-1045,PM2.5 FRM/FEM,48,Texas,31.122413,-97.431055,Residential,Suburban,True,True
+48-029-0032,PM2.5 FRM/FEM,48,Texas,29.515061,-98.620211,Residential,Suburban,True,True
+48-029-0059,PM2.5 FRM/FEM,48,Texas,29.275371,-98.3117,Industrial,Rural,True,True
+48-029-1069,PM2.5 FRM/FEM,48,Texas,29.529433,-98.391385,Commercial,Urban and center city,True,True
+48-037-1031,PM2.5 FRM/FEM,48,Texas,33.436223,-94.077756,Residential,Urban and center city,True,True
+48-041-1086,PM2.5 FRM/FEM,48,Texas,30.628336,-96.362821,Commercial,Rural,True,True
+48-043-0101,PM2.5 FRM/FEM,48,Texas,29.30265,-103.17781,Desert,Rural,True,True
+48-061-1098,PM2.5 FRM/FEM,48,Texas,25.900968,-97.507788,Commercial,Urban and center city,True,True
+48-061-2004,PM2.5 FRM/FEM,48,Texas,26.071097,-97.15773,Commercial,Rural,True,True
+48-113-0050,PM2.5 FRM/FEM,48,Texas,32.774258,-96.797678,Commercial,Urban and center city,True,True
+48-121-0034,PM2.5 FRM/FEM,48,Texas,33.219074,-97.196296,Commercial,Rural,True,True
+48-135-1014,PM2.5 FRM/FEM,48,Texas,31.870261,-102.334748,Residential,Suburban,True,True
+48-141-0044,PM2.5 FRM/FEM,48,Texas,31.765684,-106.455227,Commercial,Urban and center city,True,True
+48-141-0044,PMc,48,Texas,31.765684,-106.455227,Commercial,Urban and center city,True,True
+48-167-1034,PM2.5 FRM/FEM,48,Texas,29.25447,-94.861278,Commercial,Suburban,True,True
+48-201-0024,PM2.5 FRM/FEM,48,Texas,29.90103,-95.326147,Residential,Suburban,True,True
+48-201-0046,PM2.5 FRM/FEM,48,Texas,29.828516,-95.283956,Residential,Suburban,True,True
+48-201-0055,PM2.5 FRM/FEM,48,Texas,29.69566,-95.49924,Residential,Suburban,True,True
+48-201-0058,PM2.5 FRM/FEM,48,Texas,29.770692,-95.031237,Residential,Suburban,True,True
+48-201-0066,PM2.5 FRM/FEM,48,Texas,29.723333,-95.635941,Industrial,Suburban,True,True
+48-201-1034,PM2.5 FRM/FEM,48,Texas,29.768033,-95.220574,Commercial,Suburban,True,True
+48-201-1039,PM10,48,Texas,29.670552,-95.129933,Residential,Urban and center city,True,True
+48-201-1039,PM2.5 FRM/FEM,48,Texas,29.670552,-95.129933,Residential,Urban and center city,True,True
+48-201-1039,PMc,48,Texas,29.670552,-95.129933,Residential,Urban and center city,True,True
+48-201-1050,PM2.5 FRM/FEM,48,Texas,29.583068,-95.015554,Residential,Suburban,True,True
+48-201-1052,PM2.5 FRM/FEM,48,Texas,29.814387,-95.387817,Residential,Urban and center city,True,True
+48-203-0002,PM2.5 FRM/FEM,48,Texas,32.669005,-94.167468,Agricultural,Rural,True,True
+48-215-1046,PM2.5 FRM/FEM,48,Texas,26.288486,-98.152059,Commercial,Urban and center city,True,True
+48-245-0021,PM2.5 FRM/FEM,48,Texas,29.922894,-93.909018,Residential,Suburban,True,True
+48-245-0022,PM2.5 FRM/FEM,48,Texas,29.863962,-94.317802,Residential,Suburban,True,True
+48-257-0005,PM2.5 FRM/FEM,48,Texas,32.564967,-96.317683,Commercial,Suburban,True,True
+48-303-1028,PM2.5 FRM/FEM,48,Texas,33.585565,-101.786968,Commercial,Urban and center city,True,True
+48-309-1037,PM2.5 non-FRM/FEM,48,Texas,31.653084,-97.070699,Commercial,Rural,True,True
+48-323-0004,PM2.5 FRM/FEM,48,Texas,28.704629,-100.451154,Residential,Urban and center city,True,True
+48-339-0078,PM2.5 FRM/FEM,48,Texas,30.350325,-95.425137,Commercial,Suburban,True,True
+48-349-1051,PM2.5 FRM/FEM,48,Texas,32.031946,-96.399147,Commercial,Rural,True,True
+48-355-0032,PM2.5 FRM/FEM,48,Texas,27.804489,-97.431528,Residential,Urban and center city,True,True
+48-361-1100,PM2.5 FRM/FEM,48,Texas,30.194167,-93.866944,Residential,Suburban,True,True
+48-439-1002,PM2.5 FRM/FEM,48,Texas,32.805816,-97.356526,Commercial,Urban and center city,True,True
+48-439-1006,PM2.5 FRM/FEM,48,Texas,32.759148,-97.342323,Commercial,Urban and center city,True,True
+48-439-1053,PM2.5 FRM/FEM,48,Texas,32.664758,-97.337905,Residential,Urban and center city,True,True
+48-453-0014,PM2.5 FRM/FEM,48,Texas,30.354934,-97.761737,Residential,Suburban,True,True
+48-453-1068,PM2.5 FRM/FEM,48,Texas,30.35384,-97.691587,Commercial,Urban and center city,True,True
+48-479-0313,PM2.5 FRM/FEM,48,Texas,27.599587,-99.53341,Residential,Suburban,True,True
+49-003-0005,PM2.5 FRM/FEM,49,Utah,41.485007,-112.021476,Residential,Suburban,True,True
+49-005-0007,PM2.5 FRM/FEM,49,Utah,41.842649,-111.852199,Residential,Rural,True,True
+49-007-1003,PM2.5 FRM/FEM,49,Utah,39.59575,-110.770111,Residential,Suburban,True,True
+49-011-0004,PM2.5 FRM/FEM,49,Utah,40.902967,-111.884467,Residential,Suburban,True,True
+49-013-0002,PM10,49,Utah,40.294178,-110.009732,Residential,Suburban,True,True
+49-013-0002,PM2.5 FRM/FEM,49,Utah,40.294178,-110.009732,Residential,Suburban,True,True
+49-019-0007,PM2.5 FRM/FEM,49,Utah,38.566055,-109.53716,Commercial,Suburban,True,True
+49-021-0005,PM2.5 FRM/FEM,49,Utah,37.74743,-113.055525,Residential,Rural,True,True
+49-035-2005,PM2.5 FRM/FEM,49,Utah,40.598056,-111.894167,Residential,Suburban,True,True
+49-035-3006,PM10,49,Utah,40.736389,-111.872222,Residential,Suburban,True,True
+49-035-3006,PM2.5 FRM/FEM,49,Utah,40.736389,-111.872222,Residential,Suburban,True,True
+49-035-3006,PMc,49,Utah,40.736389,-111.872222,Residential,Suburban,True,True
+49-035-3010,PM2.5 FRM/FEM,49,Utah,40.78422,-111.931,Residential,Suburban,True,True
+49-035-3013,PM10,49,Utah,40.496392,-112.036298,Residential,Suburban,True,True
+49-035-3013,PM2.5 FRM/FEM,49,Utah,40.496392,-112.036298,Residential,Suburban,True,True
+49-035-3014,PM2.5 FRM/FEM,49,Utah,40.709762,-112.00876,Commercial,Urban and center city,True,True
+49-035-3015,PM10,49,Utah,40.777145,-111.945849,Residential,Urban and center city,True,True
+49-035-3015,PM2.5 FRM/FEM,49,Utah,40.777145,-111.945849,Residential,Urban and center city,True,True
+49-035-3016,PM2.5 FRM/FEM,49,Utah,40.807897,-112.087717,Industrial,Urban and center city,True,True
+49-045-0004,PM2.5 FRM/FEM,49,Utah,40.60055,-112.35578,Commercial,Rural,True,True
+49-047-1004,PM2.5 FRM/FEM,49,Utah,40.46471,-109.561472,Residential,Urban and center city,True,True
+49-049-4001,PM10,49,Utah,40.341389,-111.713611,Residential,Suburban,True,True
+49-049-4001,PM2.5 FRM/FEM,49,Utah,40.341389,-111.713611,Residential,Suburban,True,True
+49-049-5010,PM2.5 FRM/FEM,49,Utah,40.136378,-111.657936,Industrial,Suburban,True,True
+49-053-0007,PM2.5 FRM/FEM,49,Utah,37.179125,-113.305096,Residential,Rural,True,True
+49-057-1003,PM10,49,Utah,41.303614,-111.987871,Residential,Rural,True,True
+49-057-1003,PM2.5 FRM/FEM,49,Utah,41.303614,-111.987871,Residential,Rural,True,True
+50-003-0004,PM2.5 FRM/FEM,50,Vermont,42.88759,-73.24984,Agricultural,Rural,True,True
+50-007-0007,PM2.5 FRM/FEM,50,Vermont,44.52839,-72.86884,Forest,Rural,True,True
+50-021-0002,PM2.5 FRM/FEM,50,Vermont,43.608056,-72.982778,Commercial,Urban and center city,True,True
+51-003-0001,PM2.5 FRM/FEM,51,Virginia,38.07657,-78.50397,Residential,Suburban,True,True
+51-036-0002,PM2.5 FRM/FEM,51,Virginia,37.34438,-77.25925,Residential,Suburban,True,True
+51-059-0030,PM10,51,Virginia,38.77335,-77.10468,Residential,Suburban,True,True
+51-059-0030,PM2.5 FRM/FEM,51,Virginia,38.77335,-77.10468,Residential,Suburban,True,True
+51-059-0031,PM2.5 FRM/FEM,51,Virginia,38.76835,-77.18347,Commercial,Urban and center city,True,True
+51-069-0010,PM10,51,Virginia,39.28102,-78.08157,Agricultural,Rural,True,True
+51-069-0010,PM2.5 FRM/FEM,51,Virginia,39.28102,-78.08157,Agricultural,Rural,True,True
+51-087-0014,PM10,51,Virginia,37.55652,-77.40027,Residential,Suburban,True,True
+51-087-0014,PM2.5 FRM/FEM,51,Virginia,37.55652,-77.40027,Residential,Suburban,True,True
+51-087-0014,PMc,51,Virginia,37.55652,-77.40027,Residential,Suburban,True,True
+51-161-1004,PM2.5 FRM/FEM,51,Virginia,37.28342,-79.88452,Residential,Suburban,True,True
+51-650-0008,PM10,51,Virginia,37.103733,-76.387017,Military reservation,Suburban,True,True
+51-650-0008,PM2.5 FRM/FEM,51,Virginia,37.103733,-76.387017,Military reservation,Suburban,True,True
+51-760-0025,PM2.5 FRM/FEM,51,Virginia,37.59088,-77.46925,Residential,Urban and center city,True,True
+51-810-0008,PM10,51,Virginia,36.841883,-76.181233,Commercial,Suburban,True,True
+51-810-0008,PM2.5 FRM/FEM,51,Virginia,36.841883,-76.181233,Commercial,Suburban,True,True
+53-001-0003,PM2.5 non-FRM/FEM,53,Washington,47.12,-118.3819,Commercial,Rural,True,True
+53-003-0004,PM2.5 non-FRM/FEM,53,Washington,46.425416,-117.060445,Industrial,Suburban,True,True
+53-005-0002,PM10,53,Washington,46.21835,-119.204153,Residential,Urban and center city,True,True
+53-005-0002,PM2.5 non-FRM/FEM,53,Washington,46.21835,-119.204153,Residential,Urban and center city,True,True
+53-005-0004,PM2.5 non-FRM/FEM,53,Washington,46.2089,-119.75267,Residential,Suburban,True,True
+53-007-0007,PM2.5 non-FRM/FEM,53,Washington,47.83861,-120.023076,Commercial,Rural,True,True
+53-007-0010,PM2.5 non-FRM/FEM,53,Washington,47.598863,-120.664702,Residential,Suburban,True,True
+53-007-0011,PM2.5 non-FRM/FEM,53,Washington,47.43061,-120.34195,Residential,Urban and center city,True,True
+53-009-0015,PM2.5 non-FRM/FEM,53,Washington,48.366058,-124.610045,Commercial,Urban and center city,True,True
+53-009-0017,PM2.5 non-FRM/FEM,53,Washington,48.115,-123.436434,Residential,Suburban,True,True
+53-011-0022,PM2.5 non-FRM/FEM,53,Washington,45.8639,-122.410889,Commercial,Rural,True,True
+53-011-0024,PM2.5 FRM/FEM,53,Washington,45.64336,-122.58737,Residential,Suburban,True,True
+53-013-0002,PM2.5 non-FRM/FEM,53,Washington,46.318,-117.985,Agricultural,Rural,True,True
+53-015-0015,PM2.5 non-FRM/FEM,53,Washington,46.139444,-122.961944,Residential,Suburban,True,True
+53-021-0002,PM2.5 non-FRM/FEM,53,Washington,46.5754,-119.0021,Desert,Rural,True,True
+53-023-0001,PM2.5 non-FRM/FEM,53,Washington,46.474438,-117.614764,Commercial,Suburban,True,True
+53-025-1002,PM2.5 non-FRM/FEM,53,Washington,47.1303,-119.2737,Commercial,Urban and center city,True,True
+53-025-1003,PM2.5 non-FRM/FEM,53,Washington,47.241153,-119.847824,Residential,Urban and center city,True,True
+53-027-0011,PM2.5 non-FRM/FEM,53,Washington,47.3442,-124.2879,Residential,Rural,True,True
+53-027-2002,PM2.5 non-FRM/FEM,53,Washington,46.97228,-123.83173,Residential,Suburban,True,True
+53-031-0003,PM2.5 non-FRM/FEM,53,Washington,48.12919,-122.77897,Residential,Suburban,True,True
+53-033-0017,PM2.5 non-FRM/FEM,53,Washington,47.49022,-121.77278,Residential,Rural,True,True
+53-033-0024,PM2.5 non-FRM/FEM,53,Washington,47.755,-122.2806,Commercial,Suburban,True,True
+53-033-0031,PM2.5 non-FRM/FEM,53,Washington,47.600863,-122.148397,Residential,Suburban,True,True
+53-033-0047,PM2.5 non-FRM/FEM,53,Washington,47.2814,-122.2233,Residential,Suburban,True,True
+53-033-0057,PM2.5 FRM/FEM,53,Washington,47.55975,-122.338265,Industrial,Suburban,True,True
+53-033-0069,PM2.5 FRM/FEM,53,Washington,47.498535,-122.278385,Residential,Suburban,True,True
+53-033-1011,PM2.5 non-FRM/FEM,53,Washington,47.53091,-122.3208,Residential,Urban and center city,True,True
+53-035-0007,PM2.5 FRM/FEM,53,Washington,47.592675,-122.627397,Residential,Suburban,True,True
+53-037-0002,PM2.5 FRM/FEM,53,Washington,46.99364,-120.545,Commercial,Urban and center city,True,True
+53-037-0002,PM2.5 non-FRM/FEM,53,Washington,46.99364,-120.545,Commercial,Urban and center city,True,True
+53-041-0004,PM2.5 non-FRM/FEM,53,Washington,46.66409,-122.96732,Residential,Urban and center city,True,True
+53-045-0007,PM2.5 non-FRM/FEM,53,Washington,47.21355,-123.10081,Commercial,Urban and center city,True,True
+53-047-0013,PM2.5 FRM/FEM,53,Washington,48.39999,-119.51896,Residential,Suburban,True,True
+53-053-0024,PM2.5 FRM/FEM,53,Washington,47.22634,-122.46256,Residential,Urban and center city,True,True
+53-053-0029,PM2.5 FRM/FEM,53,Washington,47.1864,-122.4517,Commercial,Suburban,True,True
+53-053-0031,PM2.5 FRM/FEM,53,Washington,47.2656,-122.3858,Industrial,Suburban,True,True
+53-057-0011,PM2.5 FRM/FEM,53,Washington,48.52059,-122.61428,Commercial,Urban and center city,True,True
+53-057-0015,PM2.5 non-FRM/FEM,53,Washington,48.4102,-122.3376,Residential,Suburban,True,True
+53-061-0020,PM2.5 FRM/FEM,53,Washington,48.2469,-121.6031,Residential,Urban and center city,True,True
+53-061-1007,PM2.5 FRM/FEM,53,Washington,48.054315,-122.171529,Residential,Suburban,True,True
+53-063-0017,PM10,53,Washington,47.663962,-117.257654,Residential,Suburban,True,True
+53-063-0017,PM2.5 FRM/FEM,53,Washington,47.663962,-117.257654,Residential,Suburban,True,True
+53-063-0047,PM2.5 non-FRM/FEM,53,Washington,47.69978,-117.42635,Commercial,Urban and center city,True,True
+53-065-0002,PM2.5 non-FRM/FEM,53,Washington,47.88528,-117.98865,Agricultural,Suburban,True,True
+53-065-0005,PM10,53,Washington,48.544448,-117.903425,Residential,Urban and center city,True,True
+53-065-0005,PM2.5 FRM/FEM,53,Washington,48.544448,-117.903425,Residential,Urban and center city,True,True
+53-065-0005,PM2.5 non-FRM/FEM,53,Washington,48.544448,-117.903425,Residential,Urban and center city,True,True
+53-071-0005,PM2.5 non-FRM/FEM,53,Washington,46.05881,-118.35147,Commercial,Suburban,True,True
+53-071-0006,PM10,53,Washington,46.199901,-119.008329,Residential,Suburban,True,True
+53-073-0019,PM2.5 FRM/FEM,53,Washington,48.760036,-122.456463,Commercial,Suburban,True,True
+53-075-0003,PM2.5 non-FRM/FEM,53,Washington,46.72447,-117.18014,Residential,Suburban,True,True
+53-075-0005,PM2.5 non-FRM/FEM,53,Washington,46.8153,-117.8739,Agricultural,Rural,True,True
+53-075-0006,PM2.5 non-FRM/FEM,53,Washington,47.23136,-117.36856,Residential,Urban and center city,True,True
+53-077-0005,PM2.5 FRM/FEM,53,Washington,46.31932,-119.999677,Residential,Suburban,True,True
+53-077-0009,PM10,53,Washington,46.594952,-120.512283,Commercial,Urban and center city,True,True
+53-077-0009,PM2.5 FRM/FEM,53,Washington,46.594952,-120.512283,Commercial,Urban and center city,True,True
+53-077-0015,PM2.5 FRM/FEM,53,Washington,46.38024,-120.33266,Residential,Urban and center city,True,True
+54-009-0011,PM10,54,West Virginia,40.394651,-80.611813,Residential,Suburban,True,True
+54-029-0009,PM10,54,West Virginia,40.427372,-80.592318,Residential,Suburban,True,True
+54-039-0020,PM2.5 FRM/FEM,54,West Virginia,38.346258,-81.621161,Commercial,Urban and center city,True,True
+54-051-1002,PM2.5 FRM/FEM,54,West Virginia,39.915961,-80.733858,Residential,Suburban,True,True
+55-003-0010,PM2.5 FRM/FEM,55,Wisconsin,46.60234,-90.65615,Residential,Suburban,True,True
+55-009-0005,PM2.5 FRM/FEM,55,Wisconsin,44.50729,-87.99344,Residential,Urban and center city,True,True
+55-025-0041,PM2.5 FRM/FEM,55,Wisconsin,43.10101,-89.35768,Commercial,Urban and center city,True,True
+55-025-0047,PM10,55,Wisconsin,43.0733,-89.4358,Residential,Urban and center city,True,True
+55-025-0047,PM2.5 FRM/FEM,55,Wisconsin,43.0733,-89.4358,Residential,Urban and center city,True,True
+55-025-0047,PMc,55,Wisconsin,43.0733,-89.4358,Residential,Urban and center city,True,True
+55-027-0001,PM10,55,Wisconsin,43.46611,-88.62111,Agricultural,Rural,True,True
+55-027-0001,PM2.5 FRM/FEM,55,Wisconsin,43.46611,-88.62111,Agricultural,Rural,True,True
+55-027-0001,PMc,55,Wisconsin,43.46611,-88.62111,Agricultural,Rural,True,True
+55-035-0014,PM10,55,Wisconsin,44.76249,-91.41445,Industrial,Suburban,True,True
+55-035-0014,PM2.5 FRM/FEM,55,Wisconsin,44.76249,-91.41445,Industrial,Suburban,True,True
+55-035-0014,PMc,55,Wisconsin,44.76249,-91.41445,Industrial,Suburban,True,True
+55-041-0007,PM2.5 FRM/FEM,55,Wisconsin,45.56498,-88.80859,Forest,Rural,True,True
+55-043-0009,PM2.5 FRM/FEM,55,Wisconsin,42.69302,-90.69813,Agricultural,Rural,True,True
+55-059-0019,PM2.5 FRM/FEM,55,Wisconsin,42.50472,-87.8093,Residential,Rural,True,True
+55-079-0010,PM2.5 FRM/FEM,55,Wisconsin,43.01724,-87.93369,Commercial,Urban and center city,True,True
+55-081-2001,PM2.5 FRM/FEM,55,Wisconsin,44.020855,-90.40164,Residential,Rural,True,True
+55-087-0009,PM2.5 FRM/FEM,55,Wisconsin,44.30738,-88.39509,Residential,Suburban,True,True
+55-089-0009,PM2.5 FRM/FEM,55,Wisconsin,43.4983,-87.8102,Agricultural,Rural,True,True
+55-111-0007,PM10,55,Wisconsin,43.4351,-89.67979,Forest,Rural,True,True
+55-111-0007,PM2.5 FRM/FEM,55,Wisconsin,43.4351,-89.67979,Forest,Rural,True,True
+55-111-0007,PMc,55,Wisconsin,43.4351,-89.67979,Forest,Rural,True,True
+55-133-0027,PM10,55,Wisconsin,43.020075,-88.21507,Residential,Urban and center city,True,True
+55-133-0027,PM2.5 FRM/FEM,55,Wisconsin,43.020075,-88.21507,Residential,Urban and center city,True,True
+55-133-0027,PMc,55,Wisconsin,43.020075,-88.21507,Residential,Urban and center city,True,True
+56-001-0008,PM10,56,Wyoming,41.4945,-105.561944,Industrial,Rural,True,True
+56-001-0009,PM10,56,Wyoming,41.454278,-105.597028,Industrial,Rural,True,True
+56-001-0012,PM2.5 FRM/FEM,56,Wyoming,41.308825,-105.54913,Commercial,Suburban,True,True
+56-001-0800,PM10,56,Wyoming,41.26917,-105.59444,Industrial,Suburban,True,True
+56-001-0801,PM10,56,Wyoming,41.27444,-105.60167,Industrial,Suburban,True,True
+56-005-0015,PM10,56,Wyoming,43.79,-105.37,Industrial,Rural,True,True
+56-005-0017,PM10,56,Wyoming,44.4708,-105.5791,Agricultural,Rural,True,True
+56-005-0084,PM10,56,Wyoming,43.638927,-105.36983,Industrial,Rural,True,True
+56-005-0086,PM10,56,Wyoming,43.571828,-105.153997,Industrial,Rural,True,True
+56-005-0087,PM10,56,Wyoming,43.61752,-105.19231,Industrial,Rural,True,True
+56-005-0808,PM10,56,Wyoming,44.394238,-105.530904,Industrial,Rural,True,True
+56-005-0826,PM10,56,Wyoming,44.402188,-105.452188,Industrial,Rural,True,True
+56-005-0886,PM10,56,Wyoming,44.112949,-105.310915,Industrial,Rural,True,False
+56-005-0891,PM10,56,Wyoming,43.6483,-105.2133,Industrial,Rural,True,True
+56-005-0893,PM10,56,Wyoming,44.070153,-105.469895,Industrial,Rural,True,True
+56-005-0895,PM10,56,Wyoming,44.42515,-105.473081,Industrial,Rural,True,True
+56-005-0898,PM10,56,Wyoming,44.141083,-105.460618,Industrial,Rural,True,True
+56-005-0908,PM10,56,Wyoming,44.152375,-105.323752,Industrial,Rural,True,True
+56-005-1002,PM2.5 FRM/FEM,56,Wyoming,44.288005,-105.517022,Commercial,Urban and center city,True,True
+56-005-1899,PM10,56,Wyoming,44.502675,-105.539763,Industrial,Rural,True,True
+56-005-1906,PM10,56,Wyoming,44.355613,-105.565892,Industrial,Rural,True,True
+56-005-2900,PM10,56,Wyoming,44.33763,-105.494,Industrial,Rural,True,True
+56-005-2901,PM10,56,Wyoming,44.3904,-105.5453,Commercial,Suburban,True,True
+56-005-5555,PM10,56,Wyoming,44.34375,-105.403333,Industrial,Rural,True,True
+56-005-6666,PM10,56,Wyoming,44.295496,-105.368761,Industrial,Rural,True,True
+56-009-0009,PM10,56,Wyoming,43.42542,-105.388566,Industrial,Rural,True,True
+56-009-0010,PM10,56,Wyoming,43.101281,-105.498931,Industrial,Rural,True,True
+56-009-0850,PM10,56,Wyoming,43.46096,-105.331263,Industrial,Rural,True,True
+56-009-0851,PM10,56,Wyoming,43.474688,-105.310319,Industrial,Rural,True,True
+56-013-0099,PM2.5 FRM/FEM,56,Wyoming,42.529999,-108.720003,Forest,Rural,True,True
+56-013-0232,PM10,56,Wyoming,43.081667,-107.549444,Industrial,Rural,True,True
+56-013-0232,PM2.5 FRM/FEM,56,Wyoming,43.081667,-107.549444,Industrial,Rural,True,True
+56-013-0232,PMc,56,Wyoming,43.081667,-107.549444,Industrial,Rural,True,True
+56-013-1003,PM2.5 FRM/FEM,56,Wyoming,42.842168,-108.736281,Residential,Suburban,True,True
+56-019-0004,PM10,56,Wyoming,43.87483,-106.50974,Agricultural,Rural,True,True
+56-021-0100,PM10,56,Wyoming,41.182227,-104.778334,Residential,Suburban,True,True
+56-021-0100,PM2.5 FRM/FEM,56,Wyoming,41.182227,-104.778334,Residential,Suburban,True,True
+56-021-0100,PMc,56,Wyoming,41.182227,-104.778334,Residential,Suburban,True,True
+56-023-0800,PM10,56,Wyoming,41.6914,-110.6092,Industrial,Rural,True,True
+56-023-0814,PM10,56,Wyoming,41.7733,-110.6297,Industrial,Rural,True,True
+56-023-0820,PM10,56,Wyoming,41.7575,-110.57833,Industrial,Rural,True,True
+56-025-0100,PM2.5 FRM/FEM,56,Wyoming,42.82231,-106.36501,Residential,Suburban,True,True
+56-029-0001,PM2.5 FRM/FEM,56,Wyoming,44.524568,-109.06926,Residential,Suburban,True,True
+56-031-0805,PM10,56,Wyoming,42.112266,-104.86819,Industrial,Rural,True,False
+56-033-0002,PM10,56,Wyoming,44.815142,-106.955933,Commercial,Urban and center city,True,True
+56-033-0002,PM2.5 FRM/FEM,56,Wyoming,44.815142,-106.955933,Commercial,Urban and center city,True,True
+56-035-0099,PM10,56,Wyoming,42.719,-109.753,Industrial,Rural,True,True
+56-035-0100,PM10,56,Wyoming,42.7907,-110.0551,Desert,Rural,True,True
+56-035-0101,PM2.5 FRM/FEM,56,Wyoming,42.869824,-109.87076,Residential,Suburban,True,True
+56-037-0007,PM2.5 FRM/FEM,56,Wyoming,41.592536,-109.220852,Residential,Urban and center city,True,True
+56-037-0012,PM10,56,Wyoming,41.584957,-109.769957,Industrial,Rural,True,True
+56-037-0014,PM10,56,Wyoming,41.6043,-109.755297,Industrial,Rural,True,True
+56-037-0027,PM10,56,Wyoming,41.639944,-108.580391,Industrial,Rural,True,True
+56-037-0028,PM10,56,Wyoming,41.593611,-109.71115,Industrial,Rural,True,True
+56-037-0200,PM10,56,Wyoming,41.677667,-108.024835,Desert,Rural,True,True
+56-037-0300,PM10,56,Wyoming,41.750556,-109.788333,Desert,Rural,True,True
+56-037-0812,PM10,56,Wyoming,41.709662,-109.713239,Desert,Rural,True,True
+56-037-0851,PM10,56,Wyoming,41.741013,-108.770861,Industrial,Rural,True,True
+56-037-0860,PM10,56,Wyoming,41.792583,-108.729601,Industrial,Rural,True,True
+56-037-0867,PM10,56,Wyoming,41.749544,-108.670746,Industrial,Rural,True,True
+56-037-0868,PM10,56,Wyoming,41.62413,-108.614496,Industrial,Rural,True,True
+56-037-0898,PM10,56,Wyoming,41.735325,-109.640283,Desert,Rural,True,True
+56-037-0901,PM10,56,Wyoming,41.735735,-108.790862,Industrial,Rural,True,True
+56-037-1236,PM10,56,Wyoming,41.61487,-108.753826,Industrial,Rural,True,True
+56-037-1414,PM10,56,Wyoming,41.521672,-108.662222,Industrial,Rural,True,True
+56-037-1868,PM10,56,Wyoming,41.647036,-108.632466,Industrial,Rural,True,True
+56-039-1006,PM10,56,Wyoming,43.45776,-110.79799,Commercial,Suburban,True,True
+56-039-1006,PM2.5 FRM/FEM,56,Wyoming,43.45776,-110.79799,Commercial,Suburban,True,True
+56-039-1013,PM2.5 FRM/FEM,56,Wyoming,44.373056,-110.830833,Forest,Rural,True,True
+56-041-0200,PM10,56,Wyoming,41.407517,-110.678433,Industrial,Rural,True,True

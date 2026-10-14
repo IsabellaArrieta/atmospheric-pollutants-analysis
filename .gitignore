@@ -13,3 +13,7 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Pipeline caches (rebuilt by paper_pipeline/01_build_dataset.py)
+table_csv/*.parquet
+table_csv/raw/
